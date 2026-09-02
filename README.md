@@ -6,7 +6,9 @@ blue, N green, the Czech Step by Step convention). All four genders are covered 
 
 - `index.html` – the page: cards grouped by topic, level filter (A1 default, A2, both;
   the A2 decks load on demand), gender filter (Ma, Mi, F, N),
-  show/hide Czech or English, tap a card to reveal. The 🔊 button is hidden
+  show/hide Czech or English, tap a card to reveal; cards with an irregular declension (a noted genitive or
+  plural, plural-only, adjective-declined, indeclinable) have a pale yellow tint and
+  show their pattern on hover. The 🔊 button is hidden
   (`AUDIO = false`) until pre-recorded clips replace browser speech. Filters live in the query string so views can be
   bookmarked, e.g. `?level=a2&gender=f&mode=hide-en#t-food`.
 - `words.js` – shared helpers and the pilot deck.
