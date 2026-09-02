@@ -114,15 +114,15 @@
   </div>
   <div class="genders" role="group" aria-label="Gender" id="genders">
     <button data-gender="all" aria-pressed="true">Vše</button>
-    <button data-gender="f"  style="--c: var(--g-f)"  aria-pressed="false">F &middot; ženský</button>
     <button data-gender="ma" style="--c: var(--g-ma)" aria-pressed="false">Ma &middot; mužský životný</button>
     <button data-gender="mi" style="--c: var(--g-mi)" aria-pressed="false">Mi &middot; mužský neživotný</button>
+    <button data-gender="f"  style="--c: var(--g-f)"  aria-pressed="false">F &middot; ženský</button>
     <button data-gender="n"  style="--c: var(--g-n)"  aria-pressed="false">N &middot; střední</button>
   </div>
   <nav class="topics" id="topicnav"></nav>
 </header>
 <main id="deck"></main>
-<footer><span id="count"></span> nouns for A1 Czech &middot; colours follow the textbook convention (F red, Ma dark blue, Mi light blue, N green) &middot; pictures are inline SVG &middot; decks live in <code>words/</code>.</footer>
+<footer><span id="count"></span> nouns for A1 Czech &middot; colours follow the textbook convention (Ma dark blue, Mi light blue, F red, N green) &middot; pictures are inline SVG &middot; decks live in <code>words/</code>.</footer>
 
 <script src="words.js"></script>
 <script src="words/family.js"></script>
@@ -182,7 +182,10 @@
   const deck = document.getElementById('deck');
   let mode = 'both';
   let gender = 'all';
-  let order = WORDS.map((_, i) => i);
+  // Traditional grammar order: masculine animate, masculine inanimate, feminine, neuter.
+  const GENDER_ORDER = { ma: 0, mi: 1, f: 2, n: 3 };
+  const byGender = (a, b) => GENDER_ORDER[WORDS[a].gender || 'f'] - GENDER_ORDER[WORDS[b].gender || 'f'];
+  let order = WORDS.map((_, i) => i).sort(byGender);
 
   function makeCard(w) {
     const card = document.createElement('article');
@@ -255,6 +258,7 @@
       const j = Math.floor(Math.random() * (i + 1));
       [order[i], order[j]] = [order[j], order[i]];
     }
+    order.sort(byGender);   // shuffle within each gender, keep Ma, Mi, F, N order
     render();
   });
 
