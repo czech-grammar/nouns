@@ -22,7 +22,7 @@ page = f'''<!doctype html><meta charset="utf-8"><style>
   svg{{width:150px;height:125px;display:block;margin:0 auto}} b{{display:block;font-size:26px;color:var(--g);margin-top:2px}}
   .dots{{position:absolute;right:60px;top:52px;display:flex;gap:10px}} .dots span{{width:26px;height:26px;border-radius:8px;display:block}}
 </style>
-<div class="head"><h1>Česká slovíčka</h1><p>A1 Czech nouns as picture cards &middot; {len(by)} words &middot; colour-coded by gender</p></div>
+<div class="head"><h1>Česká slovíčka</h1><p>A1 and A2 Czech nouns as picture cards &middot; {len(by)} words &middot; colour-coded by gender</p></div>
 <div class="dots"><span style="background:#11457e"></span><span style="background:#4fa3e3"></span><span style="background:#d7141a"></span><span style="background:#2e9e4f"></span></div>
 <div class="g">{cards}</div>'''
 hp = os.path.join(OUT, 'og.html'); open(hp, 'w', encoding='utf8').write(page)

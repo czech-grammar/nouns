@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Česká slovíčka – Czech flash cards</title>
-<meta name="description" content="A1 Czech nouns as child-friendly picture flash cards, Czech to English, colour-coded by gender (Ma, Mi, F, N).">
+<meta name="description" content="A1 and A2 Czech nouns as child-friendly picture flash cards, Czech to English, colour-coded by gender (Ma, Mi, F, N).">
 <link rel="canonical" href="https://grammar.ilearnczech.com/nouns/">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#fff7ea">
@@ -13,14 +13,14 @@
 <meta property="og:locale" content="en">
 <meta property="og:url" content="https://grammar.ilearnczech.com/nouns/">
 <meta property="og:title" content="Česká slovíčka – Czech noun flash cards">
-<meta property="og:description" content="A1 Czech nouns as child-friendly picture flash cards, Czech to English, colour-coded by gender (Ma, Mi, F, N).">
+<meta property="og:description" content="A1 and A2 Czech nouns as child-friendly picture flash cards, Czech to English, colour-coded by gender (Ma, Mi, F, N).">
 <meta property="og:image" content="https://grammar.ilearnczech.com/nouns/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Twelve Czech picture cards: muž, pes, dům, vlak, žena, kočka, kniha, škola, dítě, auto, jablko, slunce">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Česká slovíčka – Czech noun flash cards">
-<meta name="twitter:description" content="A1 Czech nouns as child-friendly picture flash cards, colour-coded by gender.">
+<meta name="twitter:description" content="A1 and A2 Czech nouns as child-friendly picture flash cards, colour-coded by gender.">
 <meta name="twitter:image" content="https://grammar.ilearnczech.com/nouns/og.png">
 <style>
   :root {
@@ -111,6 +111,8 @@
   .genders button { border: 2px solid var(--c, var(--ink)); background: var(--card); color: var(--c, var(--ink)); border-radius: 999px; padding: 6px 14px; font: inherit; font-weight: 800; cursor: pointer; }
   .genders button[aria-pressed="true"] { background: var(--c, var(--ink)); color: #fff; }
   .genders button:disabled { opacity: .35; cursor: default; }
+  .genders .levels { display: inline-flex; gap: 4px; margin-right: 10px; padding-right: 12px; border-right: 2px solid #e8d8be; }
+  .genders .levels button { --c: #6b6b6b; padding: 6px 12px; }
   .say {
     margin-top: 8px;
     border: none; background: #f1e6d4; border-radius: 999px;
@@ -132,6 +134,11 @@
     <button id="shuffle">Shuffle</button>
   </div>
   <div class="genders" role="group" aria-label="Gender" id="genders">
+    <span class="levels" role="group" aria-label="Level" id="levels">
+      <button data-level="a1" aria-pressed="true">A1</button>
+      <button data-level="a2" aria-pressed="false">A2</button>
+      <button data-level="all" aria-pressed="false">Vše</button>
+    </span>
     <button data-gender="all" aria-pressed="true">Vše</button>
     <button data-gender="ma" style="--c: var(--g-ma)" aria-pressed="false">Ma &middot; mužský životný</button>
     <button data-gender="mi" style="--c: var(--g-mi)" aria-pressed="false">Mi &middot; mužský neživotný</button>
@@ -142,7 +149,7 @@
 </header>
 <main id="deck"></main>
 <footer>
-  <span id="count"></span> nouns for A1 Czech &middot; colours follow the textbook convention (Ma dark blue, Mi light blue, F red, N green) &middot; pictures are inline SVG.<br>
+  <span id="count"></span> nouns for A1 and A2 Czech &middot; colours follow the textbook convention (Ma dark blue, Mi light blue, F red, N green) &middot; pictures are inline SVG.<br>
   Part of the <a href="https://ilearnczech.com">iLearnCzech</a> family &middot; <a href="https://grammar.ilearnczech.com">Grammar reference</a> &middot; <a href="https://github.com/czech-grammar/nouns">GitHub</a>
 </footer>
 
@@ -221,12 +228,30 @@
   // e.g. ?gender=f&mode=hide-en#t-food
   const MODES = ['both', 'hide-en', 'hide-cs'];
   const GENDERS = ['all', 'ma', 'mi', 'f', 'n'];
+  const LEVELS = ['a1', 'a2', 'all'];
   const params = new URLSearchParams(location.search);
   let mode = MODES.includes(params.get('mode')) ? params.get('mode') : 'both';
   let gender = GENDERS.includes(params.get('gender')) ? params.get('gender') : 'all';
+  let level = LEVELS.includes(params.get('level')) ? params.get('level') : 'a1';
+
+  // The A2 decks are loaded only when first needed, so the default A1 view stays light.
+  const A2_FILES = ["f-body", "f-clothes", "f-family-a", "f-family-b", "f-food", "f-home", "f-leisure", "f-nature", "f-school-a", "f-school-b", "f-shopping", "f-town", "m-clothes", "m-family-a", "m-home-a", "m-home-b", "m-leisure-people", "m-nature", "m-other", "m-people", "m-school", "m-town", "m-travel-body", "n-home", "n-leisure", "n-travel"];
+  let a2Loaded = false, a2Loading = null;
+  function loadA2() {
+    if (a2Loaded) return Promise.resolve();
+    if (a2Loading) return a2Loading;
+    a2Loading = Promise.all(A2_FILES.map(f => new Promise((ok, fail) => {
+      const el = document.createElement('script');
+      el.src = 'words/a2/' + f + '.js';
+      el.onload = ok; el.onerror = () => fail(f);
+      document.head.appendChild(el);
+    }))).then(() => { a2Loaded = true; order = WORDS.map((_, i) => i).sort(byGender); });
+    return a2Loading;
+  }
 
   function syncUrl() {
     const q = new URLSearchParams();
+    if (level !== 'a1') q.set('level', level);
     if (gender !== 'all') q.set('gender', gender);
     if (mode !== 'both') q.set('mode', mode);
     const qs = q.toString();
@@ -256,7 +281,9 @@
     deck.innerHTML = '';
     const nav = document.getElementById('topicnav');
     nav.innerHTML = '';
-    const visible = order.filter(i => gender === 'all' || (WORDS[i].gender || 'f') === gender);
+    const visible = order.filter(i =>
+      (gender === 'all' || (WORDS[i].gender || 'f') === gender) &&
+      (level === 'all' || (WORDS[i].level || 'A1').toLowerCase() === level));
     for (const [key, cs, en] of TOPICS) {
       const idx = visible.filter(i => (WORDS[i].topic || 'other') === key);
       if (!idx.length) continue;
@@ -275,13 +302,24 @@
     document.getElementById('count').textContent = visible.length + ' / ' + WORDS.length;
   }
 
-  document.querySelectorAll('#genders button').forEach(btn => {
+  document.querySelectorAll('#levels button').forEach(btn => {
+    const l = btn.dataset.level;
+    btn.setAttribute('aria-pressed', String(l === level));
+    btn.addEventListener('click', () => {
+      level = l;
+      document.querySelectorAll('#levels button').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
+      syncUrl();
+      (level === 'a1' ? Promise.resolve() : loadA2()).then(render);
+    });
+  });
+
+  document.querySelectorAll('#genders > button').forEach(btn => {
     const g = btn.dataset.gender;
     if (g !== 'all' && !WORDS.some(w => (w.gender || 'f') === g)) btn.disabled = true;
     btn.setAttribute('aria-pressed', String(g === gender));
     btn.addEventListener('click', () => {
       gender = g;
-      document.querySelectorAll('#genders button').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
+      document.querySelectorAll('#genders > button').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
       syncUrl();
       render();
     });
@@ -317,11 +355,13 @@
     render();
   });
 
-  render();
-  if (location.hash) {
-    const target = document.querySelector(location.hash);
-    if (target) target.scrollIntoView();
-  }
+  (level === 'a1' ? Promise.resolve() : loadA2()).then(() => {
+    render();
+    if (location.hash) {
+      const target = document.querySelector(location.hash);
+      if (target) target.scrollIntoView();
+    }
+  });
 </script>
 </body>
 </html>
