@@ -1,6 +1,6 @@
 // Topic: family
 WORDS.push(
-  { cs: 'maminka', en: 'mum', pattern: 'žena', gender: 'f', topic: 'family', svg: `
+  { cs: 'maminka', en: 'mum', pattern: 'žena', gender: 'f', level: 'A1', topic: 'family', svg: `
     <path d="M34 26 L30 60 M58 26 L62 60" stroke="#8b4a2b" stroke-width="8" stroke-linecap="round"/>
     <path d="M36 46 L56 46 L68 96 L22 96 Z" fill="#e94b8a" ${S}/>
     <circle cx="46" cy="30" r="15" fill="#ffd8b8" ${S}/>
@@ -16,7 +16,7 @@ WORDS.push(
     <circle cx="78" cy="59" r="1.8" fill="#333"/><circle cx="86" cy="59" r="1.8" fill="#333"/>
     <path d="M78 64 Q82 68 86 64" fill="none" ${S}/>` },
 
-  { cs: 'babička', en: 'grandma', pattern: 'žena', gender: 'f', topic: 'family', svg: `
+  { cs: 'babička', en: 'grandma', pattern: 'žena', gender: 'f', level: 'A1', topic: 'family', svg: `
     <circle cx="60" cy="14" r="9" fill="#ddd" ${S}/>
     <path d="M46 58 L74 58 L86 96 L34 96 Z" fill="#c7b6f5" ${S}/>
     <path d="M50 58 L60 68 L70 58 Z" fill="#fff" ${S}/>
@@ -29,7 +29,7 @@ WORDS.push(
     <circle cx="52" cy="40" r="2.2" fill="#333"/><circle cx="68" cy="40" r="2.2" fill="#333"/>
     <path d="M52 49 Q60 55 68 49" fill="none" ${S}/>` },
 
-  { cs: 'sestra', en: 'sister', pattern: 'žena', gender: 'f', topic: 'family', svg: `
+  { cs: 'sestra', en: 'sister', pattern: 'žena', gender: 'f', level: 'A1', topic: 'family', svg: `
     <path d="M28 28 L24 60 M52 28 L56 60" stroke="#8b4a2b" stroke-width="8" stroke-linecap="round"/>
     <path d="M30 44 L50 44 L60 96 L20 96 Z" fill="#e94b8a" ${S}/>
     <circle cx="40" cy="30" r="15" fill="#ffd8b8" ${S}/>
@@ -45,7 +45,7 @@ WORDS.push(
     <path d="M56 58 L65 74 M75 64 L65 74" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
     <path d="M56 58 L65 74 M75 64 L65 74" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>` },
 
-  { cs: 'dcera', en: 'daughter', pattern: 'žena', gender: 'f', topic: 'family', svg: `
+  { cs: 'dcera', en: 'daughter', pattern: 'žena', gender: 'f', level: 'A1', topic: 'family', svg: `
     <path d="M22 24 L18 60 M46 24 L50 60" stroke="#3b2a1a" stroke-width="8" stroke-linecap="round"/>
     <path d="M24 40 L44 40 L54 96 L14 96 Z" fill="#4fa3e3" ${S}/>
     <circle cx="34" cy="26" r="14" fill="#ffd8b8" ${S}/>
@@ -62,7 +62,7 @@ WORDS.push(
     <path d="M50 54 L64 76 M81 70 L64 76" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <path d="M66 60 C54 52 58 38 66 46 C74 38 78 52 66 60 Z" fill="#e63946" ${S}/>` },
 
-  { cs: 'teta', en: 'aunt', pattern: 'žena', gender: 'f', topic: 'family', svg: `
+  { cs: 'teta', en: 'aunt', pattern: 'žena', gender: 'f', level: 'A1', topic: 'family', svg: `
     <path d="M26 26 L22 58 M50 26 L54 58" stroke="#f2c14e" stroke-width="8" stroke-linecap="round"/>
     <path d="M30 46 L16 22" fill="none" stroke="#333" stroke-width="10" stroke-linecap="round"/>
     <path d="M30 46 L16 22" fill="none" stroke="#ffd8b8" stroke-width="5" stroke-linecap="round"/>
@@ -83,7 +83,7 @@ WORDS.push(
     <circle cx="91" cy="58" r="1.8" fill="#333"/><circle cx="99" cy="58" r="1.8" fill="#333"/>
     <path d="M91 63 Q95 67 99 63" fill="none" ${S}/>` },
 
-  { cs: 'manželka', en: 'wife', pattern: 'žena', gender: 'f', topic: 'family', svg: `
+  { cs: 'manželka', en: 'wife', pattern: 'žena', gender: 'f', level: 'A1', topic: 'family', svg: `
     <path d="M24 32 L20 62 M52 32 L56 62" stroke="#3b2a1a" stroke-width="8" stroke-linecap="round"/>
     <path d="M28 50 L48 50 L62 96 L14 96 Z" fill="#fff" ${S}/>
     <circle cx="38" cy="34" r="16" fill="#ffd8b8" ${S}/>
@@ -95,7 +95,7 @@ WORDS.push(
     <polygon points="84,42 92,42 98,52 88,60 78,52" fill="#dff3ff" ${S}/>
     <path d="M88 34 C72 24 78 4 88 14 C98 4 104 24 88 34 Z" fill="#e63946" ${S}/>` },
 
-  { cs: 'kamarádka', en: 'friend (f)', pattern: 'žena', gender: 'f', topic: 'family', svg: `
+  { cs: 'kamarádka', en: 'friend (f)', pattern: 'žena', gender: 'f', level: 'A1', topic: 'family', svg: `
     <path d="M28 30 L24 62 M52 30 L56 62" stroke="#8b4a2b" stroke-width="8" stroke-linecap="round"/>
     <path d="M30 46 L50 46 L58 96 L20 96 Z" fill="#2a9d8f" ${S}/>
     <circle cx="40" cy="32" r="14" fill="#ffd8b8" ${S}/>
@@ -112,7 +112,7 @@ WORDS.push(
     <path d="M72 54 Q52 46 30 56" fill="none" stroke="#ffd8b8" stroke-width="5" stroke-linecap="round"/>
     <circle cx="29" cy="57" r="4.5" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'holka', en: 'girl', pattern: 'žena', gender: 'f', topic: 'family', svg: `
+  { cs: 'holka', en: 'girl', pattern: 'žena', gender: 'f', level: 'A1', topic: 'family', svg: `
     <ellipse cx="32" cy="46" rx="7" ry="14" fill="#8b4a2b" ${S}/>
     <ellipse cx="80" cy="46" rx="7" ry="14" fill="#8b4a2b" ${S}/>
     <circle cx="32" cy="34" r="3.5" fill="#e63946" ${S}/>
@@ -129,7 +129,7 @@ WORDS.push(
     <path d="M100 82 L100 68 A14 14 0 0 1 114 82 Z" fill="#fff" ${S}/>
     <path d="M100 82 L100 96 A14 14 0 0 1 86 82 Z" fill="#4fa3e3" ${S}/>` },
 
-  { cs: 'paní', en: 'Mrs, lady', pattern: 'irregular (paní)', gender: 'f', topic: 'family', svg: `
+  { cs: 'paní', en: 'Mrs, lady', pattern: 'irregular (paní)', gender: 'f', level: 'A1', topic: 'family', svg: `
     <path d="M42 40 L40 60 M70 40 L72 60" stroke="#3b2a1a" stroke-width="8" stroke-linecap="round"/>
     <path d="M44 56 L68 56 L80 96 L32 96 Z" fill="#e63946" ${S}/>
     <circle cx="50" cy="60" r="2" fill="#fff"/><circle cx="56" cy="63" r="2" fill="#fff"/><circle cx="62" cy="60" r="2" fill="#fff"/>
@@ -146,7 +146,7 @@ WORDS.push(
     <rect x="86" y="72" width="24" height="18" rx="3" fill="#b5722f" ${S}/>
     <rect x="95" y="72" width="6" height="6" fill="#f9c74f" ${S}/>` },
 
-  { cs: 'učitelka', en: 'teacher (f)', pattern: 'žena', gender: 'f', topic: 'family', svg: `
+  { cs: 'učitelka', en: 'teacher (f)', pattern: 'žena', gender: 'f', level: 'A1', topic: 'family', svg: `
     <rect x="6" y="6" width="64" height="54" rx="2" fill="#3f9d55" ${S}/>
     <text x="38" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#fff">A B C</text>
     <path d="M82 34 L80 66 M106 34 L108 66" stroke="#8b4a2b" stroke-width="8" stroke-linecap="round"/>

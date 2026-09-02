@@ -1,6 +1,6 @@
 // Topic: travel (masculine inanimate)
 WORDS.push(
-  { cs: 'les', en: 'forest', pattern: 'hrad (lesa)', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'les', en: 'forest', pattern: 'hrad (lesa)', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <path d="M4 72 Q60 64 116 72 V96 H4 Z" fill="#8fd18a" ${S}/>
     <path d="M62 96 Q68 84 82 78 Q96 72 104 66" fill="none" stroke="#333" stroke-width="13" stroke-linecap="round"/>
     <path d="M62 96 Q68 84 82 78 Q96 72 104 66" fill="none" stroke="#e8c9a0" stroke-width="8" stroke-linecap="round"/>
@@ -18,7 +18,7 @@ WORDS.push(
     <path d="M16 86 A14 11 0 0 1 44 86 Z" fill="#e63946" ${S}/>
     <circle cx="24" cy="81" r="2" fill="#fff"/><circle cx="32" cy="78" r="2.2" fill="#fff"/><circle cx="38" cy="83" r="1.8" fill="#fff"/>` },
 
-  { cs: 'strom', en: 'tree', pattern: 'hrad', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'strom', en: 'tree', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <path d="M8 94 H112" ${S}/>
     <path d="M50 56 H70 V82 Q76 92 86 94 H34 Q44 92 50 82 Z" fill="#8b4a2b" ${S}/>
     <path d="M56 62 V80 M64 66 V84" stroke="#5a3a22" stroke-width="2" stroke-linecap="round"/>
@@ -37,7 +37,7 @@ WORDS.push(
     <circle cx="86" cy="56" r="4.5" fill="#e63946" stroke="#333" stroke-width="1.5"/>
     <circle cx="54" cy="28" r="4.5" fill="#e63946" stroke="#333" stroke-width="1.5"/>` },
 
-  { cs: 'sníh', en: 'snow', pattern: 'hrad (sněhu)', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'sníh', en: 'snow', pattern: 'hrad (sněhu)', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <rect x="4" y="4" width="112" height="92" rx="8" fill="#dff3ff"/>
     <rect x="33" y="74" width="8" height="14" fill="#8b4a2b" ${S}/>
     <path d="M8 80 L37 36 L66 80 Z" fill="#3f9d55" ${S}/>
@@ -53,7 +53,7 @@ WORDS.push(
     <path d="M72 62 H86 M75.5 56 L82.5 68 M82.5 56 L75.5 68" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
     <rect x="4" y="4" width="112" height="92" rx="8" fill="none" ${S}/>` },
 
-  { cs: 'déšť', en: 'rain', pattern: 'stroj (deště)', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'déšť', en: 'rain', pattern: 'stroj (deště)', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <path d="M14 46 A11 11 0 0 1 20 26 A17 17 0 0 1 50 16 A16 16 0 0 1 80 24 A13 13 0 0 1 100 46 Z" fill="#9aa0a8" ${S}/>
     <path d="M24 54 L20 66 M38 54 L34 66 M52 54 L48 66 M66 54 L62 66 M80 54 L76 66 M94 54 L90 66 M31 70 L27 82 M45 70 L41 82 M59 70 L55 82 M73 70 L69 82 M87 70 L83 82" fill="none" stroke="#333" stroke-width="7" stroke-linecap="round"/>
     <path d="M24 54 L20 66 M38 54 L34 66 M52 54 L48 66 M66 54 L62 66 M80 54 L76 66 M94 54 L90 66 M31 70 L27 82 M45 70 L41 82 M59 70 L55 82 M73 70 L69 82 M87 70 L83 82" fill="none" stroke="#4fa3e3" stroke-width="3.5" stroke-linecap="round"/>
@@ -62,7 +62,7 @@ WORDS.push(
     <ellipse cx="44" cy="88" rx="4" ry="1.5" fill="none" stroke="#dff3ff" stroke-width="2"/>
     <ellipse cx="80" cy="87" rx="8" ry="3" fill="none" stroke="#dff3ff" stroke-width="2"/>` },
 
-  { cs: 'vítr', en: 'wind', pattern: 'hrad (větru)', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'vítr', en: 'wind', pattern: 'hrad (větru)', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <path d="M4 94 Q60 92 116 94" fill="none" ${S}/>
     <path d="M24 94 Q26 72 46 60" fill="none" stroke="#333" stroke-width="13" stroke-linecap="round"/>
     <path d="M24 94 Q26 72 46 60" fill="none" stroke="#8b4a2b" stroke-width="8" stroke-linecap="round"/>
@@ -77,14 +77,14 @@ WORDS.push(
       <rect x="88" y="74" width="16" height="13" rx="2" fill="#e63946" ${S}/>
     </g>` },
 
-  { cs: 'mrak', en: 'cloud', pattern: 'hrad', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'mrak', en: 'cloud', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <rect x="4" y="4" width="112" height="92" rx="8" fill="#bde0fe"/>
     <path d="M12 74 A14 14 0 0 1 18 46 A22 22 0 0 1 58 30 A20 20 0 0 1 96 42 A16 16 0 0 1 104 74 Z" fill="#fff"/>
     <path d="M14 74 Q60 58 102 74 Z" fill="#ddd"/>
     <path d="M12 74 A14 14 0 0 1 18 46 A22 22 0 0 1 58 30 A20 20 0 0 1 96 42 A16 16 0 0 1 104 74 Z" fill="none" ${S}/>
     <rect x="4" y="4" width="112" height="92" rx="8" fill="none" ${S}/>` },
 
-  { cs: 'měsíc', en: 'moon, month', pattern: 'stroj', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'měsíc', en: 'moon, month', pattern: 'stroj', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <rect x="4" y="4" width="112" height="92" rx="8" fill="#1d2a5a"/>
     <circle cx="86" cy="14" r="2.5" fill="#f9c74f"/><circle cx="104" cy="30" r="2" fill="#f9c74f"/><circle cx="12" cy="86" r="2" fill="#f9c74f"/><circle cx="96" cy="46" r="1.8" fill="#f9c74f"/>
     <path d="M70 12 A38 38 0 1 0 70 84 A44 44 0 0 1 70 12 Z" fill="#f9c74f" ${S}/>
@@ -102,7 +102,7 @@ WORDS.push(
     <circle cx="98" cy="87" r="3" fill="#e63946"/>
     <rect x="4" y="4" width="112" height="92" rx="8" fill="none" ${S}/>` },
 
-  { cs: 'svět', en: 'world', pattern: 'hrad', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'svět', en: 'world', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <ellipse cx="60" cy="92" rx="26" ry="4" fill="#7a7f87" ${S}/>
     <rect x="56" y="78" width="8" height="12" fill="#9aa0a8" ${S}/>
     <path d="M60 4 A42 42 0 0 1 60 88" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
@@ -115,7 +115,7 @@ WORDS.push(
     <path d="M54 34 V16" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
     <path d="M54 16 L66 20 L54 24 Z" fill="#e63946" ${S}/>` },
 
-  { cs: 'rybník', en: 'pond', pattern: 'hrad', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'rybník', en: 'pond', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <rect x="4" y="4" width="112" height="92" rx="8" fill="#8fd18a"/>
     <ellipse cx="60" cy="68" rx="48" ry="22" fill="#4fa3e3" ${S}/>
     <path d="M26 80 Q34 76 42 80 M76 84 Q84 80 92 84 M48 60 Q54 57 60 60" fill="none" stroke="#dff3ff" stroke-width="2.5" stroke-linecap="round"/>
@@ -138,7 +138,7 @@ WORDS.push(
     <path d="M97 28 Q100 30 103 28" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
     <rect x="4" y="4" width="112" height="92" rx="8" fill="none" ${S}/>` },
 
-  { cs: 'kopec', en: 'hill', pattern: 'stroj (kopce)', gender: 'mi', topic: 'travel', svg: `
+  { cs: 'kopec', en: 'hill', pattern: 'stroj (kopce)', gender: 'mi', level: 'A1', topic: 'travel', svg: `
     <circle cx="18" cy="18" r="10" fill="#f9c74f" ${S}/>
     <path d="M56 96 Q94 22 116 52 V96 Z" fill="#8fd18a" ${S}/>
     <path d="M4 96 Q10 40 60 30 Q110 40 116 96 Z" fill="#6cc06a" ${S}/>

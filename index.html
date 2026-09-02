@@ -180,8 +180,21 @@
     ['other',    'Další slova',          'more words'],
   ];
   const deck = document.getElementById('deck');
-  let mode = 'both';
-  let gender = 'all';
+  // Filters live in the query string so a view can be bookmarked or shared,
+  // e.g. ?gender=f&mode=hide-en#t-food
+  const MODES = ['both', 'hide-en', 'hide-cs'];
+  const GENDERS = ['all', 'ma', 'mi', 'f', 'n'];
+  const params = new URLSearchParams(location.search);
+  let mode = MODES.includes(params.get('mode')) ? params.get('mode') : 'both';
+  let gender = GENDERS.includes(params.get('gender')) ? params.get('gender') : 'all';
+
+  function syncUrl() {
+    const q = new URLSearchParams();
+    if (gender !== 'all') q.set('gender', gender);
+    if (mode !== 'both') q.set('mode', mode);
+    const qs = q.toString();
+    history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
+  }
   // Traditional grammar order: masculine animate, masculine inanimate, feminine, neuter.
   const GENDER_ORDER = { ma: 0, mi: 1, f: 2, n: 3 };
   const byGender = (a, b) => GENDER_ORDER[WORDS[a].gender || 'f'] - GENDER_ORDER[WORDS[b].gender || 'f'];
@@ -227,9 +240,11 @@
   document.querySelectorAll('#genders button').forEach(btn => {
     const g = btn.dataset.gender;
     if (g !== 'all' && !WORDS.some(w => (w.gender || 'f') === g)) btn.disabled = true;
+    btn.setAttribute('aria-pressed', String(g === gender));
     btn.addEventListener('click', () => {
       gender = g;
       document.querySelectorAll('#genders button').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
+      syncUrl();
       render();
     });
   });
@@ -246,9 +261,11 @@
   }
 
   document.querySelectorAll('[data-mode]').forEach(btn => {
+    btn.setAttribute('aria-pressed', String(btn.dataset.mode === mode));
     btn.addEventListener('click', () => {
       mode = btn.dataset.mode;
       document.querySelectorAll('[data-mode]').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
+      syncUrl();
       render();
     });
   });
@@ -263,6 +280,10 @@
   });
 
   render();
+  if (location.hash) {
+    const target = document.querySelector(location.hash);
+    if (target) target.scrollIntoView();
+  }
 </script>
 </body>
 </html>

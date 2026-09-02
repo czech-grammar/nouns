@@ -1,6 +1,6 @@
 // Topic: time (neuter)
 WORDS.push(
-  { cs: 'ráno', en: 'morning', pattern: 'město', gender: 'n', topic: 'time', svg: `
+  { cs: 'ráno', en: 'morning', pattern: 'město', gender: 'n', level: 'A1', topic: 'time', svg: `
     <path d="M96 59 V55 M105.2 62.8 L108 60 M86.8 62.8 L84 60 M109 72 H113 M83 72 H79" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="96" cy="72" r="10" fill="#f9c74f" ${S}/>
     <path d="M4 72 H116 V96 H4 Z" fill="#8fd18a" ${S}/>
@@ -26,7 +26,7 @@ WORDS.push(
     <path d="M102 17 V10" stroke="#333" stroke-width="2" stroke-linecap="round"/>
     <circle cx="102" cy="17" r="1.5" fill="#333"/>` },
 
-  { cs: 'dopoledne', en: 'late morning', pattern: 'moře', gender: 'n', topic: 'time', svg: `
+  { cs: 'dopoledne', en: 'late morning', pattern: 'moře', gender: 'n', level: 'A1', topic: 'time', svg: `
     <path d="M78 29 V25 M78 55 V59 M91 42 H95 M65 42 H61 M87.2 32.8 L90 30 M68.8 32.8 L66 30 M87.2 51.2 L90 54 M68.8 51.2 L66 54" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="78" cy="42" r="10" fill="#f9c74f" ${S}/>
     <path d="M4 72 H116 V96 H4 Z" fill="#8fd18a" ${S}/>
@@ -43,7 +43,7 @@ WORDS.push(
     <path d="M102 17 V10" stroke="#333" stroke-width="2" stroke-linecap="round"/>
     <circle cx="102" cy="17" r="1.5" fill="#333"/>` },
 
-  { cs: 'poledne', en: 'noon', pattern: 'moře', gender: 'n', topic: 'time', svg: `
+  { cs: 'poledne', en: 'noon', pattern: 'moře', gender: 'n', level: 'A1', topic: 'time', svg: `
     <path d="M60 7 V3 M60 33 V37 M73 20 H77 M47 20 H43 M69.2 10.8 L72 8 M50.8 10.8 L48 8 M69.2 29.2 L72 32 M50.8 29.2 L48 32" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="60" cy="20" r="10" fill="#f9c74f" ${S}/>
     <path d="M4 72 H116 V96 H4 Z" fill="#8fd18a" ${S}/>
@@ -68,7 +68,7 @@ WORDS.push(
     <path d="M102 17 V10" stroke="#333" stroke-width="2" stroke-linecap="round"/>
     <circle cx="102" cy="17" r="1.5" fill="#333"/>` },
 
-  { cs: 'odpoledne', en: 'afternoon', pattern: 'moře', gender: 'n', topic: 'time', svg: `
+  { cs: 'odpoledne', en: 'afternoon', pattern: 'moře', gender: 'n', level: 'A1', topic: 'time', svg: `
     <path d="M42 25 V21 M42 51 V55 M55 38 H59 M29 38 H25 M51.2 28.8 L54 26 M32.8 28.8 L30 26 M51.2 47.2 L54 50 M32.8 47.2 L30 50" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="42" cy="38" r="10" fill="#f9c74f" ${S}/>
     <path d="M4 72 H116 V96 H4 Z" fill="#8fd18a" ${S}/>
@@ -95,7 +95,7 @@ WORDS.push(
     <path d="M102 17 V10" stroke="#333" stroke-width="2" stroke-linecap="round"/>
     <circle cx="102" cy="17" r="1.5" fill="#333"/>` },
 
-  { cs: 'pondělí', en: 'Monday', pattern: 'stavení', gender: 'n', topic: 'time', svg: `
+  { cs: 'pondělí', en: 'Monday', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'time', svg: `
     <rect x="6" y="22" width="108" height="72" rx="6" fill="#fff" ${S}/>
     <path d="M6 28 a6 6 0 0 1 6 -6 h96 a6 6 0 0 1 6 6 v6 H6 Z" fill="#4fa3e3" ${S}/>
     <rect x="34" y="14" width="6" height="16" rx="3" fill="#7a7f87" ${S}/>
@@ -124,7 +124,7 @@ WORDS.push(
     <path d="M100 19 V13 M100 19 L104 21" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
     <circle cx="100" cy="19" r="1.5" fill="#333"/>` },
 
-  { cs: 'úterý', en: 'Tuesday', pattern: 'stavení', gender: 'n', topic: 'time', svg: `
+  { cs: 'úterý', en: 'Tuesday', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'time', svg: `
     <rect x="6" y="22" width="108" height="72" rx="6" fill="#fff" ${S}/>
     <path d="M6 28 a6 6 0 0 1 6 -6 h96 a6 6 0 0 1 6 6 v6 H6 Z" fill="#4fa3e3" ${S}/>
     <rect x="34" y="14" width="6" height="16" rx="3" fill="#7a7f87" ${S}/>
@@ -145,7 +145,7 @@ WORDS.push(
     </g>
     <path d="M23.5 72 L28 78 L35 64" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>` },
 
-  { cs: 'datum', en: 'date', pattern: 'město (data)', gender: 'n', topic: 'time', svg: `
+  { cs: 'datum', en: 'date', pattern: 'město (data)', gender: 'n', level: 'A1', topic: 'time', svg: `
     <rect x="24" y="14" width="72" height="80" rx="6" fill="#fff" ${S}/>
     <path d="M24 20 a6 6 0 0 1 6 -6 h60 a6 6 0 0 1 6 6 v16 H24 Z" fill="#4fa3e3" ${S}/>
     <rect x="38" y="6" width="6" height="16" rx="3" fill="#7a7f87" ${S}/>
@@ -154,7 +154,7 @@ WORDS.push(
     <text x="60" y="80" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#333">15</text>
     <path d="M60 44 A22 22 0 1 0 75.6 50.4" fill="none" stroke="#e63946" stroke-width="3.5" stroke-linecap="round"/>` },
 
-  { cs: 'počasí', en: 'weather', pattern: 'stavení', gender: 'n', topic: 'time', svg: `
+  { cs: 'počasí', en: 'weather', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'time', svg: `
     <path d="M40 15 V11 M29.4 19.4 L26.6 16.6 M25 30 H21 M50.6 19.4 L53.4 16.6 M55 30 H59 M29.4 40.6 L26.6 43.4 M40 45 V49 M50.6 40.6 L53.4 43.4" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="40" cy="30" r="12" fill="#f9c74f" ${S}/>
     <path d="M33.6 62 A9.6 9.6 0 0 1 35.2 43.6 A16 16 0 0 1 64 36.4 A14.4 14.4 0 0 1 89.6 42.8 A10.4 10.4 0 0 1 96 62 Z" fill="#dff3ff" ${S}/>
@@ -166,7 +166,7 @@ WORDS.push(
     <rect x="106.5" y="40" width="4" height="34" fill="#e63946"/>
     <path d="M110 22 H112 M110 30 H112 M110 38 H112 M110 46 H112" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>` },
 
-  { cs: 'léto', en: 'summer', pattern: 'město', gender: 'n', topic: 'time', svg: `
+  { cs: 'léto', en: 'summer', pattern: 'město', gender: 'n', level: 'A1', topic: 'time', svg: `
     <path d="M92 7 V3 M92 41 V45 M109 24 H113 M75 24 H71 M104 12 L106.8 9.2 M80 12 L77.2 9.2 M104 36 L106.8 38.8 M80 36 L77.2 38.8" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="92" cy="24" r="14" fill="#f9c74f" ${S}/>
     <path d="M40 62 L40 38 A24 24 0 0 1 60.8 50 Z" fill="#e63946" ${S}/>
@@ -182,7 +182,7 @@ WORDS.push(
     <circle cx="80" cy="78" r="8" fill="#1d2a5a" ${S}/>
     <circle cx="104" cy="78" r="8" fill="#1d2a5a" ${S}/>` },
 
-  { cs: 'jaro', en: 'spring', pattern: 'město', gender: 'n', topic: 'time', svg: `
+  { cs: 'jaro', en: 'spring', pattern: 'město', gender: 'n', level: 'A1', topic: 'time', svg: `
     <path d="M104 7 V4 M104 29 V32 M115 18 H118 M93 18 H90 M111.8 10.2 L113.9 8.1 M96.2 10.2 L94.1 8.1 M111.8 25.8 L113.9 27.9 M96.2 25.8 L94.1 27.9" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="104" cy="18" r="9" fill="#f9c74f" ${S}/>
     <path d="M4 86 H116 V96 H4 Z" fill="#8fd18a" ${S}/>

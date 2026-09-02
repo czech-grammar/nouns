@@ -1,6 +1,6 @@
 // Topic: food (neuter)
 WORDS.push(
-  { cs: 'jídlo', en: 'food, meal', pattern: 'město', gender: 'n', topic: 'food', svg: `
+  { cs: 'jídlo', en: 'food, meal', pattern: 'město', gender: 'n', level: 'A1', topic: 'food', svg: `
     <rect x="4" y="20" width="14" height="22" rx="5" fill="#9aa0a8" ${S}/>
     <path d="M8 22 V32 M11 22 V32 M14 22 V32" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
     <rect x="8" y="40" width="6" height="50" rx="3" fill="#9aa0a8" ${S}/>
@@ -21,7 +21,7 @@ WORDS.push(
     <ellipse cx="57" cy="78" rx="13" ry="8" fill="#f2c9a0" ${S}/>
     <path d="M45 74 Q57 66 69 74" fill="none" stroke="#8b4a2b" stroke-width="3" stroke-linecap="round"/>` },
 
-  { cs: 'pití', en: 'drink', pattern: 'stavení', gender: 'n', topic: 'food', svg: `
+  { cs: 'pití', en: 'drink', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'food', svg: `
     <rect x="82" y="6" width="16" height="9" rx="2" fill="#e63946" ${S}/>
     <path d="M74 44 Q74 36 84 34 L84 14 H96 L96 34 Q106 36 106 44 V88 Q106 94 100 94 H80 Q74 94 74 88 Z" fill="#f4a261" ${S}/>
     <rect x="78" y="54" width="24" height="20" rx="3" fill="#fff" ${S}/>
@@ -34,7 +34,7 @@ WORDS.push(
     <path d="M8 60 q-7 10 0 16 q7 -6 0 -16z" fill="#4fa3e3" ${S}/>
     <path d="M68 72 q-6 8 0 13 q6 -5 0 -13z" fill="#4fa3e3" ${S}/>` },
 
-  { cs: 'pivo', en: 'beer', pattern: 'město', gender: 'n', topic: 'food', svg: `
+  { cs: 'pivo', en: 'beer', pattern: 'město', gender: 'n', level: 'A1', topic: 'food', svg: `
     <rect x="32" y="6" width="18" height="10" rx="2" fill="#f9c74f" ${S}/>
     <path d="M26 46 Q26 38 35 36 L35 16 H47 L47 36 Q56 38 56 46 V90 Q56 96 50 96 H32 Q26 96 26 90 Z" fill="#8b4a2b" ${S}/>
     <rect x="29" y="54" width="24" height="20" rx="3" fill="#ffe08a" ${S}/>
@@ -44,7 +44,7 @@ WORDS.push(
     <circle cx="80" cy="66" r="2.5" fill="#fff"/><circle cx="96" cy="74" r="2.5" fill="#fff"/><circle cx="86" cy="84" r="2" fill="#fff"/><circle cx="98" cy="60" r="2" fill="#fff"/>
     <path d="M64 48 Q62 34 74 36 Q78 26 90 32 Q100 26 106 36 Q116 36 112 48 Z" fill="#fff" ${S}/>` },
 
-  { cs: 'víno', en: 'wine', pattern: 'město', gender: 'n', topic: 'food', svg: `
+  { cs: 'víno', en: 'wine', pattern: 'město', gender: 'n', level: 'A1', topic: 'food', svg: `
     <rect x="30" y="6" width="16" height="12" rx="2" fill="#c0392b" ${S}/>
     <path d="M24 46 Q24 38 33 36 L33 16 H43 L43 36 Q52 38 52 46 V90 Q52 96 46 96 H30 Q24 96 24 90 Z" fill="#1b6e64" ${S}/>
     <rect x="28" y="54" width="20" height="22" rx="3" fill="#fff" ${S}/>
@@ -54,7 +54,7 @@ WORDS.push(
     <path d="M62 16 H114 V44 Q114 72 88 72 Q62 72 62 44 Z" fill="#dff3ff" ${S}/>
     <path d="M63.5 38 H112.5 V44 Q112.5 70 88 70 Q63.5 70 63.5 44 Z" fill="#c0392b" ${S}/>` },
 
-  { cs: 'mléko', en: 'milk', pattern: 'město', gender: 'n', topic: 'food', svg: `
+  { cs: 'mléko', en: 'milk', pattern: 'město', gender: 'n', level: 'A1', topic: 'food', svg: `
     <rect x="28" y="8" width="28" height="8" rx="2" fill="#bde0fe" ${S}/>
     <path d="M20 36 L30 14 H54 L64 36 Z" fill="#bde0fe" ${S}/>
     <rect x="20" y="36" width="44" height="58" fill="#fff" ${S}/>
@@ -69,7 +69,7 @@ WORDS.push(
     <path d="M72 40 H112 L107 94 H77 Z" fill="#dff3ff" ${S}/>
     <path d="M74 52 H110 L107 94 H77 Z" fill="#fff" ${S}/>` },
 
-  { cs: 'máslo', en: 'butter', pattern: 'město', gender: 'n', topic: 'food', svg: `
+  { cs: 'máslo', en: 'butter', pattern: 'město', gender: 'n', level: 'A1', topic: 'food', svg: `
     <ellipse cx="60" cy="80" rx="52" ry="13" fill="#bde0fe" ${S}/>
     <path d="M18 44 L32 30 H82 L68 44 Z" fill="#ffe08a" ${S}/>
     <path d="M68 44 L82 30 V62 L68 76 Z" fill="#f2c14e" ${S}/>
@@ -80,7 +80,7 @@ WORDS.push(
       <rect x="-4" y="-4" width="22" height="9" rx="3" fill="#3b2a1a" ${S}/>
     </g>` },
 
-  { cs: 'vejce', en: 'egg', pattern: 'moře', gender: 'n', topic: 'food', svg: `
+  { cs: 'vejce', en: 'egg', pattern: 'moře', gender: 'n', level: 'A1', topic: 'food', svg: `
     <rect x="72" y="52" width="44" height="10" rx="5" fill="#3b2a1a" ${S}/>
     <circle cx="46" cy="58" r="34" fill="#7a7f87" ${S}/>
     <circle cx="46" cy="58" r="27" fill="#9aa0a8" ${S}/>
@@ -92,13 +92,13 @@ WORDS.push(
     <path d="M78 84 L80 74 L84 80 L88 72 L92 80 L96 74 L98 84 Q98 94 88 94 Q78 94 78 84 Z" fill="#f5e6c8" ${S}/>
     <path d="M100 78 L102 70 L106 76 L110 70 L114 78 Q116 90 106 90 Q100 88 100 78 Z" fill="#f5e6c8" ${S}/>` },
 
-  { cs: 'jablko', en: 'apple', pattern: 'město', gender: 'n', topic: 'food', svg: `
+  { cs: 'jablko', en: 'apple', pattern: 'město', gender: 'n', level: 'A1', topic: 'food', svg: `
     <rect x="57" y="8" width="6" height="26" rx="3" transform="rotate(8 60 20)" fill="#8b4a2b" ${S}/>
     <path d="M64 24 Q78 4 98 14 Q84 32 64 24 Z" fill="#6cc06a" ${S}/>
     <path d="M60 32 Q30 12 20 44 Q12 74 40 92 Q52 98 60 92 Q68 98 80 92 Q98 82 102 66 A14 14 0 0 1 100 40 Q92 14 60 32 Z" fill="#e63946" ${S}/>
     <ellipse cx="36" cy="46" rx="6" ry="10" transform="rotate(20 36 46)" fill="#fff" opacity="0.6"/>` },
 
-  { cs: 'maso', en: 'meat', pattern: 'město', gender: 'n', topic: 'food', svg: `
+  { cs: 'maso', en: 'meat', pattern: 'město', gender: 'n', level: 'A1', topic: 'food', svg: `
     <rect x="8" y="24" width="104" height="66" rx="8" fill="#b5722f" ${S}/>
     <path d="M18 34 H102 M18 80 H102" fill="none" stroke="#8b4a2b" stroke-width="2.5" stroke-linecap="round"/>
     <circle cx="104" cy="32" r="3" fill="#8b4a2b"/>
@@ -107,7 +107,7 @@ WORDS.push(
     <path d="M42 56 Q52 62 60 54 Q68 48 78 54 M50 68 Q60 72 70 64" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
     <path d="M36 60 Q40 68 50 72" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>` },
 
-  { cs: 'ovoce', en: 'fruit', pattern: 'moře', gender: 'n', topic: 'food', svg: `
+  { cs: 'ovoce', en: 'fruit', pattern: 'moře', gender: 'n', level: 'A1', topic: 'food', svg: `
     <ellipse cx="60" cy="64" rx="48" ry="8" fill="#bde0fe" ${S}/>
     <path d="M20 42 Q60 6 100 36" fill="none" stroke="#333" stroke-width="13" stroke-linecap="round"/>
     <path d="M20 42 Q60 6 100 36" fill="none" stroke="#f9c74f" stroke-width="8" stroke-linecap="round"/>
@@ -120,7 +120,7 @@ WORDS.push(
     </g>
     <path d="M12 64 Q12 94 60 94 Q108 94 108 64 Z" fill="#4fa3e3" ${S}/>` },
 
-  { cs: 'rajče', en: 'tomato', pattern: 'kuře', gender: 'n', topic: 'food', svg: `
+  { cs: 'rajče', en: 'tomato', pattern: 'kuře', gender: 'n', level: 'A1', topic: 'food', svg: `
     <rect x="41" y="4" width="6" height="18" rx="3" fill="#3f9d55" ${S}/>
     <circle cx="44" cy="58" r="33" fill="#e63946" ${S}/>
     <path d="M44 32 L26 20 L38 26 L30 12 L42 24 L44 8 L48 24 L58 12 L52 26 L62 20 Z" fill="#3f9d55" ${S}/>

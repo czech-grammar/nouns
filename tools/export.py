@@ -4,7 +4,7 @@ import json, os, sys
 sys.path.insert(0, os.path.dirname(__file__))
 from validate import entries, S
 os.chdir(os.path.join(os.path.dirname(__file__), '..'))
-FIELDS = ['cs', 'en', 'pattern', 'gender', 'topic', 'svg']
+FIELDS = ['cs', 'en', 'pattern', 'gender', 'level', 'topic', 'svg']
 es = entries()
 out, problems, seen = [], 0, set()
 for e in es:

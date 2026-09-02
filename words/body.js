@@ -1,13 +1,13 @@
 // Topic: body
 WORDS.push(
-  { cs: 'noha', en: 'leg, foot', pattern: 'žena', gender: 'f', topic: 'body', svg: `
+  { cs: 'noha', en: 'leg, foot', pattern: 'žena', gender: 'f', level: 'A1', topic: 'body', svg: `
     <path d="M40 22 L78 22 L74 62 L80 68 L92 68 Q98 66 101 72 Q104 68 108 74 Q112 80 108 86 Q104 90 98 88 L54 90 Q42 90 42 80 L44 68 Z" fill="#ffd8b8" ${S}/>
     <rect x="36" y="8" width="46" height="16" rx="4" fill="#4fa3e3" ${S}/>
     <path d="M56 36 Q62 40 66 36" fill="none" stroke="#e0a880" stroke-width="3" stroke-linecap="round"/>
     <path d="M100 76 Q101 80 100 84 M107 78 Q108 82 106 86" fill="none" stroke="#e0a880" stroke-width="2.5" stroke-linecap="round"/>
     <circle cx="70" cy="70" r="3" fill="#e0a880"/>` },
 
-  { cs: 'pusa', en: 'mouth', pattern: 'žena', gender: 'f', topic: 'body', svg: `
+  { cs: 'pusa', en: 'mouth', pattern: 'žena', gender: 'f', level: 'A1', topic: 'body', svg: `
     <rect x="4" y="4" width="112" height="92" rx="30" fill="#ffd8b8" ${S}/>
     <circle cx="20" cy="60" r="9" fill="#ffb4a2"/><circle cx="100" cy="60" r="9" fill="#ffb4a2"/>
     <path d="M20 50 Q60 40 100 50 Q60 78 20 50 Z" fill="#c0392b" ${S}/>
@@ -16,11 +16,11 @@ WORDS.push(
     <path d="M20 50 Q36 30 52 40 Q60 36 68 40 Q84 30 100 50 Q60 40 20 50 Z" fill="#e63946" ${S}/>
     <path d="M20 50 Q60 100 100 50 Q60 78 20 50 Z" fill="#e63946" ${S}/>` },
 
-  { cs: 'kost', en: 'bone', pattern: 'kost', gender: 'f', topic: 'body', svg: `
+  { cs: 'kost', en: 'bone', pattern: 'kost', gender: 'f', level: 'A1', topic: 'body', svg: `
     <path d="M38.6 44 H81.4 A14 14 0 1 1 101.2 50 A14 14 0 1 1 81.4 56 H38.6 A14 14 0 1 1 18.8 50 A14 14 0 1 1 38.6 44 Z" fill="#fff" ${S}/>
     <path d="M44 50 H76" fill="none" stroke="#ddd" stroke-width="3" stroke-linecap="round"/>` },
 
-  { cs: 'nemoc', en: 'illness', pattern: 'kost', gender: 'f', topic: 'body', svg: `
+  { cs: 'nemoc', en: 'illness', pattern: 'kost', gender: 'f', level: 'A1', topic: 'body', svg: `
     <rect x="20" y="8" width="80" height="42" rx="6" fill="#8b4a2b" ${S}/>
     <path d="M42 46 H78 L84 68 H36 Z" fill="#c7b6f5" ${S}/>
     <circle cx="60" cy="30" r="17" fill="#ffd8b8" ${S}/>
@@ -38,7 +38,7 @@ WORDS.push(
     <rect x="12" y="92" width="8" height="5" fill="#8b4a2b" ${S}/>
     <rect x="100" y="92" width="8" height="5" fill="#8b4a2b" ${S}/>` },
 
-  { cs: 'bolest', en: 'pain', pattern: 'kost', gender: 'f', topic: 'body', svg: `
+  { cs: 'bolest', en: 'pain', pattern: 'kost', gender: 'f', level: 'A1', topic: 'body', svg: `
     <polygon points="96,8 84,28 92,28 80,48 100,22 92,22" fill="#e63946" ${S}/>
     <polygon points="24,8 12,28 20,28 8,48 28,22 20,22" fill="#e63946" ${S}/>
     <path d="M38 70 H82 L92 96 H28 Z" fill="#6cc06a" ${S}/>
@@ -51,7 +51,7 @@ WORDS.push(
     <circle cx="40" cy="44" r="8" fill="#ffd8b8" ${S}/>
     <circle cx="80" cy="44" r="8" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'chřipka', en: 'flu', pattern: 'žena', gender: 'f', topic: 'body', svg: `
+  { cs: 'chřipka', en: 'flu', pattern: 'žena', gender: 'f', level: 'A1', topic: 'body', svg: `
     <path d="M30 66 H74 L82 96 H22 Z" fill="#c7b6f5" ${S}/>
     <path d="M30 56 Q52 66 74 56 V66 Q52 76 30 66 Z" fill="#e63946" ${S}/>
     <path d="M60 66 L66 90 H78 L72 64 Z" fill="#e63946" ${S}/>
@@ -73,7 +73,7 @@ WORDS.push(
     <path d="M76 72 L84 76" fill="none" stroke="#c7b6f5" stroke-width="6" stroke-linecap="round"/>
     <circle cx="86" cy="78" r="6" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'brýle', en: 'glasses', pattern: 'plural only', gender: 'f', topic: 'body', svg: `
+  { cs: 'brýle', en: 'glasses', pattern: 'plural only', gender: 'f', level: 'A1', topic: 'body', svg: `
     <path d="M9 46 L5 32 M111 46 L115 32" fill="none" stroke="#333" stroke-width="7" stroke-linecap="round"/>
     <path d="M9 46 L5 32 M111 46 L115 32" fill="none" stroke="#1d2a5a" stroke-width="3" stroke-linecap="round"/>
     <rect x="56" y="46" width="8" height="6" fill="#1d2a5a" ${S}/>

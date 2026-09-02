@@ -53,10 +53,12 @@ recognisable to a Czech adult and friendly to a small child.
 ## Entry format
 
 ```js
-{ cs: 'kočka', en: 'cat', pattern: 'žena', gender: 'f', topic: 'animals', svg: `
+{ cs: 'kočka', en: 'cat', pattern: 'žena', gender: 'f', level: 'A1', topic: 'animals', svg: `
     <ellipse cx="60" cy="66" rx="30" ry="24" fill="#f4a261" ${S}/>
     ...` },
 ```
+
+Level: CEFR level of the word (A1, A2, B1, B2).
 
 Gender keys: f (feminine, red), ma (masculine animate, dark blue),
 mi (masculine inanimate, light blue), n (neuter, green) – the Czech Step by

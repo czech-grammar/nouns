@@ -1,6 +1,6 @@
 // Topic: home (neuter)
 WORDS.push(
-  { cs: 'okno', en: 'window', pattern: 'město', gender: 'n', topic: 'home', svg: `
+  { cs: 'okno', en: 'window', pattern: 'město', gender: 'n', level: 'A1', topic: 'home', svg: `
     <rect x="14" y="6" width="92" height="74" fill="#b5722f" ${S}/>
     <rect x="22" y="14" width="76" height="58" fill="#bde0fe" ${S}/>
     <circle cx="78" cy="28" r="8" fill="#f9c74f" ${S}/>
@@ -14,7 +14,7 @@ WORDS.push(
     <circle cx="60" cy="56" r="3.5" fill="#f9c74f"/>
     <path d="M48 66 H72 L69 80 H51 Z" fill="#f4a261" ${S}/>` },
 
-  { cs: 'křeslo', en: 'armchair', pattern: 'město', gender: 'n', topic: 'home', svg: `
+  { cs: 'křeslo', en: 'armchair', pattern: 'město', gender: 'n', level: 'A1', topic: 'home', svg: `
     <rect x="22" y="10" width="76" height="56" rx="12" fill="#e63946" ${S}/>
     <rect x="40" y="26" width="34" height="30" rx="4" transform="rotate(-8 57 41)" fill="#f9c74f" ${S}/>
     <rect x="26" y="56" width="68" height="24" rx="6" fill="#c0392b" ${S}/>
@@ -23,7 +23,7 @@ WORDS.push(
     <rect x="16" y="86" width="8" height="10" fill="#8b4a2b" ${S}/>
     <rect x="96" y="86" width="8" height="10" fill="#8b4a2b" ${S}/>` },
 
-  { cs: 'zrcadlo', en: 'mirror', pattern: 'město', gender: 'n', topic: 'home', svg: `
+  { cs: 'zrcadlo', en: 'mirror', pattern: 'město', gender: 'n', level: 'A1', topic: 'home', svg: `
     <path d="M28 46 L18 92 M92 46 L102 92" stroke="#8b4a2b" stroke-width="6" stroke-linecap="round"/>
     <rect x="10" y="90" width="100" height="6" rx="3" fill="#8b4a2b" ${S}/>
     <ellipse cx="60" cy="46" rx="34" ry="40" fill="#f9c74f" ${S}/>
@@ -36,7 +36,7 @@ WORDS.push(
     <circle cx="55" cy="46" r="2" fill="#333"/><circle cx="65" cy="46" r="2" fill="#333"/>
     <path d="M55 51 Q60 56 65 51" fill="none" ${S}/>` },
 
-  { cs: 'mýdlo', en: 'soap', pattern: 'město', gender: 'n', topic: 'home', svg: `
+  { cs: 'mýdlo', en: 'soap', pattern: 'město', gender: 'n', level: 'A1', topic: 'home', svg: `
     <circle cx="36" cy="26" r="9" fill="#dff3ff" stroke="#4fa3e3" stroke-width="2"/>
     <circle cx="58" cy="16" r="6" fill="#dff3ff" stroke="#4fa3e3" stroke-width="2"/>
     <circle cx="80" cy="24" r="11" fill="#dff3ff" stroke="#4fa3e3" stroke-width="2"/>
@@ -47,7 +47,7 @@ WORDS.push(
     <path d="M36 52 Q48 48 60 52" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
     <text x="60" y="65" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#fff">MÝDLO</text>` },
 
-  { cs: 'světlo', en: 'light', pattern: 'město', gender: 'n', topic: 'home', svg: `
+  { cs: 'světlo', en: 'light', pattern: 'město', gender: 'n', level: 'A1', topic: 'home', svg: `
     <path d="M22 58 L4 96 H116 L98 58 Z" fill="#fff1a8"/>
     <rect x="50" y="4" width="20" height="6" rx="2" fill="#7a7f87" ${S}/>
     <rect x="58" y="8" width="4" height="16" fill="#333"/>
@@ -55,7 +55,7 @@ WORDS.push(
     <circle cx="60" cy="62" r="12" fill="#ffe08a" ${S}/>
     <path d="M60 80 V92 M40 76 L32 86 M80 76 L88 86 M26 64 H14 M94 64 H106" fill="none" stroke="#f9c74f" stroke-width="4" stroke-linecap="round"/>` },
 
-  { cs: 'rádio', en: 'radio', pattern: 'město', gender: 'n', topic: 'home', svg: `
+  { cs: 'rádio', en: 'radio', pattern: 'město', gender: 'n', level: 'A1', topic: 'home', svg: `
     <path d="M90 36 L110 8" stroke="#333" stroke-width="5" stroke-linecap="round"/>
     <path d="M90 36 L110 8" stroke="#9aa0a8" stroke-width="2" stroke-linecap="round"/>
     <circle cx="110" cy="8" r="3" fill="#333"/>
@@ -75,7 +75,7 @@ WORDS.push(
     <path d="M46 10 Q54 10 54 18" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
     <circle cx="42" cy="26" r="4.5" fill="#333"/>` },
 
-  { cs: 'patro', en: 'floor, storey', pattern: 'město', gender: 'n', topic: 'home', svg: `
+  { cs: 'patro', en: 'floor, storey', pattern: 'město', gender: 'n', level: 'A1', topic: 'home', svg: `
     <rect x="12" y="4" width="96" height="8" fill="#c0392b" ${S}/>
     <rect x="18" y="12" width="84" height="28" fill="#ffe08a" ${S}/>
     <rect x="18" y="40" width="84" height="28" fill="#f4a261" ${S}/>

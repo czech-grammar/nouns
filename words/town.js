@@ -1,6 +1,6 @@
 // Topic: town
 WORDS.push(
-  { cs: 'ulice', en: 'street', pattern: 'růže', gender: 'f', topic: 'town', svg: `
+  { cs: 'ulice', en: 'street', pattern: 'růže', gender: 'f', level: 'A1', topic: 'town', svg: `
     <path d="M6 76 H114 V98 H6 Z" fill="#777" ${S}/>
     <path d="M14 87 H30 M42 87 H58 M70 87 H86 M98 87 H110" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
     <rect x="6" y="68" width="108" height="8" fill="#ddd" ${S}/>
@@ -20,7 +20,7 @@ WORDS.push(
     <rect x="34" y="44" width="4" height="26" fill="#7a7f87" ${S}/>
     <path d="M30 44 H42 L40 38 H32 Z" fill="#f9c74f" ${S}/>` },
 
-  { cs: 'zastávka', en: 'stop', pattern: 'žena', gender: 'f', topic: 'town', svg: `
+  { cs: 'zastávka', en: 'stop', pattern: 'žena', gender: 'f', level: 'A1', topic: 'town', svg: `
     <rect x="48" y="24" width="64" height="52" fill="#dff3ff" ${S}/>
     <rect x="42" y="14" width="76" height="10" rx="2" fill="#2a9d8f" ${S}/>
     <rect x="46" y="24" width="4" height="72" fill="#7a7f87" ${S}/>
@@ -39,7 +39,7 @@ WORDS.push(
     <rect x="13" y="19" width="7" height="6" fill="#fff"/><rect x="24" y="19" width="7" height="6" fill="#fff"/>
     <circle cx="16" cy="33" r="3" fill="#333"/><circle cx="28" cy="33" r="3" fill="#333"/>` },
 
-  { cs: 'tramvaj', en: 'tram', pattern: 'píseň', gender: 'f', topic: 'town', svg: `
+  { cs: 'tramvaj', en: 'tram', pattern: 'píseň', gender: 'f', level: 'A1', topic: 'town', svg: `
     <path d="M4 8 H116" stroke="#333" stroke-width="2"/>
     <path d="M52 24 L60 9 L68 24 M55 9 H65" fill="none" ${S}/>
     <rect x="8" y="22" width="104" height="54" rx="8" fill="#e63946" ${S}/>
@@ -55,7 +55,7 @@ WORDS.push(
     <circle cx="94" cy="80" r="7" fill="#7a7f87" ${S}/>
     <path d="M4 91 H116" stroke="#333" stroke-width="3" stroke-linecap="round"/>` },
 
-  { cs: 'jízdenka', en: 'ticket', pattern: 'žena', gender: 'f', topic: 'town', svg: `
+  { cs: 'jízdenka', en: 'ticket', pattern: 'žena', gender: 'f', level: 'A1', topic: 'town', svg: `
     <g transform="rotate(-8 60 50)">
       <rect x="8" y="26" width="104" height="48" rx="4" fill="#f9c74f" ${S}/>
       <path d="M34 26 V74" fill="none" stroke="#333" stroke-width="2" stroke-dasharray="4 4"/>
@@ -68,7 +68,7 @@ WORDS.push(
       <rect x="15" y="58" width="6" height="6" fill="#fff" stroke="#333" stroke-width="1.5"/>
     </g>` },
 
-  { cs: 'silnice', en: 'road', pattern: 'růže', gender: 'f', topic: 'town', svg: `
+  { cs: 'silnice', en: 'road', pattern: 'růže', gender: 'f', level: 'A1', topic: 'town', svg: `
     <rect x="2" y="56" width="116" height="36" fill="#777" ${S}/>
     <path d="M8 74 H112" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="12 8"/>
     <rect x="94" y="30" width="4" height="26" fill="#7a7f87" ${S}/>
@@ -83,7 +83,7 @@ WORDS.push(
     <circle cx="64" cy="83" r="6" fill="#333"/><circle cx="64" cy="83" r="2.5" fill="#9aa0a8"/>
     <rect x="74" y="72" width="4" height="4" fill="#f9c74f"/>` },
 
-  { cs: 'nemocnice', en: 'hospital', pattern: 'růže', gender: 'f', topic: 'town', svg: `
+  { cs: 'nemocnice', en: 'hospital', pattern: 'růže', gender: 'f', level: 'A1', topic: 'town', svg: `
     <rect x="14" y="26" width="92" height="70" fill="#fff" ${S}/>
     <rect x="8" y="18" width="104" height="10" rx="2" fill="#9aa0a8" ${S}/>
     <path d="M54 32 h12 v8 h8 v12 h-8 v8 h-12 v-8 h-8 v-12 h8 Z" fill="#e63946" ${S}/>
@@ -98,7 +98,7 @@ WORDS.push(
     <path d="M83 68 h4 v3 h3 v4 h-3 v3 h-4 v-3 h-3 v-4 h3 Z" fill="#e63946"/>
     <circle cx="79" cy="90" r="5" fill="#333"/><circle cx="103" cy="90" r="5" fill="#333"/>` },
 
-  { cs: 'stanice', en: 'station', pattern: 'růže', gender: 'f', topic: 'town', svg: `
+  { cs: 'stanice', en: 'station', pattern: 'růže', gender: 'f', level: 'A1', topic: 'town', svg: `
     <rect x="4" y="6" width="112" height="9" rx="2" fill="#c0392b" ${S}/>
     <rect x="10" y="15" width="4" height="34" fill="#7a7f87" ${S}/>
     <rect x="106" y="15" width="4" height="34" fill="#7a7f87" ${S}/>
@@ -115,7 +115,7 @@ WORDS.push(
     <circle cx="78" cy="82" r="6" fill="#333"/><circle cx="94" cy="82" r="6" fill="#333"/>
     <rect x="4" y="88" width="112" height="8" fill="#9aa0a8" ${S}/>` },
 
-  { cs: 'vesnice', en: 'village', pattern: 'růže', gender: 'f', topic: 'town', svg: `
+  { cs: 'vesnice', en: 'village', pattern: 'růže', gender: 'f', level: 'A1', topic: 'town', svg: `
     <circle cx="104" cy="16" r="9" fill="#f9c74f" ${S}/>
     <path d="M4 72 Q36 44 70 68 Q96 50 116 70 V96 H4 Z" fill="#8fd18a" ${S}/>
     <rect x="100" y="74" width="14" height="16" fill="#ffb4a2" ${S}/>
@@ -133,7 +133,7 @@ WORDS.push(
     <path d="M32 18 V8 M28 11 H36" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
     <rect x="29" y="52" width="6" height="10" rx="3" fill="#bde0fe" ${S}/>` },
 
-  { cs: 'adresa', en: 'address', pattern: 'žena', gender: 'f', topic: 'town', svg: `
+  { cs: 'adresa', en: 'address', pattern: 'žena', gender: 'f', level: 'A1', topic: 'town', svg: `
     <rect x="8" y="18" width="104" height="64" rx="4" fill="#fff" ${S}/>
     <rect x="86" y="26" width="18" height="20" fill="#f4a261" ${S}/>
     <path d="M90 30 H100 M90 36 H100 M90 42 H100" stroke="#fff" stroke-width="2"/>

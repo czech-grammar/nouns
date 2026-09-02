@@ -1,6 +1,6 @@
 // Topic: home
 WORDS.push(
-  { cs: 'kuchyně', en: 'kitchen', pattern: 'růže', gender: 'f', topic: 'home', svg: `
+  { cs: 'kuchyně', en: 'kitchen', pattern: 'růže', gender: 'f', level: 'A1', topic: 'home', svg: `
     <rect x="26" y="4" width="68" height="18" fill="#b5722f" ${S}/>
     <path d="M60 4 V22" fill="none" ${S}/>
     <circle cx="55" cy="13" r="2" fill="#333"/><circle cx="65" cy="13" r="2" fill="#333"/>
@@ -16,7 +16,7 @@ WORDS.push(
     <rect x="41" y="39" width="38" height="6" rx="3" fill="#7a7f87" ${S}/>
     <circle cx="60" cy="37" r="3" fill="#333"/>` },
 
-  { cs: 'koupelna', en: 'bathroom', pattern: 'žena', gender: 'f', topic: 'home', svg: `
+  { cs: 'koupelna', en: 'bathroom', pattern: 'žena', gender: 'f', level: 'A1', topic: 'home', svg: `
     <path d="M18 50 V16 Q18 10 24 10 H34" fill="none" stroke="#333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M18 50 V16 Q18 10 24 10 H34" fill="none" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M28 6 H46 L50 18 H24 Z" fill="#9aa0a8" ${S}/>
@@ -34,7 +34,7 @@ WORDS.push(
     <ellipse cx="30" cy="93" rx="6" ry="3" fill="#9aa0a8" ${S}/>
     <ellipse cx="90" cy="93" rx="6" ry="3" fill="#9aa0a8" ${S}/>` },
 
-  { cs: 'ložnice', en: 'bedroom', pattern: 'růže', gender: 'f', topic: 'home', svg: `
+  { cs: 'ložnice', en: 'bedroom', pattern: 'růže', gender: 'f', level: 'A1', topic: 'home', svg: `
     <rect x="68" y="6" width="38" height="30" fill="#1d2a5a" ${S}/>
     <path d="M90 9 A13 13 0 1 0 98 30 A11 11 0 1 1 90 9 Z" fill="#f9e27a" ${S}/>
     <circle cx="73" cy="11" r="1.6" fill="#fff1a8"/><circle cx="102" cy="12" r="1.6" fill="#fff1a8"/><circle cx="74" cy="31" r="1.6" fill="#fff1a8"/>
@@ -51,7 +51,7 @@ WORDS.push(
     <rect x="28" y="82" width="6" height="12" fill="#8b4a2b" ${S}/>
     <rect x="104" y="82" width="6" height="12" fill="#8b4a2b" ${S}/>` },
 
-  { cs: 'místnost', en: 'room', pattern: 'kost', gender: 'f', topic: 'home', svg: `
+  { cs: 'místnost', en: 'room', pattern: 'kost', gender: 'f', level: 'A1', topic: 'home', svg: `
     <polygon points="4,4 116,4 96,14 24,14" fill="#fff" ${S}/>
     <polygon points="4,4 24,14 24,68 4,96" fill="#f9c74f" ${S}/>
     <polygon points="116,4 96,14 96,68 116,96" fill="#f9c74f" ${S}/>
@@ -63,7 +63,7 @@ WORDS.push(
     <rect x="62" y="24" width="26" height="22" fill="#bde0fe" ${S}/>
     <path d="M75 24 V46 M62 35 H88" fill="none" ${S}/>` },
 
-  { cs: 'zahrada', en: 'garden', pattern: 'žena', gender: 'f', topic: 'home', svg: `
+  { cs: 'zahrada', en: 'garden', pattern: 'žena', gender: 'f', level: 'A1', topic: 'home', svg: `
     <circle cx="18" cy="18" r="10" fill="#f9c74f" ${S}/>
     <path d="M18 2 V5 M18 31 V34 M2 18 H5 M31 18 H34 M7 7 L9 9 M27 27 L29 29 M29 7 L27 9 M9 27 L7 29" fill="none" stroke="#f9c74f" stroke-width="3" stroke-linecap="round"/>
     <path d="M4 62 Q60 56 116 62 V96 H4 Z" fill="#8fd18a" ${S}/>
@@ -84,7 +84,7 @@ WORDS.push(
     <g fill="#e63946" ${S}><circle cx="78" cy="78" r="3.5"/><circle cx="72" cy="83" r="3.5"/><circle cx="84" cy="83" r="3.5"/><circle cx="74" cy="89" r="3.5"/><circle cx="82" cy="89" r="3.5"/></g>
     <circle cx="78" cy="84" r="3" fill="#f9c74f"/>` },
 
-  { cs: 'postel', en: 'bed', pattern: 'píseň', gender: 'f', topic: 'home', svg: `
+  { cs: 'postel', en: 'bed', pattern: 'píseň', gender: 'f', level: 'A1', topic: 'home', svg: `
     <rect x="8" y="22" width="14" height="56" rx="4" fill="#8b4a2b" ${S}/>
     <rect x="8" y="64" width="104" height="14" fill="#b5722f" ${S}/>
     <rect x="22" y="54" width="78" height="12" fill="#fff" ${S}/>
@@ -94,7 +94,7 @@ WORDS.push(
     <rect x="12" y="78" width="8" height="14" fill="#8b4a2b" ${S}/>
     <rect x="100" y="78" width="8" height="14" fill="#8b4a2b" ${S}/>` },
 
-  { cs: 'židle', en: 'chair', pattern: 'růže', gender: 'f', topic: 'home', svg: `
+  { cs: 'židle', en: 'chair', pattern: 'růže', gender: 'f', level: 'A1', topic: 'home', svg: `
     <rect x="30" y="6" width="8" height="56" fill="#b5722f" ${S}/>
     <rect x="82" y="6" width="8" height="56" fill="#b5722f" ${S}/>
     <rect x="38" y="12" width="44" height="8" fill="#b5722f" ${S}/>
@@ -105,7 +105,7 @@ WORDS.push(
     <rect x="84" y="70" width="8" height="26" fill="#8b4a2b" ${S}/>
     <rect x="36" y="80" width="48" height="5" fill="#8b4a2b" ${S}/>` },
 
-  { cs: 'skříň', en: 'wardrobe', pattern: 'píseň', gender: 'f', topic: 'home', svg: `
+  { cs: 'skříň', en: 'wardrobe', pattern: 'píseň', gender: 'f', level: 'A1', topic: 'home', svg: `
     <rect x="22" y="8" width="76" height="84" fill="#5a3a22" ${S}/>
     <path d="M62 20 H96" fill="none" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round"/>
     <path d="M78 20 V25 M68 32 L78 25 L88 32" fill="none" ${S}/>
@@ -120,7 +120,7 @@ WORDS.push(
     <rect x="26" y="90" width="8" height="6" fill="#8b4a2b" ${S}/>
     <rect x="86" y="90" width="8" height="6" fill="#8b4a2b" ${S}/>` },
 
-  { cs: 'lednička', en: 'fridge', pattern: 'žena', gender: 'f', topic: 'home', svg: `
+  { cs: 'lednička', en: 'fridge', pattern: 'žena', gender: 'f', level: 'A1', topic: 'home', svg: `
     <rect x="28" y="6" width="56" height="88" rx="4" fill="#ddd" ${S}/>
     <rect x="34" y="12" width="44" height="76" fill="#fff" ${S}/>
     <path d="M34 38 H78 M34 62 H78" fill="none" ${S}/>
@@ -135,7 +135,7 @@ WORDS.push(
     <polygon points="84,6 108,16 108,84 84,94" fill="#ddd" ${S}/>
     <rect x="88" y="36" width="4" height="24" rx="2" fill="#7a7f87" ${S}/>` },
 
-  { cs: 'dveře', en: 'door', pattern: 'plural only', gender: 'f', topic: 'home', svg: `
+  { cs: 'dveře', en: 'door', pattern: 'plural only', gender: 'f', level: 'A1', topic: 'home', svg: `
     <rect x="26" y="4" width="68" height="92" fill="#8b4a2b" ${S}/>
     <rect x="34" y="12" width="52" height="84" fill="#b5722f" ${S}/>
     <rect x="40" y="20" width="32" height="28" rx="2" fill="none" stroke="#8b4a2b" stroke-width="3"/>
