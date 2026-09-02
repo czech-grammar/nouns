@@ -126,6 +126,30 @@
     width: 40px; height: 40px; font-size: 1.2rem; cursor: pointer;
   }
   .say:hover { background: #e8d8be; }
+  /* declension panel */
+  .overlay { position: fixed; inset: 0; background: rgba(40, 30, 20, .45); display: flex; align-items: center; justify-content: center; padding: 16px; z-index: 10; }
+  .panel { background: var(--card); border-radius: 22px; box-shadow: 0 16px 48px rgba(80, 50, 20, .3); max-width: 720px; width: 100%; max-height: 92vh; overflow: auto; padding: 18px 20px 20px; position: relative; border-top: 10px solid var(--g, var(--accent)); }
+  .panel .close { position: absolute; top: 10px; right: 12px; border: none; background: #f1e6d4; border-radius: 999px; width: 36px; height: 36px; font-size: 1.1rem; cursor: pointer; }
+  .panel .head { display: flex; gap: 16px; align-items: center; margin-bottom: 10px; }
+  .panel .head svg { width: 120px; height: 100px; flex: none; }
+  .panel .head .cs { font-size: 2rem; font-weight: 800; color: var(--g, var(--ink)); margin: 0; }
+  .panel .head .en { color: var(--muted); font-weight: 700; }
+  .panel .head .vzor { margin-top: 4px; font-size: .9rem; color: var(--muted); }
+  .panel .head .vzor b { color: var(--ink); }
+  .panel table { width: 100%; border-collapse: collapse; font-size: 1.05rem; }
+  .panel th { text-align: left; font-size: .8rem; color: var(--muted); font-weight: 700; padding: 6px 8px; border-bottom: 2px solid #f1e6d4; }
+  .panel td { padding: 7px 8px; border-bottom: 1px solid #f7efe2; vertical-align: top; }
+  .panel td.case { white-space: nowrap; color: var(--muted); font-size: .85rem; line-height: 1.25; width: 1%; }
+  .panel th:first-child { width: 1%; white-space: nowrap; }
+  .panel td.form, .panel td.model { width: 50%; }
+  .panel td.case b { color: var(--ink); font-size: 1rem; }
+  .panel td.form { font-weight: 800; font-size: 1.15rem; }
+  .panel td.model { color: var(--muted); }
+  .panel td.form.stem { background: #fffaea; border-radius: 6px; }
+  .panel td.form.odd { background: #fff1c2; border-radius: 6px; }
+  .panel .note { margin-top: 10px; font-size: .85rem; color: var(--muted); }
+  .panel .note a { color: var(--ink); }
+  @media (max-width: 560px) { .panel .head svg { width: 84px; height: 70px; } .panel table { font-size: .95rem; } .panel td.model, .panel th.model { display: none; } }
   footer { text-align: center; color: var(--muted); padding: 12px 16px 28px; font-size: .9rem; line-height: 1.7; }
   footer a { color: var(--ink); }
 </style>
@@ -133,7 +157,7 @@
 <body>
 <header>
   <h1>Česká slovíčka</h1>
-  <p>Czech &rarr; English picture cards. Tap a card to reveal a hidden word.</p>
+  <p>Czech &rarr; English picture cards. Tap a card for its declension (in the hide modes, tap once to reveal, again to open).</p>
   <div class="controls" role="group" aria-label="Mode">
     <button data-mode="both" aria-pressed="true">Show both</button>
     <button data-mode="hide-en" aria-pressed="false">Hide English</button>
@@ -288,7 +312,11 @@
       <div class="cs" lang="cs">${w.cs}</div>
       <div class="en" lang="en">${w.en}</div>
       ${AUDIO ? `<button class="say" aria-label="Say ${w.cs} in Czech">🔊</button>` : ''}`;
-    card.addEventListener('click', () => card.classList.toggle('revealed'));
+    card.addEventListener('click', () => {
+      // in the hide modes the first tap reveals the hidden word, the second opens the declension
+      if (mode !== 'both' && !card.classList.contains('revealed')) { card.classList.add('revealed'); return; }
+      openPanel(w, card);
+    });
     const sayBtn = card.querySelector('.say');
     if (sayBtn) sayBtn.addEventListener('click', (e) => { e.stopPropagation(); say(w.cs); });
     return card;
@@ -341,6 +369,77 @@
       render();
     });
   });
+
+  // ---- declension panel ----
+  const CASES = [
+    ['1. pád', 'kdo? co?'], ['2. pád', 'koho? čeho?'], ['3. pád', 'komu? čemu?'], ['4. pád', 'koho? co?'],
+    ['5. pád', 'oslovení'], ['6. pád', '(o) kom? čem?'], ['7. pád', 's kým? čím?'],
+  ];
+  const GENDER_NAME = { ma: 'mužský životný', mi: 'mužský neživotný', f: 'ženský', n: 'střední' };
+  const MODELS = ['žena','růže','píseň','kost','město','moře','kuře','stavení','pán','muž','předseda','soudce','hrad','stroj'];
+  let DECL = null, declLoading = null;
+  function loadDecl() {
+    if (DECL) return Promise.resolve(DECL);
+    if (!declLoading) declLoading = fetch('declension.json').then(r => r.json()).then(d => (DECL = d));
+    return declLoading;
+  }
+  const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;');
+  const stemOf = (w) => w.toLowerCase().replace(/[aeiouyáéěíóúůý]+$/, '');
+
+  function openPanel(w, card) {
+    const g = card.dataset.gender;
+    const ov = document.createElement('div');
+    ov.className = 'overlay';
+    ov.innerHTML = `<div class="panel" role="dialog" aria-modal="true" style="--g: var(--g-${g})">
+      <button class="close" aria-label="Zavřít">✕</button>
+      <div class="head">
+        <svg viewBox="0 0 120 100" aria-hidden="true">${w.svg}</svg>
+        <div><p class="cs" lang="cs">${esc(w.cs)}</p><div class="en">${esc(w.en)}</div>
+        <div class="vzor">vzor <b>${esc(w.pattern)}</b> &middot; ${GENDER_NAME[g]} &middot; ${esc(w.level)}</div></div>
+      </div>
+      <div class="body">Načítám skloňování…</div>
+      <div class="note"></div>
+    </div>`;
+    const onKey = (e) => { if (e.key === 'Escape') close(); };
+    const close = () => { ov.remove(); document.removeEventListener('keydown', onKey); };
+    ov.addEventListener('click', (e) => { if (e.target === ov) close(); });
+    ov.querySelector('.close').addEventListener('click', close);
+    document.addEventListener('keydown', onKey);
+    document.body.appendChild(ov);
+    loadDecl().then(d => renderDecl(ov, w, d)).catch(() => { ov.querySelector('.body').textContent = 'Skloňování se nepodařilo načíst.'; });
+  }
+
+  function renderDecl(ov, w, d) {
+    const body = ov.querySelector('.body'), note = ov.querySelector('.note');
+    const entry = d[w.cs];
+    if (!entry || (!entry.sg.length && !entry.pl.length)) { body.innerHTML = '<p>Pro toto slovo zatím tabulku nemáme.</p>'; return; }
+    const modelName = (w.pattern.match(/^[^ (]+/) || [''])[0];
+    const showModel = MODELS.includes(modelName) && modelName !== w.cs && d[modelName];
+    const model = showModel ? d[modelName] : null;
+    const stem = stemOf(w.cs);
+    const irregular = /^(plural|adjective|indeclinable|irregular)/.test(w.pattern);
+    const oddPlural = /pl\./.test(w.pattern);
+    const cell = (form, number) => {
+      if (!form) return '<td class="form">—</td>';
+      const first = form.split(' / ')[0].toLowerCase();
+      let cls = 'form';
+      if (irregular || (number === 'pl' && oddPlural)) cls += ' odd';
+      else if (!first.startsWith(stem)) cls += ' stem';
+      return `<td class="${cls}" lang="cs">${esc(form)}</td>`;
+    };
+    const numbers = [['Jednotné číslo · singular', 'sg'], ['Množné číslo · plural', 'pl']].filter(([, k]) => entry[k].length);
+    body.innerHTML = numbers.map(([title, k]) => `
+      <table><thead><tr><th>${title}</th><th>${esc(w.cs)}</th><th class="model">${model ? 'vzor ' + esc(modelName) : ''}</th></tr></thead><tbody>
+      ${CASES.map((c, i) => `<tr><td class="case"><b>${c[0]}</b><br>${c[1]}</td>${cell(entry[k][i], k)}<td class="model" lang="cs">${model && model[k] && model[k][i] ? esc(model[k][i]) : ''}</td></tr>`).join('')}
+      </tbody></table>`).join('<div style="height:10px"></div>');
+    const extra = [];
+    if (!entry.sg.length) extra.push('Slovo se používá jen v množném čísle.');
+    if (/^indeclinable/.test(w.pattern)) extra.push('Nesklonné slovo, tvar se nemění.');
+    else if (!entry.pl.length) extra.push('Množné číslo se běžně neužívá.');
+    const src = entry.source === 'cs.wiktionary' ? '<a href="https://cs.wiktionary.org/wiki/' + encodeURIComponent(w.cs) + '">Wikislovník</a> (CC BY-SA)'
+              : entry.source === 'manual' ? 'zadáno ručně' : 'odvozeno podle vzoru, zatím nezkontrolováno';
+    note.innerHTML = `${extra.map(esc).join(' ')} Tvary: ${src}.`;
+  }
 
   function say(text) {
     if (!('speechSynthesis' in window)) return;

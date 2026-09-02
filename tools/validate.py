@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Validate all card entries: XML well-formedness, duplicates, coordinate range."""
-import glob, re, sys, os, xml.dom.minidom
+import glob, json, re, sys, os, xml.dom.minidom
 os.chdir(os.path.join(os.path.dirname(__file__), '..'))
 S = 'stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"'
 ENTRY = re.compile(r"\{\s*cs:\s*'([^']+)',\s*en:\s*'([^']+)',\s*pattern:\s*'([^']+)',\s*gender:\s*'(f|ma|mi|n)',\s*level:\s*'(A1|A2|B1|B2)',\s*official:\s*(?:'(A1|A2)'|null),\s*topic:\s*'([^']+)',\s*svg:\s*`(.*?)`\s*\}", re.S)
@@ -44,6 +44,11 @@ def main():
             print(f"WRONG LEVEL {e['cs']}: A1 entry in the a2 folder"); bad += 1
         if not e['pattern'].startswith(('žena', 'růže', 'píseň', 'kost', 'město', 'moře', 'kuře', 'stavení', 'pán', 'muž', 'předseda', 'soudce', 'hrad', 'stroj', 'irregular', 'adjective', 'plural', 'indeclinable')):
             print(f"ODD PATTERN {e['cs']}: {e['pattern']}"); bad += 1
+    if os.path.exists('declension.json'):
+        decl = json.load(open('declension.json', encoding='utf8'))
+        nodecl = [e['cs'] for e in es if e['cs'] not in decl or not (decl[e['cs']].get('sg') or decl[e['cs']].get('pl'))]
+        if nodecl:
+            print('NO DECLENSION TABLE:', ', '.join(nodecl)); bad += len(nodecl)
     print('entries:', len(es), '| by topic:', ', '.join(f'{k} {v}' for k, v in sorted(per_topic.items())))
     print('problems:', bad)
     sys.exit(1 if bad else 0)
