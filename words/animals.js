@@ -1,6 +1,6 @@
 // Topic: animals
 WORDS.push(
-  { cs: 'kočka', en: 'cat', pattern: 'žena', gender: 'f', level: 'A1', topic: 'animals', svg: `
+  { cs: 'kočka', en: 'cat', pattern: 'žena', gender: 'f', level: 'A1', official: 'A1', topic: 'animals', svg: `
     <path d="M84 88 Q112 92 110 70 Q108 54 94 60" fill="none" stroke="#333" stroke-width="11" stroke-linecap="round"/>
     <path d="M84 88 Q112 92 110 70 Q108 54 94 60" fill="none" stroke="#f4a261" stroke-width="6" stroke-linecap="round"/>
     <ellipse cx="60" cy="72" rx="30" ry="22" fill="#f4a261" ${S}/>
@@ -17,7 +17,7 @@ WORDS.push(
     <ellipse cx="47" cy="92" rx="9" ry="5" fill="#f4a261" ${S}/>
     <ellipse cx="73" cy="92" rx="9" ry="5" fill="#f4a261" ${S}/>` },
 
-  { cs: 'myš', en: 'mouse', pattern: 'kost', gender: 'f', level: 'A1', topic: 'animals', svg: `
+  { cs: 'myš', en: 'mouse', pattern: 'kost', gender: 'f', level: 'A1', official: 'A2', topic: 'animals', svg: `
     <path d="M26 74 Q8 78 10 62 Q12 48 6 42" fill="none" stroke="#333" stroke-width="7" stroke-linecap="round"/>
     <path d="M26 74 Q8 78 10 62 Q12 48 6 42" fill="none" stroke="#ffb4a2" stroke-width="3" stroke-linecap="round"/>
     <circle cx="50" cy="30" r="16" fill="#9aa0a8" ${S}/>
@@ -31,7 +31,7 @@ WORDS.push(
     <ellipse cx="48" cy="92" rx="8" ry="4" fill="#ffb4a2" ${S}/>
     <ellipse cx="80" cy="92" rx="8" ry="4" fill="#ffb4a2" ${S}/>` },
 
-  { cs: 'kráva', en: 'cow', pattern: 'žena', gender: 'f', level: 'A1', topic: 'animals', svg: `
+  { cs: 'kráva', en: 'cow', pattern: 'žena', gender: 'f', level: 'A1', official: null, topic: 'animals', svg: `
     <path d="M106 42 Q118 52 112 68" fill="none" ${S}/>
     <circle cx="112" cy="70" r="4" fill="#333"/>
     <rect x="30" y="68" width="9" height="26" fill="#fff" ${S}/>
@@ -53,7 +53,7 @@ WORDS.push(
     <circle cx="18" cy="48" r="1.8" fill="#333"/><circle cx="26" cy="48" r="1.8" fill="#333"/>
     <circle cx="30" cy="35" r="3" fill="#333"/>` },
 
-  { cs: 'slepice', en: 'hen', pattern: 'růže', gender: 'f', level: 'A1', topic: 'animals', svg: `
+  { cs: 'slepice', en: 'hen', pattern: 'růže', gender: 'f', level: 'A1', official: null, topic: 'animals', svg: `
     <path d="M88 50 Q104 28 114 34 Q110 48 94 58 Z" fill="#8b4a2b" ${S}/>
     <path d="M90 56 Q110 44 117 56 Q106 66 94 64 Z" fill="#8b4a2b" ${S}/>
     <path d="M90 62 Q108 62 113 76 Q100 78 92 70 Z" fill="#8b4a2b" ${S}/>
@@ -68,7 +68,7 @@ WORDS.push(
     <circle cx="32" cy="34" r="14" fill="#b5722f" ${S}/>
     <circle cx="28" cy="32" r="2.5" fill="#333"/>` },
 
-  { cs: 'liška', en: 'fox', pattern: 'žena', gender: 'f', level: 'A1', topic: 'animals', svg: `
+  { cs: 'liška', en: 'fox', pattern: 'žena', gender: 'f', level: 'A1', official: null, topic: 'animals', svg: `
     <ellipse cx="96" cy="74" rx="22" ry="12" transform="rotate(-40 96 74)" fill="#f4a261" ${S}/>
     <circle cx="109" cy="59" r="7" fill="#fff" ${S}/>
     <ellipse cx="60" cy="74" rx="28" ry="20" fill="#f4a261" ${S}/>
@@ -84,7 +84,7 @@ WORDS.push(
     <ellipse cx="46" cy="92" rx="8" ry="4.5" fill="#3b2a1a" ${S}/>
     <ellipse cx="74" cy="92" rx="8" ry="4.5" fill="#3b2a1a" ${S}/>` },
 
-  { cs: 'želva', en: 'tortoise', pattern: 'žena', gender: 'f', level: 'A1', topic: 'animals', svg: `
+  { cs: 'želva', en: 'tortoise', pattern: 'žena', gender: 'f', level: 'A1', official: null, topic: 'animals', svg: `
     <ellipse cx="36" cy="82" rx="10" ry="9" fill="#8fd18a" ${S}/>
     <ellipse cx="88" cy="82" rx="10" ry="9" fill="#8fd18a" ${S}/>
     <path d="M102 66 L114 72 L102 76 Z" fill="#8fd18a" ${S}/>

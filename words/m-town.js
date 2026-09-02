@@ -1,6 +1,6 @@
 // Topic: town and transport (masculine inanimate)
 WORDS.push(
-  { cs: 'vlak', en: 'train', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'vlak', en: 'train', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'town', svg: `
     <ellipse cx="14" cy="28" rx="6" ry="4" fill="#ddd" ${S}/>
     <ellipse cx="24" cy="18" rx="8" ry="5" fill="#ddd" ${S}/>
     <path d="M4 90 H116" stroke="#333" stroke-width="3" stroke-linecap="round"/>
@@ -19,7 +19,7 @@ WORDS.push(
     <rect x="88" y="52" width="7" height="9" fill="#bde0fe" ${S}/><rect x="98" y="52" width="7" height="9" fill="#bde0fe" ${S}/><rect x="108" y="52" width="7" height="9" fill="#bde0fe" ${S}/>
     <circle cx="91" cy="82" r="6" fill="#7a7f87" ${S}/><circle cx="109" cy="82" r="6" fill="#7a7f87" ${S}/>` },
 
-  { cs: 'autobus', en: 'bus', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'autobus', en: 'bus', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'town', svg: `
     <rect x="6" y="26" width="108" height="54" rx="8" fill="#f9c74f" ${S}/>
     <rect x="12" y="33" width="15" height="15" rx="2" fill="#bde0fe" ${S}/>
     <rect x="31" y="33" width="15" height="15" rx="2" fill="#bde0fe" ${S}/>
@@ -34,7 +34,7 @@ WORDS.push(
     <circle cx="98" cy="82" r="10" fill="#333" ${S}/><circle cx="98" cy="82" r="4" fill="#9aa0a8"/>
     <path d="M4 96 H116" stroke="#333" stroke-width="3" stroke-linecap="round"/>` },
 
-  { cs: 'most', en: 'bridge', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'most', en: 'bridge', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'town', svg: `
     <rect x="4" y="76" width="112" height="20" fill="#4fa3e3" ${S}/>
     <path d="M12 88 q5 -3 10 0 t10 0 M46 90 q5 -3 10 0 t10 0 M80 88 q5 -3 10 0 t10 0" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
     <path d="M4 50 H116 V92 H106 a13 13 0 0 0 -26 0 H73 a13 13 0 0 0 -26 0 H40 a13 13 0 0 0 -26 0 H4 Z" fill="#ddd" ${S}/>
@@ -54,7 +54,7 @@ WORDS.push(
     <path d="M71 24 L66 30 M79 24 L84 30" stroke="#7a7f87" stroke-width="4" stroke-linecap="round"/>
     <circle cx="75" cy="16" r="5" fill="#7a7f87" ${S}/>` },
 
-  { cs: 'park', en: 'park', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'park', en: 'park', pattern: 'hrad', gender: 'mi', level: 'A1', official: null, topic: 'town', svg: `
     <rect x="4" y="50" width="112" height="46" fill="#8fd18a" ${S}/>
     <path d="M46 96 Q54 74 114 66 V76 Q64 82 60 96 Z" fill="#f4d58d" ${S}/>
     <rect x="16" y="42" width="8" height="20" fill="#8b4a2b" ${S}/>
@@ -72,7 +72,7 @@ WORDS.push(
     <path d="M35 73 L40 75 L35 77 Z" fill="#f4a261"/>
     <circle cx="32" cy="73" r="1" fill="#333"/>` },
 
-  { cs: 'hotel', en: 'hotel', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'hotel', en: 'hotel', pattern: 'hrad', gender: 'mi', level: 'A1', official: null, topic: 'town', svg: `
     <rect x="22" y="22" width="76" height="74" fill="#ffe08a" ${S}/>
     <rect x="14" y="6" width="92" height="18" rx="3" fill="#1d2a5a" ${S}/>
     <text x="60" y="19.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#fff">HOTEL</text>
@@ -88,7 +88,7 @@ WORDS.push(
     <path d="M40 81 V95 M80 81 V95" fill="none" ${S}/>
     <rect x="36" y="74" width="48" height="7" rx="2" fill="#e63946" ${S}/>` },
 
-  { cs: 'kostel', en: 'church', pattern: 'hrad (kostela)', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'kostel', en: 'church', pattern: 'hrad (kostela)', gender: 'mi', level: 'A1', official: 'A1', topic: 'town', svg: `
     <rect x="44" y="52" width="66" height="44" fill="#fff" ${S}/>
     <path d="M40 52 L77 30 L114 52 Z" fill="#c0392b" ${S}/>
     <rect x="12" y="34" width="30" height="62" fill="#fff" ${S}/>
@@ -102,7 +102,7 @@ WORDS.push(
     <path d="M96 76 V68 a4 4 0 0 1 8 0 V76 Z" fill="#bde0fe" ${S}/>
     <path d="M68 96 V78 a9 9 0 0 1 18 0 V96 Z" fill="#5a3a22" ${S}/>` },
 
-  { cs: 'hrad', en: 'castle', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'hrad', en: 'castle', pattern: 'hrad', gender: 'mi', level: 'A1', official: null, topic: 'town', svg: `
     <path d="M24 96 V38 H32 V46 H40 V38 H48 V46 H56 V38 H64 V46 H72 V38 H80 V46 H88 V38 H96 V96 Z" fill="#9aa0a8" ${S}/>
     <path d="M32 56 H42 M52 56 H62 M74 56 H84 M38 66 H48 M66 66 H76 M32 78 H42 M78 78 H88" stroke="#7a7f87" stroke-width="2" stroke-linecap="round"/>
     <rect x="6" y="32" width="22" height="64" fill="#9aa0a8" ${S}/>
@@ -118,7 +118,7 @@ WORDS.push(
     <path d="M48 96 V70 a12 12 0 0 1 24 0 V96 Z" fill="#5a3a22" ${S}/>
     <path d="M56 96 V60 M64 96 V60" stroke="#333" stroke-width="1.5"/>` },
 
-  { cs: 'zámek', en: 'chateau, lock', pattern: 'hrad (zámku)', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'zámek', en: 'chateau, lock', pattern: 'hrad (zámku)', gender: 'mi', level: 'A1', official: null, topic: 'town', svg: `
     <path d="M38 12 Q38 5 50 4 Q62 5 62 12 Z" fill="#c0392b" ${S}/>
     <rect x="40" y="12" width="20" height="16" fill="#ffe08a" ${S}/>
     <rect x="46" y="16" width="8" height="8" fill="#fff" ${S}/>
@@ -132,7 +132,7 @@ WORDS.push(
     <rect x="95" y="80" width="21" height="16" rx="3" fill="#f9c74f" ${S}/>
     <circle cx="105.5" cy="86.5" r="2.2" fill="#333"/><rect x="104.5" y="87" width="2" height="5" fill="#333"/>` },
 
-  { cs: 'úřad', en: 'office, authority', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'úřad', en: 'office, authority', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'town', svg: `
     <path d="M18 24 V4" stroke="#333" stroke-width="3" stroke-linecap="round"/>
     <rect x="19" y="4" width="26" height="8" fill="#fff"/>
     <rect x="19" y="12" width="26" height="8" fill="#e63946"/>
@@ -151,7 +151,7 @@ WORDS.push(
     <rect x="95" y="52" width="10" height="16" rx="5" fill="#8b4a2b" ${S}/>
     <rect x="86" y="68" width="28" height="8" rx="2" fill="#333" ${S}/>` },
 
-  { cs: 'chodník', en: 'pavement', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'chodník', en: 'pavement', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A2', topic: 'town', svg: `
     <rect x="4" y="82" width="112" height="14" fill="#777" ${S}/>
     <path d="M12 90 H30 M46 90 H64 M80 90 H98" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
     <rect x="4" y="76" width="112" height="7" fill="#9aa0a8" ${S}/>
@@ -169,7 +169,7 @@ WORDS.push(
     <circle cx="38" cy="17" r="1.5" fill="#333"/><circle cx="43" cy="17" r="1.5" fill="#333"/>
     <path d="M37 21 Q40 24 43 21" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>` },
 
-  { cs: 'semafor', en: 'traffic light', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'semafor', en: 'traffic light', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A2', topic: 'town', svg: `
     <rect x="54" y="72" width="12" height="24" fill="#9aa0a8" ${S}/>
     <rect x="40" y="88" width="40" height="8" rx="2" fill="#9aa0a8" ${S}/>
     <rect x="38" y="4" width="44" height="70" rx="7" fill="#7a7f87" ${S}/>
@@ -178,7 +178,7 @@ WORDS.push(
     <circle cx="60" cy="60" r="9" fill="#6cc06a" ${S}/>
     <circle cx="56" cy="15" r="2" fill="#fff"/><circle cx="56" cy="36" r="2" fill="#fff"/><circle cx="56" cy="57" r="2" fill="#fff"/>` },
 
-  { cs: 'pas', en: 'passport', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'pas', en: 'passport', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'town', svg: `
     <rect x="8" y="8" width="62" height="84" rx="4" fill="#c0392b" ${S}/>
     <path d="M16 8 V92" stroke="#333" stroke-width="2"/>
     <text x="43" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="14" fill="#f9c74f">PAS</text>
@@ -195,7 +195,7 @@ WORDS.push(
     <circle cx="94" cy="74" r="8" fill="none" stroke="#e63946" stroke-width="2" stroke-dasharray="3 2"/>
     <path d="M90 74 H98" stroke="#e63946" stroke-width="2" stroke-linecap="round"/>` },
 
-  { cs: 'výlet', en: 'trip', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'town', svg: `
+  { cs: 'výlet', en: 'trip', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'town', svg: `
     <circle cx="104" cy="14" r="9" fill="#f9c74f" ${S}/>
     <path d="M4 68 Q26 40 48 60 Q68 36 90 56 Q104 46 116 58 V96 H4 Z" fill="#8fd18a" ${S}/>
     <path d="M80 58 L86 46 L92 58 Z" fill="#3f9d55" ${S}/>

@@ -1,6 +1,6 @@
 // Topic: leisure (masculine inanimate)
 WORDS.push(
-  { cs: 'fotbal', en: 'football', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'fotbal', en: 'football', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <rect x="4" y="76" width="112" height="20" fill="#6cc06a" ${S}/>
     <rect x="12" y="12" width="96" height="64" fill="#fff" ${S}/>
     <path d="M24 12 V76 M36 12 V76 M48 12 V76 M60 12 V76 M72 12 V76 M84 12 V76 M96 12 V76 M12 24 H108 M12 36 H108 M12 48 H108 M12 60 H108" fill="none" stroke="#9aa0a8" stroke-width="1.5"/>
@@ -18,7 +18,7 @@ WORDS.push(
     <path d="M60 58 V51 M67.6 63.5 L74.3 61.4 M64.7 72.5 L68.8 78.1 M55.3 72.5 L51.2 78.1 M52.4 63.5 L45.7 61.4" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
     <circle cx="60" cy="66" r="24" fill="none" ${S}/>` },
 
-  { cs: 'hokej', en: 'ice hockey', pattern: 'stroj', gender: 'mi', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'hokej', en: 'ice hockey', pattern: 'stroj', gender: 'mi', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <rect x="4" y="62" width="112" height="34" rx="6" fill="#dff3ff" ${S}/>
     <path d="M4 74 H116" stroke="#e63946" stroke-width="2.5"/>
     <path d="M4 86 H116" stroke="#4fa3e3" stroke-width="2.5"/>
@@ -31,7 +31,7 @@ WORDS.push(
     <rect x="70" y="56" width="40" height="8" rx="2" fill="#9aa0a8" ${S}/>
     <path d="M82 34 V44 M90 32 V44 M98 34 V44" fill="none" stroke="#c0392b" stroke-width="2.5" stroke-linecap="round"/>` },
 
-  { cs: 'sport', en: 'sport', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'sport', en: 'sport', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <ellipse cx="32" cy="32" rx="22" ry="27" fill="#e63946" ${S}/>
     <ellipse cx="32" cy="32" rx="16" ry="21" fill="#fff" ${S}/>
     <path d="M24 16 V48 M32 11 V53 M40 16 V48 M17 24 H47 M16 32 H48 M17 40 H47" fill="none" stroke="#ddd" stroke-width="1.5"/>
@@ -52,7 +52,7 @@ WORDS.push(
     <path d="M50 86 H114 V93 H50 Z" fill="#fff" ${S}/>
     <path d="M66 70 L72 78 M74 70 L80 78" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>` },
 
-  { cs: 'film', en: 'film', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'film', en: 'film', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <rect x="90" y="4" width="22" height="92" rx="2" fill="#333" ${S}/>
     <g fill="#fff">
       <rect x="93" y="9" width="4" height="6"/><rect x="105" y="9" width="4" height="6"/>
@@ -76,7 +76,7 @@ WORDS.push(
     </g>
     <circle cx="11" cy="42" r="4" fill="#9aa0a8" ${S}/>` },
 
-  { cs: 'koncert', en: 'concert', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'koncert', en: 'concert', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <rect x="4" y="4" width="112" height="92" rx="8" fill="#1d2a5a"/>
     <path d="M14 8 L30 76 H86 Z" fill="#ffe08a" opacity="0.6"/>
     <path d="M106 8 L34 76 H90 Z" fill="#ffe08a" opacity="0.6"/>
@@ -101,14 +101,14 @@ WORDS.push(
     <path d="M28 65 V52" fill="none" ${S}/>
     <rect x="4" y="4" width="112" height="92" rx="8" fill="none" ${S}/>` },
 
-  { cs: 'míč', en: 'ball', pattern: 'stroj', gender: 'mi', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'míč', en: 'ball', pattern: 'stroj', gender: 'mi', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <circle cx="60" cy="50" r="42" fill="#e63946" ${S}/>
     <path d="M18.4 44 Q60 26 101.6 44 L100.2 62 Q60 44 19.8 62 Z" fill="#fff" ${S}/>
     <path d="M19.8 62 Q60 44 100.2 62 L91.3 78 Q60 60 28.7 78 Z" fill="#4fa3e3" ${S}/>
     <ellipse cx="42" cy="26" rx="7" ry="4" transform="rotate(-30 42 26)" fill="#fff" opacity="0.7"/>
     <circle cx="60" cy="50" r="42" fill="none" ${S}/>` },
 
-  { cs: 'tenis', en: 'tennis', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'tenis', en: 'tennis', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <rect x="70" y="82" width="46" height="12" fill="#fff" ${S}/>
     <path d="M78 82 V94 M86 82 V94 M94 82 V94 M102 82 V94 M110 82 V94 M70 88 H116" fill="none" stroke="#9aa0a8" stroke-width="1.5"/>
     <ellipse cx="46" cy="40" rx="27" ry="33" fill="#2a9d8f" ${S}/>
@@ -119,7 +119,7 @@ WORDS.push(
     <circle cx="94" cy="64" r="14" fill="#f9c74f" ${S}/>
     <path d="M83 55 Q94 64 83 73 M105 55 Q94 64 105 73" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>` },
 
-  { cs: 'internet', en: 'internet', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'internet', en: 'internet', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A2', topic: 'leisure', svg: `
     <rect x="20" y="8" width="80" height="58" rx="5" fill="#333" ${S}/>
     <rect x="26" y="14" width="68" height="46" rx="2" fill="#dff3ff" ${S}/>
     <path d="M8 66 H112 L116 80 H4 Z" fill="#9aa0a8" ${S}/>
@@ -132,7 +132,7 @@ WORDS.push(
     <path d="M70.8 40.8 A13 13 0 0 1 89.2 40.8" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
     <path d="M67.3 37.3 A18 18 0 0 1 92.7 37.3" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>` },
 
-  { cs: 'časopis', en: 'magazine', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'časopis', en: 'magazine', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <rect x="24" y="12" width="82" height="82" rx="2" fill="#ddd" ${S}/>
     <path d="M16 6 H98 V74 Q94 88 80 88 H16 Z" fill="#fff" ${S}/>
     <rect x="16" y="6" width="82" height="16" fill="#e63946" ${S}/>

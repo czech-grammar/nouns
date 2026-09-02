@@ -1,0 +1,8204 @@
+[
+{
+"cs": "adresa",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "adresát",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "advokát",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "advokátka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "aerobik",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "agentura",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "AIDS",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "aktovka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "alergie",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "alkohol",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ambulance",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "angína",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "angličtina",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "antibiotika",
+"level": "A2",
+"gender": "n",
+"number": "plurál"
+},
+{
+"cs": "antikoncepce",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "aperitiv",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "apostila",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "asistent",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "asistentka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ateista",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ateistka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "atletika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "aula",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "auto",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "autobazar",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "autobus",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "autodíl",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "automat",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "autosedačka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "autoservis",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "autoškola",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "babička",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "bál",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "balet",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "balíček",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "balík",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "balon",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "banán",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "banka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "bankomat",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "bankovnictví",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "barva",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "báseň",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "basketbal",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "básník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "básnířka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "batoh",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "bavlna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "bazén",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Bc.",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "běh",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "becherovka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "běloch",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "běloška",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "benzin",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "benzinka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "beton",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "bezpečnost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "biologie",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "blog",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "blůza",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "bod",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "bojler",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "bolest",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "bonbon",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "boty",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "bouřka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "bowling",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "brambory",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "bratr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "bratranec",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "brigáda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "brigádnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "brigádník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "bronchitida",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "brusle",
+"level": "A2",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "brýle",
+"level": "A1",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "březen",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "břicho",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "buddhista",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "buddhistka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "budík",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "budoucnost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "budova",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "budvar",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "bunda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "bydlení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "bydliště",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "byt",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "byt 3+1",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "CD",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "cédéčko",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "cela",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "celer",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "celnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "cena",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "centimetr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "centrum",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "cesta",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "cestující",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "cibule",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "cirkus",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "citron",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "cizinec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "cizinka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "cukr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "cukrárna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "cukrovka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "cvičení",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "cyklistika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "cyklostezka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "čaj",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "čára",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "čas",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "časopis",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "část",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "čekárna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "čelo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "čepice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "černoch",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "černoška",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "červen",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "červená",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "červenec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "česnek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "čeština",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "činnost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "číslice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "číslo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "čistírna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "číšnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "číšník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "článek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "člen",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "členka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "člověk",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "čokoláda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "čtenář",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "čtenářka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "čtverec",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "čtvrt",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "čtvrtek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "čtvrtka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dálnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dámy",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "daň",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "datum",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "dávka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dcera",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "deci",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "decilitr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "dědeček",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "dějepis",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "dekagram",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "deko",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "délka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dělnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dělník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "den",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "déšť",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "deštník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "detektivka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "děti",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "dévédéčko",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "dezert",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "diabetička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "diabetik",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "dieta",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "diplom",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "diskotéka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "diskžokej",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "dítě",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "divadlo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "divák",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "dívka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "doba",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dobírka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "docent",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "docentka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dohoda",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "doklad",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "dokument",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "domácnost",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dopis",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "doplatek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "doprava",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dort",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "dospělý",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "dovolená",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dres",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "drobné",
+"level": "A1",
+"gender": "n",
+"number": "plurál"
+},
+{
+"cs": "droga",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "drogerie",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "drůbež",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "druh",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "družka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "družstvo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "dřevo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "dřez",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "duben",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "důchod",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "důchodce",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "důchodkyně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "dům",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "DVD",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "dveře",
+"level": "A1",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "dvůr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "džem",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "džíny",
+"level": "A2",
+"gender": "m",
+"number": "pluralium tantum"
+},
+{
+"cs": "džus",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ekonomie",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "elektrikář",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "elektronika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "elektřina",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "e-mail",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "empétrojka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "expres",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "facebook",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "fakt",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "fakulta",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "fanoušek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "farma",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "farmář",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "farmářka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "fast food",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "fax",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "fén",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "film",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "firma",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "fitness",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "fix",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "fond",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "formulář",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "fotbal",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "fotbalista",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "fyzika",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "galerie",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "garáž",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "garsonka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "gauč",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "GPS",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "gram",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "guláš",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "guma",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "gymnastika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "gynekolog",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "gynekoložka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "halenka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hasič",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "herec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "herečka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hi-fi",
+"level": "A2",
+"gender": "n",
+"number": ""
+},
+{
+"cs": "hlad",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "hlas",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "hlava",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hloubka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hluk",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "hmyz",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "hobby",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "hodina",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hodiny",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "hokej",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "hokejista",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "holič",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "holičství",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "holka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hora",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "horečka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hory",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "hořčice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hospoda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "host",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "houska",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "housle",
+"level": "A2",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "hra",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hranice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hranolky",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "hrnec",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "hrnek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "hruška",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hřeben",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "hřiště",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "hudba",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hudebnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hudebník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "hvězda",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "hypermarket",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "chalupa",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "charita",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "chat",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "chata",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "chemie",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "chirurg",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "chlapec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "chleba",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "chodba",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "chodník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "chrám",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "chřipka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "chuť",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "chvíle",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "chyba",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "infarkt",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "informace",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "informatička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "informatik",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "informatika",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "injekce",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "instalatér",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "internet",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "inzerát",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "jablko",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "jaro",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "játra",
+"level": "A2",
+"gender": "n",
+"number": "pluralium tantum"
+},
+{
+"cs": "jazyk",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "jazyk",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "jazyky",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "jazz",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "jednatel",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "jednatelka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "jesle",
+"level": "A2",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "jezero",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "jídelna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "jídlo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "jih",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "jízdenka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "jméno",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "jogurt",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kabát",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kabelka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kabinka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kadeřnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kadeřnictví",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "kadeřník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kafe",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "kachna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kakao",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "kalhoty",
+"level": "A1",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "kamarád",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kamarádka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kámen",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kamion",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kancelář",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kapela",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kapesník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kapky",
+"level": "A2",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "kapr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kardiolog",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "karta",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kartáč",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kartáček",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "karty",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "kaše",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kašel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "katolička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "katolík",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "káva",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kečup",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "keř",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kilo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "kilogram",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kilometr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kino",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "klávesnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "klenotnictví",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "klid",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "klobouk",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "klub",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kluk",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "knedlík",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kniha",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "knihkupectví",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "knihovna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "knír",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "koberec",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kočka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kofola",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kola",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "koláč",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kolej",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kolej",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kolek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "koleno",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "kolo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "kolo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "komedie",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "koncert",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "konec",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "koníček",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kontrola",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "konverzace",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "konvice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "konzultace",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kopec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "koření",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "kosmetička",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kosmetika",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kostel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kostým",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "košík",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "košile",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kotel",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kotník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "koupelna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kousek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kout",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kov",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "krabice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "krabička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "krádež",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kraj",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kraj",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "krajina",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kravata",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "krb",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "krejčí",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "krejčovství",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "krém",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "krev",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "krize",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "krk",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kruh",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "křeslo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "křesťan",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "křesťanka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "křižovatka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kufr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kuchař",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kuchařka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kuchařka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kuchyň/kuchyně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kulečník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kůň",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kupé",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "kurt",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kurz",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kurz",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kuře",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "kus",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "kůže",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kůže",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "kvalita",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "květen",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "květina",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "květinářství",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "laboratoř",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "láhev",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "lampa",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "látka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "leden",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "lednička",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ledviny",
+"level": "A2",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "lék",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "lékárna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "lékárnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "lékárnička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "lékárník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "lékař",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "lékařka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "les",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "let",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "léta",
+"level": "A1",
+"gender": "n",
+"number": "plurál"
+},
+{
+"cs": "letadlo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "letenka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "letiště",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "léto",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "letuška",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "limonáda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "linka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "linka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "list",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "list",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "lístek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "listonoš",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "listonoška",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "listopad",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "literatura",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "litr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "loď",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "loket",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ložnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "lux",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "lůžko",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "lyžař",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "lyžařka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "lyže",
+"level": "A2",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "lyžování",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "lžíce",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "majetek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "majitel",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "majitelka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "makléř",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "maličkost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "malíř",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "malířka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "máma",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "maminka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "manikúra",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "manžel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "manželka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "masáž",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "masáže",
+"level": "A2",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "máslo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "maso",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "mast",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "matematika",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "mateřská",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "matka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "matrika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "maturita",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "med",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "medicína",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "měna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "menstruace",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "menu",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "menza",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "meruňka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "měsíc",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Měsíc",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "město",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "mešita",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "metr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "metro",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "míč",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "mikrovlnka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "milimetr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "mince",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "minerálka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ministerstvo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "ministr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ministryně",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "minulost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "minus",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "minuta",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "místenka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "místnost",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "místo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "mistrovství",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "mládež",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "mléko",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "mlha",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "mobil",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "moč",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "model",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Mongol",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Mongolka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "monitor",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "moře",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "most",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "motor",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "motorka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "mouka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "MP3",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "mrak",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "mráz",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "mrkev",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "muslim",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "muslimka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "muzeum",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "muzikál",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "muž",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "myčka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "mýdlo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "myš",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "mzda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nabídka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "náboženství",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "nábytek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "nádobí",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "nádraží",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "nadřízený",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "nafta",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nájemné",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "nájemnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nájemník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "náklady",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "nákup",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "náměstí",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "nápad",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "nápoj",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "národnost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "narození",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "nástroj",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "nástupiště",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "navigace",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "navigace GPS",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "návštěva",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nebe",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "nebezpečí",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "neděle",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nehoda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nemoc",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nemocenská",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nemocnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nepořádek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "nervy",
+"level": "A2",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "neschopenka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nezaměstnanost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nezaměstnaný",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "noc",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "nos",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "nostrifikace",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "notebook",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "nouze",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "novinář",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "novinářka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "noviny",
+"level": "A1",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "nůž",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "občan",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "občanka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "občanství",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "občerstvení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "obec",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "oběd",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "obchod",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "obchodnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "obchodník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "objednávka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "objem",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "objezd",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "objížďka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "oblečení",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "oblek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "obličej",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "obor",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "obsluha",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "obuv",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "obuv",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "obviněný",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "obývák",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "obžalovaný",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ocel",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "oči",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "očkování",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "odbavení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "odbočka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "odbor",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "oddělení",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "oddělení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "odesílatel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "oděv",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "oděvy",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "odjezd",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "odlet",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "odměna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "odpad",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "okno",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "oko",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "okurka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "olej",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "olympiáda",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "omáčka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "opera",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "operace",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "oprava",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "opravář",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "opravna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "optika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "optimista",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "optimistka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "oranžová",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ordinace",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "organizace",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "orchestr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "osoba",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ošetřovatel",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ošetřovatelka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ošetřovné",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "otec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ovoce",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "oznámení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "P.O. box",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "palačinka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "památka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "památky",
+"level": "A2",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "pan",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "panel",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pánev",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "paní",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "páni",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "pantofle",
+"level": "A2",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "papír",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "papírnictví",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "paprika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pardon",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "párek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "parkoviště",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "parlament",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "partner",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "partnerka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pas",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pás",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pasta",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "paštika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pátek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "patro",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pečivo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pedikúra",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pekáč",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pekařství",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "peníze",
+"level": "A1",
+"gender": "m",
+"number": "pluralium tantum"
+},
+{
+"cs": "pepř",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pes",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pesimista",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pesimistka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "petržel",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "piano",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "PIN",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pití",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pivo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pizza",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "plán",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "plast",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pláštěnka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "plat",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "plavání",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "plavky",
+"level": "A2",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "ples",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pleš",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "plíce",
+"level": "A2",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "plomba",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "plus",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "plyn",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "plzeňské",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pneumatika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pneuservis",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pobyt",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "počasí",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "počet",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "počítač",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "podání",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "podezřelý",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "podlaha",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "podnájem",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "podnik",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "podnikatel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "podnikatelka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "podpatek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "podpis",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "podpora",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "podřízený",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "podzim",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "poezie",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pohádka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pohlaví",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pohlednice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pohotovost",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pojistné",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pojištěnec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pojištění",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pojišťovák",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pojišťovatel",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pojišťovatelka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pojišťovna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pokladna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pokoj",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pokračování",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pokuta",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pole",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "poledne",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "polévka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "policie",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "policista",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "policistka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "polička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "poliklinika",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "politička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "politik",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "politika",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "polovina",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "polyester",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pomeranč",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pomoc",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pomůcka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pondělí",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "ponožky",
+"level": "A2",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "pop",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "poplatek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "poplatky",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "porcelán",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "porod",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "porodné",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "porodnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "porucha",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pořad",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pořádek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "poschodí",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "posilovna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "poslanec",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "poslankyně",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "postava",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "postel",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "postižený",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pošta",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pošťačka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pošťák",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "poštovné",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "potok",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "potrat",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "potraviny",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "potřeba",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "potvrzení",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "poukaz",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "povaha",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "povodeň",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "povolání",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "povolení",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pozdrav",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pozor",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "požár",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "práce",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pracoviště",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "pračka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "prádelna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "prádlo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "prarodič",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "prášek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "prášky",
+"level": "A2",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "pravda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "právnička",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "právník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "právo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "praxe",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "prázdniny",
+"level": "A1",
+"gender": "f",
+"number": "pluralium tantum"
+},
+{
+"cs": "prezident",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "prezidentka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "primátor",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "primátorka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "problém",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "procento",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "prodavač",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "prodavačka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "profese",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "profesor",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "profesorka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "program",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "program",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "prohlídka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "prohlídka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "prohlížeč",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "procházka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "projektor",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pronájem",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "propiska",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "prosinec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "prostor",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "prostředek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "provedení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "prst",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "průjem",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "průkaz",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "průvodce",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "průvodkyně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "předkrm",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "předmět",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přednáška",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "předplatné",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "předpověď",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "předprodej",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "předsíň",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "představení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "předvolba",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "přehled",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přechod",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přejezd",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "překlad",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "překladatel",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "překladatelka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "přepadení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "přepážka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "přeplatek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přesčas",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přesnídávka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "přestávka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "přestupek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "převod",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "příbor",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "příbuzná",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "příbuzný",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přídavek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přihláška",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "příchod",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "příjem",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "příjezd",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "příjmení",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "příklad",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přílet",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "příloha",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "případ",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "příplatek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "připojení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "příroda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "příslušnost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "příspěvek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přítel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "přítelkyně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "přízemí",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "přiznání",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "psychiatr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "psychiatrička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "půjčka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "půjčovna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "půlka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "půlnoc",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "pumpa",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "punčocháče",
+"level": "A2",
+"gender": "m",
+"number": "pluralium tantum"
+},
+{
+"cs": "punčochy",
+"level": "A2",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "původ",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "pyžamo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "rádio",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "radost",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rajče",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "raketa",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rakovina",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rána",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "recept",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "recept",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "registr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rehabilitace",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rejstřík",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "reklama",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rentgen",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "republika",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "restaurace",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "revizor",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "revizorka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "režisér",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "režisérka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rock",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ročník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rodič",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rodiče",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "rodina",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rohlík",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rok",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "román",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rostlina",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rovina",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rozdíl",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rozhlas",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rozloha",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rozloučení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "rozměr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rozsudek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rozvod",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rozvrh",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ručení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "ručník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ruka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rukavice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rum",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Rus",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Ruska",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "růže",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ryba",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rybník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rychlík",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rychlost",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "rýma",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "rýže",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "řád",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "řada",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ředitel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ředitelka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "řeka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "řemeslník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "řeznictví",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "řezník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "řidič",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "řidička",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "říjen",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "řízek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sádra",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sako",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "sál",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "salám",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "salát",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sci-fi",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sedadlo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "sekretářka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sekunda",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "semafor",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "seminář",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Senát",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "senátor",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "senátorka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "senior",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "seniorka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "seriál",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "servírka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sestra",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sestřenice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sestřička",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sešit",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sever",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "schod",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "schodiště",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "schránka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "silnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sklenice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sklep",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sklo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "skříň",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "skupina",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "skype",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "slečna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sleva",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "slovník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "slovo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "složenka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sluch",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "slunce",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "směna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "směnárna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "směr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "smetana",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "smlouva",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "smrt",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "snacha",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sňatek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sněmovna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "snídaně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sníh",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sobota",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sochař",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sochařka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "součet",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "soud",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "soudce",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "soudkyně",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sourozenec",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "soused",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sousedka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "soustrast",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "soutěž",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "spánek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "specialista",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "spisovatel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "spisovatelka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "splátka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "spojení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "společnost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sporák",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sport",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sportovec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sportovkyně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "spotřebič",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "spousta",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sprcha",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "spropitné",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "srážka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "srdce",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "srpen",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "stadion",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "stánek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "stání",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "stanice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "stanoviště",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "starost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "starosta",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "starostka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "stát",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "stav",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "stavba",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "stážista",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "stážistka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "stejk",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "stěna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "stočné",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "stolice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "strach",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "strana",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "strana",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "stránka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "strojek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "strom",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "strop",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "strýc",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "střed",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "středa",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "stříbro",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "střih",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "student",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "studentka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "studio",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "studovna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "stůl",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "stupeň",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sukně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "sůl",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "superlegalizace",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "supermarket",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sušička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "svačina",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "svátek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "svědek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "svědkyně",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "světlo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "světlo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "svetr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "svíčková",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "syn",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "sýr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "šachy",
+"level": "A1",
+"gender": "m",
+"number": "pluralium tantum"
+},
+{
+"cs": "šála",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "šálek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "šampon",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "šátek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "šatna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "šaty",
+"level": "A1",
+"gender": "m",
+"number": "pluralium tantum"
+},
+{
+"cs": "šestinedělí",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "šířka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "škoda",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "škola",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "školnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "školník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "špagety",
+"level": "A1",
+"gender": "m",
+"number": "pluralium tantum"
+},
+{
+"cs": "šperk",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "špína",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "šunka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "švadlena",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "švagr",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "švagrová",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "švestka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "tablet",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tableta",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "tabule",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "talíř",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "taška",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "táta",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tatínek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "taxi",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "taxík",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "těhotenství",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "technička",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "technik",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "telefon",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "televize",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "televizor",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tělo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "tělocvična",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "tělocvik",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tenis",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tepláky",
+"level": "A2",
+"gender": "m",
+"number": "pluralium tantum"
+},
+{
+"cs": "teplota",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "test",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "těstoviny",
+"level": "A2",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "teta",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "textil",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tchán",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tchýně",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ticho",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "tlak",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tlumočnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "tlumočník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tma",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "topení",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "továrna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "tramvaj",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "trasa",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "trať",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "trenér",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "trenérka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "trest",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "trh",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tričko",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "trolejbus",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tržnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "třída",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "třída",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "turista",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tužka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "tvar",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tvaroh",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tvář",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "tweet",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "týden",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "tým",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "ubytovna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "učebna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "učebnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "účet",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "učiliště",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "učitel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "učitelka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "účtenka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "událost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "uhlí",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "ucho",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "uklízečka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "úkol",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Ukrajinec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Ukrajinka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ulice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ultrazvuk",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "umělec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "umělkyně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "úmrtí",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "umyvadlo",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "unie",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "univerzita",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "únor",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "úraz",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "úřad",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "úřednice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "úředník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "úschovna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "ústa",
+"level": "A2",
+"gender": "n",
+"number": "pluralium tantum"
+},
+{
+"cs": "uši",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "úterý",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "úvazek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "uzenina",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vagon",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "váha",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "válka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vana",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vařič",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vazba",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vdova",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vdovec",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "večeře",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vejce",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "věk",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "velikost",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vesnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "veterinář",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "veterinářka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vězení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "věž",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vchod",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "video",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "vidlička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "Vietnamec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "Vietnamka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "víkend",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "víno",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "viróza",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vitamin",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vítr",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vízum",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "vjezd",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vláda",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vlak",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vlasy",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "vlhkost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vlna",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vložka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vnitro",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "voda",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vodné",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "volant",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "volaný",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "volby",
+"level": "A2",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "volejbal",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vousy",
+"level": "A1",
+"gender": "m",
+"number": "plurál"
+},
+{
+"cs": "vozidlo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "vozík",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vrátnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vrtulník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vstupenka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vůně",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vůz",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vybavení",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "východ",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "východ",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "výjezd",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "výlet",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "výpis",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "výplata",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "výpověď",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vyrážka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vysavač",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "výsledek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "výslech",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "výstava",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vysvědčení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "vysvětlení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "vyšetření",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "výška",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "výtah",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vyučování",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "význam",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "vyznání",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "vzdálenost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "vzdělání",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "vzhled",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "WC",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zabezpečení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "záclona",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zácpa",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "začátečnice",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "začátečník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "začátek",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "záda",
+"level": "A1",
+"gender": "n",
+"number": "pluralium tantum"
+},
+{
+"cs": "zahrada",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "záchod",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "záchranka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zájem",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zájezd",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zákaz",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zákon",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zákusek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "záloha",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zaměstnanec",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zaměstnání",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zaměstnankyně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zaměstnavatel",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "západ",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zápach",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zápal",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zápas",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zápis",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "září",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zastavení",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zastávka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zastupitelství",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zatáčka",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zavazadlo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zavináč",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "závod",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "závod",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "závodnice",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "závodník",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zavolání",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zboží",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zedník",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zelená",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zelenina",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zelí",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zeměpis",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zeť",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zima",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zkouška",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zlato",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zlomenina",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "změna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zmrzlina",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "značka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "známá",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "známka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "známý",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zóna",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zoo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zpěvačka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zpěvák",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zpoždění",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zpráva",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zprávy",
+"level": "A1",
+"gender": "f",
+"number": "plurál"
+},
+{
+"cs": "zrak",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zub",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zubař",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "zubařka",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "zvíře",
+"level": "A1",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "zvuk",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "žádost",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "žák",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "žákyně",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "žaloba",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "žaludek",
+"level": "A1",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "žehlička",
+"level": "A2",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "železo",
+"level": "A2",
+"gender": "n",
+"number": "singulár"
+},
+{
+"cs": "žena",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "židle",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+},
+{
+"cs": "život",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "životopis",
+"level": "A2",
+"gender": "m",
+"number": "singulár"
+},
+{
+"cs": "žízeň",
+"level": "A1",
+"gender": "f",
+"number": "singulár"
+}
+]

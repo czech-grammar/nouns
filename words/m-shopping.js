@@ -1,6 +1,6 @@
 // Topic: shopping (masculine inanimate)
 WORDS.push(
-  { cs: 'obchod', en: 'shop', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'obchod', en: 'shop', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'shopping', svg: `
     <rect x="12" y="30" width="96" height="64" fill="#ffe08a" ${S}/>
     <rect x="22" y="6" width="76" height="18" rx="3" fill="#e63946" ${S}/>
     <text x="60" y="19" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="12" fill="#fff">OBCHOD</text>
@@ -17,7 +17,7 @@ WORDS.push(
     <rect x="74" y="54" width="24" height="40" fill="#8b4a2b" ${S}/>
     <circle cx="92" cy="76" r="2.5" fill="#f9c74f"/>` },
 
-  { cs: 'supermarket', en: 'supermarket', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'supermarket', en: 'supermarket', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'shopping', svg: `
     <rect x="6" y="28" width="108" height="58" fill="#ddd" ${S}/>
     <rect x="6" y="10" width="108" height="20" rx="2" fill="#e63946" ${S}/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="12" fill="#fff">SUPERMARKET</text>
@@ -32,7 +32,7 @@ WORDS.push(
     <circle cx="88" cy="90" r="4" fill="#7a7f87" ${S}/>
     <circle cx="106" cy="90" r="4" fill="#7a7f87" ${S}/>` },
 
-  { cs: 'trh', en: 'market', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'trh', en: 'market', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'shopping', svg: `
     <path d="M20 10 H100 L114 32 H6 Z" fill="#e63946" ${S}/>
     <g fill="#fff">
       <polygon points="30,10 40,10 33,32 19.5,32"/><polygon points="50,10 60,10 60,32 46.5,32"/><polygon points="70,10 80,10 87,32 73.5,32"/><polygon points="90,10 100,10 114,32 100.5,32"/>
@@ -52,7 +52,7 @@ WORDS.push(
     <path d="M24 60 H52 M24 66 H52 M68 60 H96 M68 66 H96" stroke="#8b4a2b" stroke-width="2" stroke-linecap="round"/>
     <rect x="14" y="70" width="92" height="8" rx="2" fill="#b5722f" ${S}/>` },
 
-  { cs: 'dárek', en: 'present', pattern: 'hrad (dárku)', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'dárek', en: 'present', pattern: 'hrad (dárku)', gender: 'mi', level: 'A1', official: null, topic: 'shopping', svg: `
     <rect x="18" y="44" width="84" height="50" fill="#4fa3e3" ${S}/>
     <g fill="#fff">
       <polygon points="0,-5 1.5,-1.5 5,-1.5 2,1 3,5 0,2.5 -3,5 -2,1 -5,-1.5 -1.5,-1.5" transform="translate(32 60)"/>
@@ -73,7 +73,7 @@ WORDS.push(
       <path d="M-4 -2 H9 M-4 3 H6" stroke="#9aa0a8" stroke-width="2" stroke-linecap="round"/>
     </g>` },
 
-  { cs: 'nákup', en: 'shopping', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'nákup', en: 'shopping', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'shopping', svg: `
     <rect x="36" y="20" width="14" height="30" fill="#fff" ${S}/>
     <rect x="39" y="12" width="8" height="10" rx="2" fill="#4fa3e3" ${S}/>
     <path d="M56 46 L52 14 M60 46 L60 8 M64 46 L68 14" stroke="#3f9d55" stroke-width="5" stroke-linecap="round"/>
@@ -85,7 +85,7 @@ WORDS.push(
     <circle cx="36" cy="90" r="6" fill="#7a7f87" ${S}/>
     <circle cx="90" cy="90" r="6" fill="#7a7f87" ${S}/>` },
 
-  { cs: 'peníze', en: 'money', pattern: 'plural only (peněz)', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'peníze', en: 'money', pattern: 'plural only (peněz)', gender: 'mi', level: 'A1', official: 'A1', topic: 'shopping', svg: `
     <g transform="translate(44 44) rotate(-28)">
       <rect x="-32" y="-16" width="64" height="32" rx="3" fill="#8fd18a" ${S}/>
       <rect x="-26" y="-10" width="52" height="20" fill="none" stroke="#3f9d55" stroke-width="1.5"/>
@@ -109,7 +109,7 @@ WORDS.push(
     <circle cx="30" cy="82" r="8" fill="#ffe08a"/>
     <text x="30" y="86" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">Kč</text>` },
 
-  { cs: 'bankomat', en: 'cash machine', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'bankomat', en: 'cash machine', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'shopping', svg: `
     <rect x="28" y="6" width="64" height="88" rx="4" fill="#9aa0a8" ${S}/>
     <rect x="36" y="14" width="48" height="28" fill="#1d2a5a" ${S}/>
     <text x="60" y="34" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#6cc06a">Kč</text>
@@ -123,14 +123,14 @@ WORDS.push(
     <rect x="62" y="80" width="22" height="16" rx="1" fill="#8fd18a" ${S}/>
     <circle cx="73" cy="88" r="4" fill="#ffe08a" ${S}/>` },
 
-  { cs: 'účet', en: 'bill, account', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'účet', en: 'bill, account', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'shopping', svg: `
     <path d="M24 6 H96 V80 L90 88 L84 80 L78 88 L72 80 L66 88 L60 80 L54 88 L48 80 L42 88 L36 80 L30 88 L24 80 Z" fill="#fff" ${S}/>
     <text x="60" y="22" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#333">ÚČET</text>
     <path d="M34 32 H58 M74 32 H86 M34 42 H62 M74 42 H86 M34 52 H54 M74 52 H86" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round"/>
     <path d="M34 60 H86" stroke="#333" stroke-width="2" stroke-dasharray="4 3"/>
     <text x="60" y="75" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#333">120 Kč</text>` },
 
-  { cs: 'košík', en: 'basket', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'košík', en: 'basket', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A2', topic: 'shopping', svg: `
     <path d="M30 50 Q60 0 90 50" fill="none" stroke="#333" stroke-width="10" stroke-linecap="round"/>
     <path d="M30 50 Q60 0 90 50" fill="none" stroke="#b5722f" stroke-width="5" stroke-linecap="round"/>
     <circle cx="42" cy="46" r="9" fill="#e63946" ${S}/>
@@ -142,7 +142,7 @@ WORDS.push(
     <path d="M32 54 V90 M46 54 V90 M60 54 V90 M74 54 V90 M88 54 V90" stroke="#8b4a2b" stroke-width="2.5" stroke-dasharray="6 4"/>
     <rect x="12" y="48" width="96" height="8" rx="3" fill="#8b4a2b" ${S}/>` },
 
-  { cs: 'deštník', en: 'umbrella', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'deštník', en: 'umbrella', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'shopping', svg: `
     <path d="M60 8 V2" stroke="#333" stroke-width="4" stroke-linecap="round"/>
     <path d="M8 52 A52 44 0 0 1 112 52 a8.67 8.67 0 0 1 -17.33 0 a8.67 8.67 0 0 1 -17.33 0 a8.67 8.67 0 0 1 -17.33 0 a8.67 8.67 0 0 1 -17.33 0 a8.67 8.67 0 0 1 -17.33 0 a8.67 8.67 0 0 1 -17.33 0 Z" fill="#e63946" ${S}/>
     <path d="M60 8 L25.3 52 M60 8 L42.7 52 M60 8 L77.3 52 M60 8 L94.7 52" stroke="#333" stroke-width="2"/>
@@ -155,7 +155,7 @@ WORDS.push(
       <path d="M90 82 Q85 90 85 93 A5 5 0 0 0 95 93 Q95 90 90 82 Z"/>
     </g>` },
 
-  { cs: 'batoh', en: 'rucksack', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'batoh', en: 'rucksack', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A2', topic: 'shopping', svg: `
     <path d="M34 34 Q14 60 26 90" fill="none" stroke="#333" stroke-width="11" stroke-linecap="round"/>
     <path d="M34 34 Q14 60 26 90" fill="none" stroke="#3f9d55" stroke-width="6" stroke-linecap="round"/>
     <path d="M86 34 Q106 60 94 90" fill="none" stroke="#333" stroke-width="11" stroke-linecap="round"/>
@@ -170,7 +170,7 @@ WORDS.push(
     <path d="M42 63 H78" stroke="#333" stroke-width="2" stroke-dasharray="3 2"/>
     <rect x="72" y="60" width="4" height="7" rx="1" fill="#9aa0a8" ${S}/>` },
 
-  { cs: 'kufr', en: 'suitcase', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'kufr', en: 'suitcase', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A2', topic: 'shopping', svg: `
     <rect x="46" y="6" width="28" height="16" rx="6" fill="#8b4a2b" ${S}/>
     <rect x="8" y="18" width="104" height="76" rx="8" fill="#b5722f" ${S}/>
     <rect x="24" y="18" width="10" height="76" fill="#8b4a2b" ${S}/>
@@ -185,7 +185,7 @@ WORDS.push(
     </g>
     <circle cx="74" cy="46" r="7" fill="#e94b8a" ${S}/>` },
 
-  { cs: 'mobil', en: 'mobile phone', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'shopping', svg: `
+  { cs: 'mobil', en: 'mobile phone', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'shopping', svg: `
     <rect x="34" y="4" width="52" height="92" rx="8" fill="#1d2a5a" ${S}/>
     <rect x="39" y="14" width="42" height="70" rx="2" fill="#dff3ff" ${S}/>
     <g stroke="#333" stroke-width="1.5">

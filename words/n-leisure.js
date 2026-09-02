@@ -1,6 +1,6 @@
 // Topic: leisure (neuter)
 WORDS.push(
-  { cs: 'kolo', en: 'bicycle, wheel', pattern: 'město', gender: 'n', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'kolo', en: 'bicycle, wheel', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <circle cx="28" cy="68" r="21" fill="#fff" ${S}/>
     <circle cx="92" cy="68" r="21" fill="#fff" ${S}/>
     <path d="M28 47 V89 M7 68 H49 M13.2 53.2 L42.8 82.8 M42.8 53.2 L13.2 82.8" stroke="#9aa0a8" stroke-width="2"/>
@@ -16,7 +16,7 @@ WORDS.push(
     <rect x="49" y="64" width="8" height="3.5" rx="1" fill="#333"/>
     <circle cx="58" cy="74" r="5" fill="#7a7f87" ${S}/>` },
 
-  { cs: 'plavání', en: 'swimming', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'plavání', en: 'swimming', pattern: 'stavení', gender: 'n', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <path d="M4 60 Q14 52 24 60 T44 60 T64 60 T84 60 T104 60 T116 60 V96 H4 Z" fill="#4fa3e3" ${S}/>
     <path d="M12 74 q6 -4 12 0 M30 84 q6 -4 12 0 M76 82 q6 -4 12 0 M100 74 q6 -4 12 0" fill="none" stroke="#dff3ff" stroke-width="3" stroke-linecap="round"/>
     <path d="M22 66 Q42 44 62 66" fill="#e63946" ${S}/>
@@ -32,7 +32,7 @@ WORDS.push(
     <path d="M109 50 q-4 5 0 8 q4 -3 0 -8z" fill="#dff3ff" ${S}/>
     <path d="M86 42 q-4 5 0 8 q4 -3 0 -8z" fill="#dff3ff" ${S}/>` },
 
-  { cs: 'lyžování', en: 'skiing', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'lyžování', en: 'skiing', pattern: 'stavení', gender: 'n', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <path d="M4 90 L116 44 V96 H4 Z" fill="#dff3ff" ${S}/>
     <rect x="17" y="74" width="6" height="12" fill="#8b4a2b" ${S}/>
     <path d="M20 52 L36 78 L4 78 Z" fill="#3f9d55" ${S}/>
@@ -56,7 +56,7 @@ WORDS.push(
     <circle cx="73" cy="21" r="1.5" fill="#333"/><circle cx="79" cy="21" r="1.5" fill="#333"/>
     <path d="M73 25 Q76 28 79 25" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>` },
 
-  { cs: 'hřiště', en: 'playground, pitch', pattern: 'moře', gender: 'n', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'hřiště', en: 'playground, pitch', pattern: 'moře', gender: 'n', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <path d="M4 84 Q60 74 116 84 V96 H4 Z" fill="#ffe08a" ${S}/>
     <path d="M16 84 V32 M26 84 V32 M16 42 H26 M16 52 H26 M16 62 H26 M16 72 H26" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M16 84 V32 M26 84 V32 M16 42 H26 M16 52 H26 M16 62 H26 M16 72 H26" fill="none" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
@@ -70,7 +70,7 @@ WORDS.push(
     <path d="M94 28 V68 M102 28 V68" stroke="#7a7f87" stroke-width="2"/>
     <rect x="90" y="68" width="16" height="5" rx="1" fill="#b5722f" ${S}/>` },
 
-  { cs: 'koupaliště', en: 'open-air swimming pool', pattern: 'moře', gender: 'n', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'koupaliště', en: 'open-air swimming pool', pattern: 'moře', gender: 'n', level: 'A1', official: null, topic: 'leisure', svg: `
     <path d="M60 7 V3 M60 33 V37 M73 20 H77 M47 20 H43 M69.2 10.8 L72 8 M50.8 10.8 L48 8 M69.2 29.2 L72 32 M50.8 29.2 L48 32" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="60" cy="20" r="10" fill="#f9c74f" ${S}/>
     <rect x="6" y="54" width="108" height="42" rx="6" fill="#ddd" ${S}/>

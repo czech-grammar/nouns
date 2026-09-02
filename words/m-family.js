@@ -1,6 +1,6 @@
 // Topic: family and people (masculine animate)
 WORDS.push(
-  { cs: 'muž', en: 'man, husband', pattern: 'muž', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'muž', en: 'man, husband', pattern: 'muž', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M44 56 L32 84" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
     <path d="M44 56 L32 84" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <circle cx="31" cy="86" r="4.5" fill="#ffd8b8" ${S}/>
@@ -15,7 +15,7 @@ WORDS.push(
     <path d="M53 39 Q60 45 67 39" fill="none" ${S}/>
     <circle cx="51" cy="41" r="1.1" fill="#7a7f87"/><circle cx="54" cy="44" r="1.1" fill="#7a7f87"/><circle cx="57" cy="46" r="1.1" fill="#7a7f87"/><circle cx="60" cy="46.5" r="1.1" fill="#7a7f87"/><circle cx="63" cy="46" r="1.1" fill="#7a7f87"/><circle cx="66" cy="44" r="1.1" fill="#7a7f87"/><circle cx="69" cy="41" r="1.1" fill="#7a7f87"/><circle cx="55" cy="42" r="1.1" fill="#7a7f87"/><circle cx="65" cy="42" r="1.1" fill="#7a7f87"/><circle cx="60" cy="44" r="1.1" fill="#7a7f87"/>` },
 
-  { cs: 'kluk', en: 'boy', pattern: 'pán', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'kluk', en: 'boy', pattern: 'pán', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M40 48 L30 80" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
     <path d="M40 48 L30 80" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <circle cx="29" cy="82" r="4.5" fill="#ffd8b8" ${S}/>
@@ -34,7 +34,7 @@ WORDS.push(
     <circle cx="42" cy="33" r="1.2" fill="#b5722f"/><circle cx="45" cy="35" r="1.2" fill="#b5722f"/><circle cx="43" cy="37" r="1.2" fill="#b5722f"/>
     <circle cx="62" cy="33" r="1.2" fill="#b5722f"/><circle cx="59" cy="35" r="1.2" fill="#b5722f"/><circle cx="61" cy="37" r="1.2" fill="#b5722f"/>` },
 
-  { cs: 'táta', en: 'dad', pattern: 'předseda', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'táta', en: 'dad', pattern: 'předseda', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M51 30 L40 14" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>
     <path d="M51 30 L40 14" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <circle cx="39" cy="12" r="4" fill="#ffd8b8" ${S}/>
@@ -62,7 +62,7 @@ WORDS.push(
     <path d="M82 78 L77 64" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <circle cx="77" cy="63" r="4.5" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'otec', en: 'father', pattern: 'pán (otce)', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'otec', en: 'father', pattern: 'pán (otce)', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M24 40 L44 40 L54 96 L14 96 Z" fill="#b5722f" ${S}/>
     <path d="M28 40 L34 50 L40 40 Z" fill="#fff" ${S}/>
     <path d="M34 50 V96" stroke="#333" stroke-width="2"/>
@@ -80,7 +80,7 @@ WORDS.push(
     <path d="M50 54 L64 76 M81 70 L64 76" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <path d="M66 60 C54 52 58 38 66 46 C74 38 78 52 66 60 Z" fill="#e63946" ${S}/>` },
 
-  { cs: 'dědeček', en: 'grandad', pattern: 'pán (dědečka)', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'dědeček', en: 'grandad', pattern: 'pán (dědečka)', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M40 62 L30 84" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
     <path d="M40 62 L30 84" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <circle cx="29" cy="86" r="4.5" fill="#ffd8b8" ${S}/>
@@ -100,7 +100,7 @@ WORDS.push(
     <path d="M72 62 L92 74" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <circle cx="93" cy="76" r="4.5" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'bratr', en: 'brother', pattern: 'pán', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'bratr', en: 'brother', pattern: 'pán', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M30 44 L50 44 L60 96 L20 96 Z" fill="#e63946" ${S}/>
     <circle cx="40" cy="30" r="15" fill="#ffd8b8" ${S}/>
     <path d="M25 30 Q25 10 40 10 Q55 10 55 30 Q50 20 40 20 Q30 20 25 30 Z" fill="#3b2a1a" ${S}/>
@@ -115,7 +115,7 @@ WORDS.push(
     <path d="M79 51 Q84 55 89 51" fill="none" ${S}/>
     <circle cx="97" cy="60" r="4.5" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'syn', en: 'son', pattern: 'pán', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'syn', en: 'son', pattern: 'pán', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M22 24 L18 60 M46 24 L50 60" stroke="#8b4a2b" stroke-width="8" stroke-linecap="round"/>
     <path d="M24 40 L44 40 L54 96 L14 96 Z" fill="#e94b8a" ${S}/>
     <circle cx="34" cy="26" r="14" fill="#ffd8b8" ${S}/>
@@ -131,7 +131,7 @@ WORDS.push(
     <path d="M50 54 L64 76 M81 70 L64 76" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <path d="M66 60 C54 52 58 38 66 46 C74 38 78 52 66 60 Z" fill="#e63946" ${S}/>` },
 
-  { cs: 'strýc', en: 'uncle', pattern: 'muž', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'strýc', en: 'uncle', pattern: 'muž', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M30 46 L16 22" fill="none" stroke="#333" stroke-width="10" stroke-linecap="round"/>
     <path d="M30 46 L16 22" fill="none" stroke="#ffd8b8" stroke-width="5" stroke-linecap="round"/>
     <circle cx="15" cy="18" r="6" fill="#ffd8b8" ${S}/>
@@ -153,7 +153,7 @@ WORDS.push(
     <circle cx="91" cy="58" r="1.8" fill="#333"/><circle cx="99" cy="58" r="1.8" fill="#333"/>
     <path d="M91 63 Q95 67 99 63" fill="none" ${S}/>` },
 
-  { cs: 'manžel', en: 'husband', pattern: 'pán', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'manžel', en: 'husband', pattern: 'pán', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M28 50 L48 50 L62 96 L14 96 Z" fill="#1d2a5a" ${S}/>
     <path d="M31 50 L38 62 L45 50 Z" fill="#fff" ${S}/>
     <path d="M35 60 L41 60 L42 80 L38 84 L34 80 Z" fill="#e63946" ${S}/>
@@ -166,7 +166,7 @@ WORDS.push(
     <path d="M80 64 Q84 58 90 58" fill="none" stroke="#ffe08a" stroke-width="2.5" stroke-linecap="round"/>
     <path d="M88 44 C72 34 78 14 88 24 C98 14 104 34 88 44 Z" fill="#e63946" ${S}/>` },
 
-  { cs: 'kamarád', en: 'friend', pattern: 'pán', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'kamarád', en: 'friend', pattern: 'pán', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M30 46 L50 46 L58 96 L20 96 Z" fill="#2a9d8f" ${S}/>
     <circle cx="40" cy="32" r="14" fill="#ffd8b8" ${S}/>
     <path d="M26 32 Q26 14 40 14 Q54 14 54 32 Q50 23 40 23 Q30 23 26 32 Z" fill="#8b4a2b" ${S}/>
@@ -183,7 +183,7 @@ WORDS.push(
     <path d="M72 54 Q52 46 30 56" fill="none" stroke="#ffd8b8" stroke-width="5" stroke-linecap="round"/>
     <circle cx="29" cy="57" r="4.5" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'pán', en: 'Mr, gentleman', pattern: 'pán', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'pán', en: 'Mr, gentleman', pattern: 'pán', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M44 58 L68 58 L80 96 L32 96 Z" fill="#7a7f87" ${S}/>
     <path d="M48 58 L56 68 L64 58 Z" fill="#fff" ${S}/>
     <path d="M47 56 L56 60 L47 64 Z M65 56 L56 60 L65 64 Z" fill="#e63946" ${S}/>
@@ -203,7 +203,7 @@ WORDS.push(
     <path d="M70 64 L94 72" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <circle cx="95" cy="74" r="4.5" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'člověk', en: 'person, human', pattern: 'pán (pl. lidé)', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'člověk', en: 'person, human', pattern: 'pán (pl. lidé)', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M46 46 L26 72" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
     <path d="M46 46 L26 72" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
     <circle cx="25" cy="74" r="4.5" fill="#ffd8b8" ${S}/>
@@ -218,7 +218,7 @@ WORDS.push(
     <circle cx="54" cy="25" r="2.4" fill="#333"/><circle cx="66" cy="25" r="2.4" fill="#333"/>
     <path d="M53 31 Q60 37 67 31" fill="none" ${S}/>` },
 
-  { cs: 'soused', en: 'neighbour', pattern: 'pán', gender: 'ma', level: 'A1', topic: 'family', svg: `
+  { cs: 'soused', en: 'neighbour', pattern: 'pán', gender: 'ma', level: 'A1', official: 'A1', topic: 'family', svg: `
     <rect x="46" y="14" width="7" height="12" fill="#7a7f87" ${S}/>
     <rect x="10" y="34" width="48" height="44" fill="#ffe08a" ${S}/>
     <polygon points="6,36 34,10 62,36" fill="#e63946" ${S}/>

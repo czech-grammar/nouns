@@ -1,13 +1,13 @@
 // Topic: leisure
 WORDS.push(
-  { cs: 'odpověď', en: 'answer', pattern: 'kost', gender: 'f', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'odpověď', en: 'answer', pattern: 'kost', gender: 'f', level: 'A1', official: null, topic: 'leisure', svg: `
     <path d="M12 6 h36 a6 6 0 0 1 6 6 v18 a6 6 0 0 1 -6 6 h-20 l-10 10 v-10 h-6 a6 6 0 0 1 -6 -6 v-18 a6 6 0 0 1 6 -6z" fill="#c7b6f5" ${S}/>
     <text x="30" y="31" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="26" fill="#5a3fbf">?</text>
     <path d="M44 34 h62 a8 8 0 0 1 8 8 v30 a8 8 0 0 1 -8 8 h-12 v14 l-14 -14 h-36 a8 8 0 0 1 -8 -8 v-30 a8 8 0 0 1 8 -8z" fill="#8fd18a" ${S}/>
     <path d="M58 58 L70 70 L94 44" fill="none" stroke="#333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M58 58 L70 70 L94 44" fill="none" stroke="#3f9d55" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>` },
 
-  { cs: 'zpráva', en: 'message, news', pattern: 'žena', gender: 'f', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'zpráva', en: 'message, news', pattern: 'žena', gender: 'f', level: 'A1', official: 'A2', topic: 'leisure', svg: `
     <rect x="30" y="4" width="60" height="92" rx="8" fill="#1d2a5a" ${S}/>
     <rect x="36" y="12" width="48" height="74" rx="3" fill="#dff3ff" ${S}/>
     <circle cx="60" cy="91" r="2.5" fill="#9aa0a8"/>
@@ -18,7 +18,7 @@ WORDS.push(
     <circle cx="90" cy="12" r="9" fill="#e63946" ${S}/>
     <text x="90" y="16.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#fff">1</text>` },
 
-  { cs: 'hudba', en: 'music', pattern: 'žena', gender: 'f', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'hudba', en: 'music', pattern: 'žena', gender: 'f', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <rect x="12" y="4" width="12" height="10" rx="2" fill="#3b2a1a" ${S}/>
     <rect x="15" y="12" width="6" height="46" fill="#8b4a2b" ${S}/>
     <circle cx="18" cy="82" r="13" fill="#b5722f" ${S}/>
@@ -34,7 +34,7 @@ WORDS.push(
     <path d="M106 32 Q118 40 110 56 Q114 42 106 42 Z" fill="#e94b8a" ${S}/>
     <ellipse cx="99" cy="88" rx="10" ry="7" transform="rotate(-20 99 88)" fill="#e94b8a" ${S}/>` },
 
-  { cs: 'písnička', en: 'song', pattern: 'žena', gender: 'f', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'písnička', en: 'song', pattern: 'žena', gender: 'f', level: 'A1', official: null, topic: 'leisure', svg: `
     <circle cx="26" cy="50" r="7" fill="#f2c14e" ${S}/>
     <circle cx="62" cy="50" r="7" fill="#f2c14e" ${S}/>
     <path d="M30 60 H58 L64 96 H24 Z" fill="#e94b8a" ${S}/>
@@ -49,7 +49,7 @@ WORDS.push(
     <ellipse cx="82" cy="78" rx="6" ry="4.5" transform="rotate(-20 82 78)" fill="#6cc06a" ${S}/>
     <path d="M87 77 V58 Q98 62 92 72" fill="none" ${S}/>` },
 
-  { cs: 'pohádka', en: 'fairy tale', pattern: 'žena', gender: 'f', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'pohádka', en: 'fairy tale', pattern: 'žena', gender: 'f', level: 'A1', official: 'A2', topic: 'leisure', svg: `
     <rect x="22" y="30" width="14" height="36" fill="#ddd" ${S}/>
     <path d="M20 30 L29 12 L38 30 Z" fill="#e63946" ${S}/>
     <rect x="72" y="30" width="14" height="36" fill="#ddd" ${S}/>
@@ -73,7 +73,7 @@ WORDS.push(
     <path d="M112 64 Q86 56 60 66 L60 96 Q86 88 112 94 Z" fill="#ffe08a" ${S}/>
     <path d="M60 66 V96" ${S}/>` },
 
-  { cs: 'hra', en: 'game', pattern: 'žena', gender: 'f', level: 'A1', topic: 'leisure', svg: `
+  { cs: 'hra', en: 'game', pattern: 'žena', gender: 'f', level: 'A1', official: 'A1', topic: 'leisure', svg: `
     <rect x="6" y="12" width="78" height="82" rx="4" fill="#ffe08a" ${S}/>
     <g fill="#fff" ${S}>
       <circle cx="45" cy="20" r="4.5"/><circle cx="45" cy="31" r="4.5"/><circle cx="45" cy="42" r="4.5"/><circle cx="45" cy="53" r="4.5"/><circle cx="45" cy="64" r="4.5"/><circle cx="45" cy="75" r="4.5"/><circle cx="45" cy="86" r="4.5"/>

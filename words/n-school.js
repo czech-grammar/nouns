@@ -1,6 +1,6 @@
 // Topic: school (neuter)
 WORDS.push(
-  { cs: 'slovo', en: 'word', pattern: 'město', gender: 'n', level: 'A1', topic: 'school', svg: `
+  { cs: 'slovo', en: 'word', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'school', svg: `
     <rect x="4" y="66" width="112" height="12" rx="2" fill="#8b4a2b" ${S}/>
     <g fill="#ffe08a" ${S}>
       <rect x="6" y="32" width="26" height="32" rx="3"/><rect x="34" y="32" width="26" height="32" rx="3"/>
@@ -10,7 +10,7 @@ WORDS.push(
       <text x="19" y="56">A</text><text x="47" y="56">H</text><text x="75" y="56">O</text><text x="103" y="56">J</text>
     </g>` },
 
-  { cs: 'číslo', en: 'number', pattern: 'město', gender: 'n', level: 'A1', topic: 'school', svg: `
+  { cs: 'číslo', en: 'number', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'school', svg: `
     <g font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="middle">
       <text x="22" y="30" font-size="18" fill="#e63946">1</text>
       <text x="100" y="28" font-size="18" fill="#3f9d55">3</text>
@@ -20,14 +20,14 @@ WORDS.push(
       <text x="60" y="84" font-size="84" fill="#4fa3e3" stroke="#333" stroke-width="2.5">7</text>
     </g>` },
 
-  { cs: 'písmeno', en: 'letter (of the alphabet)', pattern: 'město', gender: 'n', level: 'A1', topic: 'school', svg: `
+  { cs: 'písmeno', en: 'letter (of the alphabet)', pattern: 'město', gender: 'n', level: 'A1', official: null, topic: 'school', svg: `
     <polygon points="22,32 42,12 102,12 82,32" fill="#ffe08a" ${S}/>
     <polygon points="82,32 102,12 102,72 82,92" fill="#f4a261" ${S}/>
     <rect x="22" y="32" width="60" height="60" fill="#f9c74f" ${S}/>
     <rect x="28" y="38" width="48" height="48" fill="none" stroke="#c0392b" stroke-width="2.5"/>
     <text x="52" y="79" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#e63946" stroke="#333" stroke-width="1.5">A</text>` },
 
-  { cs: 'pero', en: 'pen', pattern: 'město', gender: 'n', level: 'A1', topic: 'school', svg: `
+  { cs: 'pero', en: 'pen', pattern: 'město', gender: 'n', level: 'A1', official: null, topic: 'school', svg: `
     <path d="M28 84 Q42 92 58 84 Q74 76 92 86" fill="none" stroke="#4fa3e3" stroke-width="3" stroke-linecap="round"/>
     <g transform="translate(60 50) rotate(-40)">
       <rect x="40" y="-7" width="14" height="14" rx="4" fill="#1d2a5a" ${S}/>
@@ -37,7 +37,7 @@ WORDS.push(
       <circle cx="-43" cy="0" r="1.8" fill="#333"/>
     </g>` },
 
-  { cs: 'cvičení', en: 'exercise', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'school', svg: `
+  { cs: 'cvičení', en: 'exercise', pattern: 'stavení', gender: 'n', level: 'A1', official: 'A1', topic: 'school', svg: `
     <rect x="14" y="4" width="82" height="92" rx="3" fill="#fff" ${S}/>
     <g font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="12" fill="#333">
       <text x="22" y="32">1.</text><text x="22" y="56">2.</text><text x="22" y="80">3.</text>
@@ -54,7 +54,7 @@ WORDS.push(
       <rect x="54" y="-6" width="8" height="12" rx="3" fill="#e94b8a" ${S}/>
     </g>` },
 
-  { cs: 'zaměstnání', en: 'job, employment', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'school', svg: `
+  { cs: 'zaměstnání', en: 'job, employment', pattern: 'stavení', gender: 'n', level: 'A1', official: 'A1', topic: 'school', svg: `
     <rect x="58" y="6" width="56" height="90" fill="#ddd" ${S}/>
     <g fill="#4fa3e3" ${S}>
       <rect x="64" y="12" width="10" height="10"/><rect x="81" y="12" width="10" height="10"/><rect x="98" y="12" width="10" height="10"/>
@@ -82,7 +82,7 @@ WORDS.push(
     <path d="M49 74 V70 H57 V74" fill="none" ${S}/>
     <path d="M42 82 H64" stroke="#333" stroke-width="2"/>` },
 
-  { cs: 'povolání', en: 'profession', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'school', svg: `
+  { cs: 'povolání', en: 'profession', pattern: 'stavení', gender: 'n', level: 'A1', official: 'A1', topic: 'school', svg: `
     <circle cx="16" cy="22" r="11" fill="#fff" ${S}/><circle cx="40" cy="22" r="11" fill="#fff" ${S}/>
     <circle cx="28" cy="13" r="11" fill="#fff" ${S}/>
     <rect x="8" y="28" width="40" height="14" rx="2" fill="#fff" ${S}/>

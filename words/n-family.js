@@ -1,6 +1,6 @@
 // Topic: family (neuter)
 WORDS.push(
-  { cs: 'dítě', en: 'child', pattern: 'irregular (dítěte; pl. děti)', gender: 'n', level: 'A1', topic: 'family', svg: `
+  { cs: 'dítě', en: 'child', pattern: 'irregular (dítěte; pl. děti)', gender: 'n', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M33 48 L22 68" stroke="#333" stroke-width="9" stroke-linecap="round"/>
     <path d="M33 48 L22 68" stroke="#ffd8b8" stroke-width="5" stroke-linecap="round"/>
     <circle cx="22" cy="69" r="4" fill="#ffd8b8" ${S}/>
@@ -24,7 +24,7 @@ WORDS.push(
     <path d="M55 48 L70 72" stroke="#ffd8b8" stroke-width="5" stroke-linecap="round"/>
     <circle cx="71" cy="74" r="4.5" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'miminko', en: 'baby', pattern: 'město', gender: 'n', level: 'A1', topic: 'family', svg: `
+  { cs: 'miminko', en: 'baby', pattern: 'město', gender: 'n', level: 'A1', official: null, topic: 'family', svg: `
     <path d="M30 52 Q30 46 40 46 H80 Q90 46 90 52 V86 Q90 96 80 96 H40 Q30 96 30 86 Z" fill="#bde0fe" ${S}/>
     <path d="M36 50 L60 70 L84 50" fill="none" ${S}/>
     <circle cx="42" cy="82" r="2.5" fill="#fff"/><circle cx="54" cy="90" r="2.5" fill="#fff"/><circle cx="70" cy="86" r="2.5" fill="#fff"/><circle cx="80" cy="76" r="2.5" fill="#fff"/><circle cx="60" cy="80" r="2.5" fill="#fff"/>
@@ -35,7 +35,7 @@ WORDS.push(
     <ellipse cx="60" cy="48" rx="8" ry="5" fill="#e94b8a" ${S}/>
     <circle cx="60" cy="55" r="3.5" fill="none" ${S}/>` },
 
-  { cs: 'jméno', en: 'name', pattern: 'město', gender: 'n', level: 'A1', topic: 'family', svg: `
+  { cs: 'jméno', en: 'name', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'family', svg: `
     <path d="M42 34 L38 66 M78 34 L82 66" stroke="#3b2a1a" stroke-width="8" stroke-linecap="round"/>
     <path d="M46 52 L74 52 L86 96 L34 96 Z" fill="#6cc06a" ${S}/>
     <circle cx="60" cy="34" r="18" fill="#ffd8b8" ${S}/>
@@ -46,7 +46,7 @@ WORDS.push(
     <rect x="37" y="60" width="46" height="8" fill="#e63946" ${S}/>
     <text x="60" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#333">ANNA</text>` },
 
-  { cs: 'příjmení', en: 'surname', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'family', svg: `
+  { cs: 'příjmení', en: 'surname', pattern: 'stavení', gender: 'n', level: 'A1', official: 'A1', topic: 'family', svg: `
     <rect x="20" y="4" width="72" height="92" fill="#8b4a2b" ${S}/>
     <rect x="28" y="12" width="56" height="84" fill="#b5722f" ${S}/>
     <rect x="36" y="42" width="40" height="46" rx="2" fill="none" stroke="#8b4a2b" stroke-width="3"/>

@@ -3,7 +3,7 @@
 import glob, re, sys, os, xml.dom.minidom
 os.chdir(os.path.join(os.path.dirname(__file__), '..'))
 S = 'stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"'
-ENTRY = re.compile(r"\{\s*cs:\s*'([^']+)',\s*en:\s*'([^']+)',\s*pattern:\s*'([^']+)',\s*gender:\s*'(f|ma|mi|n)',\s*level:\s*'(A1|A2|B1|B2)',\s*topic:\s*'([^']+)',\s*svg:\s*`(.*?)`\s*\}", re.S)
+ENTRY = re.compile(r"\{\s*cs:\s*'([^']+)',\s*en:\s*'([^']+)',\s*pattern:\s*'([^']+)',\s*gender:\s*'(f|ma|mi|n)',\s*level:\s*'(A1|A2|B1|B2)',\s*official:\s*(?:'(A1|A2)'|null),\s*topic:\s*'([^']+)',\s*svg:\s*`(.*?)`\s*\}", re.S)
 NUM = re.compile(r'(?<![\w.-])(-?\d+(?:\.\d+)?)')
 
 def entries(files=None):
@@ -11,7 +11,7 @@ def entries(files=None):
     for f in files or ['words.js'] + sorted(glob.glob('words/*.js')):
         src = open(f, encoding='utf8').read()
         for m in ENTRY.finditer(src):
-            out.append(dict(file=f, cs=m.group(1), en=m.group(2), pattern=m.group(3), gender=m.group(4), level=m.group(5), topic=m.group(6), svg=m.group(7)))
+            out.append(dict(file=f, cs=m.group(1), en=m.group(2), pattern=m.group(3), gender=m.group(4), level=m.group(5), official=m.group(6), topic=m.group(7), svg=m.group(8)))
     return out
 
 def main():

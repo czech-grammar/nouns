@@ -1,6 +1,6 @@
 // Topic: town (neuter)
 WORDS.push(
-  { cs: 'město', en: 'town, city', pattern: 'město', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'město', en: 'town, city', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <path d="M6 62 V44 H14 V36 H20 V44 H34 V30 L40 14 L46 30 V44 H74 V30 L80 14 L86 30 V44 H100 V36 H106 V44 H114 V62 Z" fill="#c7b6f5" ${S}/>
     <rect x="4" y="92" width="112" height="5" fill="#9aa0a8" ${S}/>
     <rect x="6" y="56" width="26" height="36" fill="#f4a261" ${S}/>
@@ -24,7 +24,7 @@ WORDS.push(
     <rect x="106" y="66" width="10" height="26" fill="#6cc06a" ${S}/>
     <path d="M104 66 L111 58 L118 66 Z" fill="#3f9d55" ${S}/>` },
 
-  { cs: 'náměstí', en: 'square', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'náměstí', en: 'square', pattern: 'stavení', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <path d="M8 40 H112 L116 96 H4 Z" fill="#ddd" ${S}/>
     <g fill="#bbb">
       <ellipse cx="20" cy="50" rx="3" ry="2"/><ellipse cx="34" cy="52" rx="3" ry="2"/><ellipse cx="86" cy="52" rx="3" ry="2"/><ellipse cx="100" cy="50" rx="3" ry="2"/>
@@ -51,7 +51,7 @@ WORDS.push(
     <path d="M34 74 H86 V84 Q86 90 80 90 H40 Q34 90 34 84 Z" fill="#9aa0a8" ${S}/>
     <ellipse cx="60" cy="74" rx="26" ry="6" fill="#4fa3e3" ${S}/>` },
 
-  { cs: 'nádraží', en: 'railway station', pattern: 'stavení', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'nádraží', en: 'railway station', pattern: 'stavení', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <path d="M80 92 V66 a6 6 0 0 1 6 -6 H108 L116 70 V92 Z" fill="#4fa3e3" ${S}/>
     <rect x="98" y="66" width="8" height="8" rx="2" fill="#bde0fe" ${S}/>
     <circle cx="94" cy="92" r="5" fill="#333"/><circle cx="110" cy="92" r="5" fill="#333"/>
@@ -69,7 +69,7 @@ WORDS.push(
     <path d="M42 96 V76 a8 8 0 0 1 16 0 V96 Z" fill="#5a3a22" ${S}/>
     <path d="M68 96 V76 a6 6 0 0 1 12 0 V96 Z" fill="#bde0fe" ${S}/>` },
 
-  { cs: 'letiště', en: 'airport', pattern: 'moře', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'letiště', en: 'airport', pattern: 'moře', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <rect x="36" y="36" width="82" height="6" fill="#7a7f87" ${S}/>
     <rect x="40" y="42" width="76" height="30" fill="#ddd" ${S}/>
     <rect x="46" y="48" width="64" height="12" fill="#bde0fe" ${S}/>
@@ -87,7 +87,7 @@ WORDS.push(
     </g>
     <path d="M66 83 L42 95 H58 L80 83 Z" fill="#ddd" ${S}/>` },
 
-  { cs: 'letadlo', en: 'plane', pattern: 'město', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'letadlo', en: 'plane', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <path d="M12 34 a9 9 0 0 1 9 -9 a11 11 0 0 1 20 -2 a8 8 0 0 1 9 11 Z" fill="#dff3ff" ${S}/>
     <path d="M66 92 a7 7 0 0 1 7 -7 a9 9 0 0 1 16 -2 a6 6 0 0 1 7 9 Z" fill="#dff3ff" ${S}/>
     <path d="M86 46 L96 20 H110 L102 46 Z" fill="#4fa3e3" ${S}/>
@@ -100,7 +100,7 @@ WORDS.push(
     <path d="M44 60 L22 84 H40 L64 62 Z" fill="#ddd" ${S}/>
     <rect x="34" y="70" width="16" height="8" rx="4" fill="#9aa0a8" ${S}/>` },
 
-  { cs: 'auto', en: 'car', pattern: 'město', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'auto', en: 'car', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <path d="M28 50 L40 26 H84 L100 50 Z" fill="#e63946" ${S}/>
     <path d="M34 48 L44 30 H60 V48 Z" fill="#bde0fe" ${S}/>
     <path d="M64 30 H80 L92 48 H64 Z" fill="#bde0fe" ${S}/>
@@ -111,7 +111,7 @@ WORDS.push(
     <circle cx="32" cy="78" r="11" fill="#333" ${S}/><circle cx="32" cy="78" r="4.5" fill="#9aa0a8"/>
     <circle cx="88" cy="78" r="11" fill="#333" ${S}/><circle cx="88" cy="78" r="4.5" fill="#9aa0a8"/>` },
 
-  { cs: 'metro', en: 'metro, underground', pattern: 'město', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'metro', en: 'metro, underground', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <path d="M26 94 V52 a39 39 0 0 1 78 0 V94 Z" fill="#9aa0a8" ${S}/>
     <path d="M32 94 V54 a33 33 0 0 1 66 0 V94 Z" fill="#1d2a5a" ${S}/>
     <path d="M37 92 V58 a12 12 0 0 1 12 -12 h32 a12 12 0 0 1 12 12 V92 Z" fill="#ddd" ${S}/>
@@ -123,7 +123,7 @@ WORDS.push(
     <circle cx="14" cy="20" r="12" fill="#3f9d55" ${S}/>
     <text x="14" y="26" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="17" fill="#fff">M</text>` },
 
-  { cs: 'parkoviště', en: 'car park', pattern: 'moře', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'parkoviště', en: 'car park', pattern: 'moře', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <rect x="17" y="34" width="4" height="24" fill="#7a7f87" ${S}/>
     <rect x="4" y="6" width="30" height="30" rx="3" fill="#4fa3e3" ${S}/>
     <text x="19" y="29" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="24" fill="#fff">P</text>
@@ -142,7 +142,7 @@ WORDS.push(
     <rect x="85" y="86" width="6" height="6" rx="1" fill="#333"/><rect x="103" y="86" width="6" height="6" rx="1" fill="#333"/>
     <circle cx="89" cy="78" r="2.5" fill="#f9c74f"/><circle cx="105" cy="78" r="2.5" fill="#f9c74f"/>` },
 
-  { cs: 'kino', en: 'cinema', pattern: 'město', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'kino', en: 'cinema', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <rect x="8" y="30" width="104" height="66" fill="#c7b6f5" ${S}/>
     <rect x="44" y="60" width="32" height="36" fill="#5a3a22" ${S}/>
     <path d="M60 60 V96" stroke="#333" stroke-width="2"/>
@@ -163,7 +163,7 @@ WORDS.push(
       <path d="M-2 -2 H12 M-2 3 H8" stroke="#c9a227" stroke-width="2.5" stroke-linecap="round"/>
     </g>` },
 
-  { cs: 'divadlo', en: 'theatre', pattern: 'město', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'divadlo', en: 'theatre', pattern: 'město', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <rect x="8" y="22" width="104" height="52" fill="#1d2a5a" ${S}/>
     <path d="M4 74 H116 V96 H4 Z" fill="#b5722f" ${S}/>
     <path d="M6 85 H114" stroke="#8b4a2b" stroke-width="2"/>
@@ -181,7 +181,7 @@ WORDS.push(
     <ellipse cx="40" cy="49" rx="3.5" ry="2.5" fill="#333"/><ellipse cx="52" cy="49" rx="3.5" ry="2.5" fill="#333"/>
     <path d="M38 57 Q46 66 54 57 Z" fill="#333"/>` },
 
-  { cs: 'muzeum', en: 'museum', pattern: 'město (muzea)', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'muzeum', en: 'museum', pattern: 'město (muzea)', gender: 'n', level: 'A1', official: 'A1', topic: 'town', svg: `
     <rect x="10" y="34" width="100" height="62" fill="#ffb4a2" ${S}/>
     <path d="M6 34 L16 14 H104 L114 34 Z" fill="#7a7f87" ${S}/>
     <rect x="30" y="38" width="60" height="12" rx="2" fill="#fff" ${S}/>
@@ -194,7 +194,7 @@ WORDS.push(
     <path d="M84 68 L86 72 L88 68 L90 72 L92 68" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="88" cy="61" r="2" fill="#1d2a5a"/>` },
 
-  { cs: 'centrum', en: 'centre', pattern: 'město (centra)', gender: 'n', level: 'A1', topic: 'town', svg: `
+  { cs: 'centrum', en: 'centre', pattern: 'město (centra)', gender: 'n', level: 'A1', official: 'A2', topic: 'town', svg: `
     <rect x="58" y="46" width="4" height="36" fill="#7a7f87" ${S}/>
     <rect x="4" y="80" width="112" height="16" fill="#777" ${S}/>
     <path d="M12 88 H26 M38 88 H52 M64 88 H78 M90 88 H104" stroke="#fff" stroke-width="3" stroke-linecap="round"/>

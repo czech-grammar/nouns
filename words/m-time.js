@@ -1,6 +1,6 @@
 // Topic: time (masculine inanimate)
 WORDS.push(
-  { cs: 'čas', en: 'time', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'čas', en: 'time', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <circle cx="92" cy="30" r="24" fill="#4fa3e3" ${S}/>
     <circle cx="92" cy="30" r="18" fill="#fff" ${S}/>
     <path d="M92 14 V17 M92 46 V43 M76 30 H79 M108 30 H105" stroke="#333" stroke-width="2" stroke-linecap="round"/>
@@ -15,7 +15,7 @@ WORDS.push(
     <path d="M28 88 H54 Q54 76 41 72 Q28 76 28 88 Z" fill="#f9c74f"/>
     <path d="M41 50 V72" stroke="#f9c74f" stroke-width="2.5" stroke-linecap="round"/>` },
 
-  { cs: 'den', en: 'day', pattern: 'hrad (dne)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'den', en: 'day', pattern: 'hrad (dne)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M14 70 A46 46 0 0 1 106 70" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 5"/>
     <path d="M60 8 V4 M60 46 V50 M79 27 H83 M41 27 H37 M73.4 13.6 L76.3 10.7 M46.6 13.6 L43.7 10.7 M73.4 40.4 L76.3 43.3 M46.6 40.4 L43.7 43.3" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="60" cy="27" r="13" fill="#f9c74f" ${S}/>
@@ -26,7 +26,7 @@ WORDS.push(
     <rect x="56" y="76" width="8" height="14" fill="#8b4a2b" ${S}/>
     <circle cx="60" cy="72" r="10" fill="#3f9d55" ${S}/>` },
 
-  { cs: 'týden', en: 'week', pattern: 'hrad (týdne)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'týden', en: 'week', pattern: 'hrad (týdne)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <rect x="6" y="22" width="108" height="72" rx="6" fill="#fff" ${S}/>
     <path d="M6 28 a6 6 0 0 1 6 -6 h96 a6 6 0 0 1 6 6 v6 H6 Z" fill="#4fa3e3" ${S}/>
     <rect x="34" y="14" width="6" height="16" rx="3" fill="#7a7f87" ${S}/>
@@ -39,7 +39,7 @@ WORDS.push(
     </g>
     <path d="M8.1 72 L12.6 78 L19.6 64 M23.5 72 L28 78 L35 64 M39 72 L43.5 78 L50.5 64 M54.4 72 L58.9 78 L65.9 64 M69.8 72 L74.3 78 L81.3 64 M85.3 72 L89.8 78 L96.8 64 M100.7 72 L105.2 78 L112.2 64" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>` },
 
-  { cs: 'rok', en: 'year', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'rok', en: 'year', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <rect x="10" y="14" width="100" height="80" rx="6" fill="#fff" ${S}/>
     <path d="M10 20 a6 6 0 0 1 6 -6 h88 a6 6 0 0 1 6 6 v14 H10 Z" fill="#4fa3e3" ${S}/>
     <rect x="30" y="6" width="6" height="16" rx="3" fill="#7a7f87" ${S}/>
@@ -63,7 +63,7 @@ WORDS.push(
     </g>
     <path d="M18 48 H32 M18 51 H28 M41 48 H55 M41 51 H51 M64 48 H78 M64 51 H74 M87 48 H101 M87 51 H97 M18 65 H32 M18 68 H28 M41 65 H55 M41 68 H51 M64 65 H78 M64 68 H74 M87 65 H101 M87 68 H97 M18 82 H32 M18 85 H28 M41 82 H55 M41 85 H51 M64 82 H78 M64 85 H74 M87 82 H101 M87 85 H97" stroke="#ddd" stroke-width="1.5" stroke-linecap="round"/>` },
 
-  { cs: 'večer', en: 'evening', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'večer', en: 'evening', pattern: 'hrad', gender: 'mi', level: 'A1', official: null, topic: 'time', svg: `
     <rect x="4" y="4" width="112" height="68" rx="6" fill="#f4a261" ${S}/>
     <path d="M82 46 V42 M96.1 51.9 L99 49 M67.9 51.9 L65 49 M104 66 H108 M60 66 H56" fill="none" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
     <circle cx="82" cy="66" r="12" fill="#f9c74f" ${S}/>
@@ -78,7 +78,7 @@ WORDS.push(
     <rect x="72" y="8" width="42" height="22" rx="4" fill="#1d2a5a" ${S}/>
     <text x="93" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#f9c74f">19:00</text>` },
 
-  { cs: 'čtvrtek', en: 'Thursday', pattern: 'hrad (čtvrtka)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'čtvrtek', en: 'Thursday', pattern: 'hrad (čtvrtka)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <rect x="6" y="22" width="108" height="72" rx="6" fill="#fff" ${S}/>
     <path d="M6 28 a6 6 0 0 1 6 -6 h96 a6 6 0 0 1 6 6 v6 H6 Z" fill="#4fa3e3" ${S}/>
     <rect x="34" y="14" width="6" height="16" rx="3" fill="#7a7f87" ${S}/>
@@ -99,7 +99,7 @@ WORDS.push(
     </g>
     <path d="M54.4 72 L58.9 78 L65.9 64" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>` },
 
-  { cs: 'pátek', en: 'Friday', pattern: 'hrad (pátku)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'pátek', en: 'Friday', pattern: 'hrad (pátku)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <rect x="6" y="22" width="108" height="72" rx="6" fill="#fff" ${S}/>
     <path d="M6 28 a6 6 0 0 1 6 -6 h96 a6 6 0 0 1 6 6 v6 H6 Z" fill="#4fa3e3" ${S}/>
     <rect x="34" y="14" width="6" height="16" rx="3" fill="#7a7f87" ${S}/>
@@ -128,7 +128,7 @@ WORDS.push(
     <path d="M94 19 L106 19 M91 25.5 L109 25.5" stroke="#f9c74f" stroke-width="3" stroke-linecap="round"/>
     <circle cx="100" cy="6" r="3.5" fill="#f9c74f" ${S}/>` },
 
-  { cs: 'víkend', en: 'weekend', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'víkend', en: 'weekend', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M18 5 V2 M18 25 V28 M29 15 H32 M7 15 H4 M25.8 7.2 L27.9 5.1 M10.2 7.2 L8.1 5.1 M25.8 22.8 L27.9 24.9 M10.2 22.8 L8.1 24.9" fill="none" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
     <circle cx="18" cy="15" r="8" fill="#f9c74f" ${S}/>
     <rect x="6" y="22" width="108" height="72" rx="6" fill="#fff" ${S}/>
@@ -155,7 +155,7 @@ WORDS.push(
     <rect x="98" y="19" width="6" height="9" fill="#5a3a22" ${S}/>
     <rect x="92" y="18" width="4" height="4" fill="#bde0fe" ${S}/><rect x="106" y="18" width="4" height="4" fill="#bde0fe" ${S}/>` },
 
-  { cs: 'podzim', en: 'autumn', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'podzim', en: 'autumn', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M4 86 H116 V96 H4 Z" fill="#6cc06a" ${S}/>
     <rect x="27" y="56" width="10" height="32" fill="#8b4a2b" ${S}/>
     <circle cx="32" cy="38" r="26" fill="#f4a261" ${S}/>
@@ -174,7 +174,7 @@ WORDS.push(
     <path d="M78 34 Q90 10 102 34" fill="none" stroke="#333" stroke-width="2"/>
     <path d="M90 34 V52 Q90 58 84 57" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>` },
 
-  { cs: 'leden', en: 'January', pattern: 'hrad (ledna)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'leden', en: 'January', pattern: 'hrad (ledna)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M4 96 V80 Q60 62 116 80 V96 Z" fill="#fff" ${S}/>
     <path d="M52 16 V30 M45 23 H59 M47 18 L57 28 M57 18 L47 28 M84 8 V22 M77 15 H91 M79 10 L89 20 M89 10 L79 20 M104 36 V50 M97 43 H111 M99 38 L109 48 M109 38 L99 48" fill="none" stroke="#4fa3e3" stroke-width="2.5" stroke-linecap="round"/>
     <rect x="42" y="56" width="6" height="14" fill="#8b4a2b" ${S}/>
@@ -189,7 +189,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">1</text>` },
 
-  { cs: 'únor', en: 'February', pattern: 'hrad (února)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'únor', en: 'February', pattern: 'hrad (února)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M100 8 V40 M84 24 H116 M89 13 L111 35 M111 13 L89 35" fill="none" stroke="#4fa3e3" stroke-width="3" stroke-linecap="round"/>
     <path d="M96 12 L100 8 L104 12 M96 36 L100 40 L104 36 M88 20 L84 24 L88 28 M112 20 L116 24 L112 28" fill="none" stroke="#4fa3e3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M78 68 L98 94" stroke="#333" stroke-width="6" stroke-linecap="round"/>
@@ -208,7 +208,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">2</text>` },
 
-  { cs: 'březen', en: 'March', pattern: 'hrad (března)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'březen', en: 'March', pattern: 'hrad (března)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M4 82 H116 V96 H4 Z" fill="#6cc06a" ${S}/>
     <path d="M4 96 V84 Q20 74 40 82 Q50 86 62 82 Q86 72 116 84 V96 Z" fill="#fff" ${S}/>
     <path d="M52 84 V50 Q52 44 58 46 M84 82 V42 Q84 36 90 38 M30 84 V60 Q30 54 36 56" fill="none" stroke="#3f9d55" stroke-width="3.5" stroke-linecap="round"/>
@@ -229,7 +229,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">3</text>` },
 
-  { cs: 'duben', en: 'April', pattern: 'hrad (dubna)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'duben', en: 'April', pattern: 'hrad (dubna)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M66 92 L104 26" stroke="#333" stroke-width="10" stroke-linecap="round"/>
     <path d="M66 92 L104 26" stroke="#b5722f" stroke-width="7" stroke-linecap="round"/>
     <path d="M70 84 L76 87 M74 77 L80 80 M78 70 L84 73 M82 63 L88 66 M86 56 L92 59 M90 49 L96 52 M94 42 L100 45 M98 35 L104 38" stroke="#8b4a2b" stroke-width="2" stroke-linecap="round"/>
@@ -247,7 +247,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">4</text>` },
 
-  { cs: 'květen', en: 'May', pattern: 'hrad (května)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'květen', en: 'May', pattern: 'hrad (května)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M4 88 H116 V96 H4 Z" fill="#8fd18a" ${S}/>
     <rect x="36" y="60" width="10" height="30" fill="#8b4a2b" ${S}/>
     <circle cx="41" cy="46" r="24" fill="#fff" ${S}/>
@@ -271,7 +271,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">5</text>` },
 
-  { cs: 'červen', en: 'June', pattern: 'hrad (června)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'červen', en: 'June', pattern: 'hrad (června)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <rect x="64" y="14" width="48" height="66" rx="3" fill="#fff" ${S}/>
     <rect x="70" y="20" width="36" height="8" rx="2" fill="#4fa3e3" stroke="#333" stroke-width="1.5"/>
     <path d="M70 38 H90 M70 50 H90 M70 62 H90 M70 74 H90" stroke="#9aa0a8" stroke-width="2.5" stroke-linecap="round"/>
@@ -291,7 +291,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">6</text>` },
 
-  { cs: 'červenec', en: 'July', pattern: 'stroj (července)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'červenec', en: 'July', pattern: 'stroj (července)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M4 66 H116 V96 H4 Z" fill="#8fd18a" ${S}/>
     <ellipse cx="86" cy="42" rx="28" ry="14" fill="#4fa3e3" ${S}/>
     <path d="M70 40 q4 -3 8 0 q4 3 8 0 M84 46 q4 -3 8 0 q4 3 8 0" fill="none" stroke="#dff3ff" stroke-width="2" stroke-linecap="round"/>
@@ -306,7 +306,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">7</text>` },
 
-  { cs: 'srpen', en: 'August', pattern: 'hrad (srpna)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'srpen', en: 'August', pattern: 'hrad (srpna)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M44 96 V80" stroke="#3f9d55" stroke-width="4" stroke-linecap="round"/>
     <path d="M44 88 Q32 90 30 78 Q42 78 44 88 Z" fill="#6cc06a" ${S}/>
     <polygon points="44.0,22.0 48.5,32.5 57.0,25.0 56.5,36.4 67.5,33.3 62.0,43.3 73.2,45.3 64.0,52.0 73.2,58.7 62.0,60.7 67.5,70.7 56.5,67.6 57.0,79.0 48.5,71.5 44.0,82.0 39.5,71.5 31.0,79.0 31.5,67.6 20.5,70.7 26.0,60.7 14.8,58.7 24.0,52.0 14.8,45.3 26.0,43.3 20.5,33.3 31.5,36.4 31.0,25.0 39.5,32.5" fill="#f9c74f" ${S}/>
@@ -325,7 +325,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">8</text>` },
 
-  { cs: 'říjen', en: 'October', pattern: 'hrad (října)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'říjen', en: 'October', pattern: 'hrad (října)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M88 56 Q76 66 80 76 Q66 82 60 92" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
     <path d="M78 66 L84 70 M74 70 L80 74 M64 84 L70 88 M60 88 L66 92" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
     <polygon points="88,4 110,30 88,56 66,30" fill="#e63946" ${S}/>
@@ -342,7 +342,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">10</text>` },
 
-  { cs: 'listopad', en: 'November', pattern: 'hrad', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'listopad', en: 'November', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <path d="M4 88 H116 V96 H4 Z" fill="#9aa0a8" ${S}/>
     <path d="M48 90 V50 M48 62 Q34 56 30 40 M48 54 Q60 46 64 30 M48 70 Q38 68 34 60 M48 50 Q46 36 40 28 M48 50 Q52 40 60 42" fill="none" stroke="#8b4a2b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
     <ellipse cx="72" cy="52" rx="4.5" ry="3" fill="#f4a261" stroke="#333" stroke-width="1.5"/>
@@ -360,7 +360,7 @@ WORDS.push(
     <rect x="19" y="2" width="3" height="5" rx="1.5" fill="#7a7f87" stroke="#333" stroke-width="1.5"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">11</text>` },
 
-  { cs: 'prosinec', en: 'December', pattern: 'stroj (prosince)', gender: 'mi', level: 'A1', topic: 'time', svg: `
+  { cs: 'prosinec', en: 'December', pattern: 'stroj (prosince)', gender: 'mi', level: 'A1', official: 'A1', topic: 'time', svg: `
     <rect x="65" y="82" width="10" height="12" fill="#8b4a2b" ${S}/>
     <path d="M70 44 L98 82 L42 82 Z" fill="#3f9d55" ${S}/>
     <path d="M70 26 L92 58 L48 58 Z" fill="#6cc06a" ${S}/>
