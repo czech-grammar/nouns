@@ -75,6 +75,9 @@ e.g. `město (muzea)`). Neuter deck files are named `words/n-<topic>.js`.
 Masculine patterns: animate pán, muž, předseda, soudce (gender 'ma'); inanimate
 hrad, stroj (gender 'mi'). Masculine deck files are named `words/m-<topic>.js`.
 
+A2 decks live in `words/a2/` with `level: 'A2'`; they are validated and exported
+(to `words-a2.json`) but not loaded by the page until linked in.
+
 ## Workflow
 
 1. Add entries to `words/<topic>.js` inside `WORDS.push( ... );`.

@@ -4238,8 +4238,9 @@
 {
 "cs": "petržel",
 "level": "A2",
-"gender": "m",
-"number": "singulár"
+"gender": "f",
+"number": "singulár",
+"note": "gender corrected: the source PDF lists it as masculine, but it is feminine"
 },
 {
 "cs": "piano",
@@ -5750,8 +5751,9 @@
 {
 "cs": "rychlost",
 "level": "A2",
-"gender": "m",
-"number": "singulár"
+"gender": "f",
+"number": "singulár",
+"note": "gender corrected: the source PDF lists it as masculine, but it is feminine"
 },
 {
 "cs": "rýma",

@@ -1,0 +1,556 @@
+[
+{
+"cs": "antibiotika",
+"number": "plurál",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "bankovnictví",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "bydlení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "čelo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "deci",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "deko",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "družstvo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "dřevo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "hi-fi",
+"number": "",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "játra",
+"number": "pluralium tantum",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "klenotnictví",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "knihkupectví",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "koření",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "krejčovství",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "kupé",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "květinářství",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "lůžko",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "mistrovství",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "náboženství",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "občanství",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "občerstvení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "očkování",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "odbavení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "oddělení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "ošetřovné",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "oznámení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "papírnictví",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "pečivo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "piano",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "plzeňské",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "podání",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "pohlaví",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "pojistné",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "pokračování",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "porodné",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "poštovné",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "prádlo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "provedení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "předplatné",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "představení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "přepadení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "připojení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "přiznání",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "pyžamo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "rozloučení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "ručení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "schodiště",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "spojení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "spropitné",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "stání",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "stanoviště",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "stočné",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "stříbro",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "studio",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "šestinedělí",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "taxi",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "těhotenství",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "učiliště",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "uhlí",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "úmrtí",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "ústa",
+"number": "pluralium tantum",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "vězení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "vodné",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "vozidlo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "vysvědčení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "vysvětlení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "vyšetření",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "vyznání",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "zabezpečení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "zastavení",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "zastupitelství",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "zavazadlo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "zavolání",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "zlato",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "zoo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "železo",
+"number": "singulár",
+"official": "A2",
+"source": "official A2"
+},
+{
+"cs": "prádlo",
+"en": "laundry, underwear",
+"pattern": "město",
+"official": "A2",
+"source": "A1 reserve (official A2)"
+},
+{
+"cs": "pečivo",
+"en": "bread and rolls",
+"pattern": "město",
+"official": "A2",
+"source": "A1 reserve (official A2)"
+},
+{
+"cs": "vajíčko",
+"en": "egg (diminutive, very common)",
+"pattern": "město",
+"official": null,
+"source": "A1 reserve (official not listed)"
+},
+{
+"cs": "taxi",
+"en": "taxi",
+"pattern": "indeclinable",
+"official": "A2",
+"source": "A1 reserve (official A2)"
+},
+{
+"cs": "zavazadlo",
+"en": "luggage",
+"pattern": "město",
+"official": "A2",
+"source": "A1 reserve (official A2)"
+},
+{
+"cs": "listí",
+"en": "leaves, foliage",
+"pattern": "stavení",
+"official": null,
+"source": "A1 reserve (official not listed)"
+},
+{
+"cs": "tele",
+"en": "calf",
+"pattern": "kuře",
+"official": null,
+"source": "A1 reserve (official not listed)"
+},
+{
+"cs": "čelo",
+"en": "forehead",
+"pattern": "město",
+"official": "A2",
+"source": "A1 reserve (official A2)"
+},
+{
+"cs": "pravítko",
+"en": "ruler",
+"pattern": "město",
+"official": null,
+"source": "A1 reserve (official not listed)"
+},
+{
+"cs": "lepidlo",
+"en": "glue",
+"pattern": "město",
+"official": null,
+"source": "A1 reserve (official not listed)"
+},
+{
+"cs": "heslo",
+"en": "password",
+"pattern": "město",
+"official": null,
+"source": "A1 reserve (official not listed)"
+},
+{
+"cs": "sloveso",
+"en": "verb",
+"pattern": "město",
+"official": null,
+"source": "A1 reserve (official not listed)"
+},
+{
+"cs": "euro",
+"en": "euro",
+"pattern": "město (eura)",
+"official": null,
+"source": "A1 reserve (official not listed)"
+},
+{
+"cs": "štěstí",
+"en": "luck, happiness",
+"pattern": "stavení",
+"official": null,
+"source": "A1 reserve (official not listed)"
+}
+]

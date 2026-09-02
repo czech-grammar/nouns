@@ -8,7 +8,7 @@ NUM = re.compile(r'(?<![\w.-])(-?\d+(?:\.\d+)?)')
 
 def entries(files=None):
     out = []
-    for f in files or ['words.js'] + sorted(glob.glob('words/*.js')):
+    for f in files or ['words.js'] + sorted(glob.glob('words/*.js')) + sorted(glob.glob('words/a2/*.js')):
         src = open(f, encoding='utf8').read()
         for m in ENTRY.finditer(src):
             out.append(dict(file=f, cs=m.group(1), en=m.group(2), pattern=m.group(3), gender=m.group(4), level=m.group(5), official=m.group(6), topic=m.group(7), svg=m.group(8)))
@@ -40,6 +40,8 @@ def main():
                 lim = 120 if 'x' in attr else 100
                 if v < -2 or v > lim + 2:
                     print(f"OUT OF RANGE {e['cs']}: {attr}={val}"); bad += 1
+        if e['level'] == 'A1' and 'a2/' in e['file']:
+            print(f"WRONG LEVEL {e['cs']}: A1 entry in the a2 folder"); bad += 1
         if not e['pattern'].startswith(('žena', 'růže', 'píseň', 'kost', 'město', 'moře', 'kuře', 'stavení', 'pán', 'muž', 'předseda', 'soudce', 'hrad', 'stroj', 'irregular', 'adjective', 'plural', 'indeclinable')):
             print(f"ODD PATTERN {e['cs']}: {e['pattern']}"); bad += 1
     print('entries:', len(es), '| by topic:', ', '.join(f'{k} {v}' for k, v in sorted(per_topic.items())))
