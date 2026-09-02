@@ -23,7 +23,7 @@
 "práce": {
 "sg": [
 "práce",
-"práce / {{Příznak2|nář.}} práci, prácí",
+"práce",
 "práci",
 "práci",
 "práce",
@@ -33,11 +33,11 @@
 "pl": [
 "práce",
 "prací",
-"pracím / {{Příznak2|nář.|zast.}} pracem<ref name=\"pracem\">{{Naše řeč",
-"",
-"",
-"",
-""
+"pracím",
+"práce",
+"práce",
+"pracích",
+"pracemi"
 ],
 "source": "cs.wiktionary"
 },
@@ -283,11 +283,11 @@
 "nocí"
 ],
 "pl": [
-"noci / {{Příznak2|nář.}} noce",
+"noci / noce",
 "nocí",
 "nocím",
-"noci / {{Příznak2|nář.}} noce",
-"noci / {{Příznak2|nář.}} noce",
+"noci / noce",
+"noci / noce",
 "nocích",
 "nocemi"
 ],
@@ -2084,7 +2084,7 @@
 ],
 "pl": [
 "hosti / hosté",
-"hostů / {{Příznak2|kniž.}} hostí",
+"hostů / hostí",
 "hostům",
 "hosty",
 "hosti / hosté",
@@ -2983,8 +2983,8 @@
 "strachům",
 "strachy",
 "strachy",
-"straších, {{Příznak2|ob.}} strachách",
-"strachy, {{Příznak2|ob.}} strachama"
+"straších",
+"strachy"
 ],
 "source": "cs.wiktionary"
 },
@@ -4923,7 +4923,7 @@
 "ptáky",
 "ptáci",
 "ptácích",
-"ptáky / {{Příznak2|ob.}} ptákama"
+"ptáky / ptákama"
 ],
 "source": "cs.wiktionary"
 },
@@ -4938,11 +4938,11 @@
 "lvem"
 ],
 "pl": [
-"lvi / {{Příznak2|kniž.}} lvové",
+"lvi / lvové",
 "lvů",
 "lvům",
 "lvy",
-"lvi / {{Příznak2|kniž.}} lvové",
+"lvi / lvové",
 "lvech",
 "lvy"
 ],
@@ -5484,11 +5484,11 @@
 "člověkem"
 ],
 "pl": [
-"lidé / {{Příznak2|ob.}} lidi",
+"lidé / lidi",
 "lidí",
 "lidem",
 "lidi",
-"lidé / {{Příznak2|ob.}} lidi",
+"lidé / lidi",
 "lidech",
 "lidmi"
 ],
@@ -6631,11 +6631,11 @@
 "Čechem"
 ],
 "pl": [
-"Češi / {{Příznak2|zast.}} Čechové",
+"Češi / Čechové",
 "Čechů",
 "Čechům",
 "Čechy",
-"Češi / {{Příznak2|zast.}} Čechové",
+"Češi / Čechové",
 "Češích",
 "Čechy"
 ],
@@ -7106,11 +7106,11 @@
 "dnem"
 ],
 "pl": [
-"dni / dny / {{Příznak2|bás.|kniž.}} dnové",
+"dni / dny / dnové",
 "dní / dnů",
 "dnům",
 "dni / dny",
-"dni / dny / {{Příznak2|bás.|kniž.}} dnové",
+"dni / dny / dnové",
 "dnech",
 "dny"
 ],
@@ -8367,11 +8367,11 @@
 ],
 "pl": [
 "kolena",
-"kolen, kolenou, {{Příznak2|nář.|Čech.}} kolenouch",
+"kolen",
 "kolenům",
 "kolena",
 "kolena",
-"kolenech, kolenou, {{Příznak2|nář.|Čech.}} kolenouch",
+"kolenech",
 "koleny"
 ],
 "source": "cs.wiktionary"
@@ -8388,11 +8388,11 @@
 ],
 "pl": [
 "ramena",
-"ramen / ramenou, {{Příznak2|nář.|Čech.}} ramenouch",
+"ramen",
 "ramenům",
 "ramena",
 "ramena",
-"ramenech / ramenou, {{Příznak2|nář.|Čech.}} ramenouch",
+"ramenech",
 "rameny"
 ],
 "source": "cs.wiktionary"
@@ -8665,7 +8665,7 @@
 "vejce": {
 "sg": [
 "vejce",
-"vejce / {{Příznak2|ob.}} vejcete",
+"vejce / vejcete",
 "vejci",
 "vejce",
 "vejce",
@@ -9303,13 +9303,13 @@
 "datem"
 ],
 "pl": [
-"data / {{Příznak2|řidč.}} datumy",
-"dat / {{Příznak2|řidč.}} datumů",
-"datům / {{Příznak2|řidč.}} datumům",
-"data / {{Příznak2|řidč.}} datumy",
-"data / {{Příznak2|řidč.}} datumy",
-"datech / {{Příznak2|řidč.}} datumech",
-"daty / {{Příznak2|řidč.}} datumy"
+"data / datumy",
+"dat / datumů",
+"datům / datumům",
+"data / datumy",
+"data / datumy",
+"datech / datumech",
+"daty / datumy"
 ],
 "source": "cs.wiktionary"
 },
@@ -12909,7 +12909,7 @@
 "trávu",
 "trávo",
 "trávě",
-"trávou / {{Příznak2|zast.}} travou"
+"trávou / travou"
 ],
 "pl": [
 "trávy",
@@ -16555,12 +16555,12 @@
 "vlkem"
 ],
 "pl": [
-"vlci / {{Příznak2|arch.}} vlkové",
+"vlci / vlkové",
 "vlků",
 "vlkům",
 "vlky",
 "vlci",
-"vlcích / {{Příznak2|ob.}} vlkách",
+"vlcích / vlkách",
 "vlky"
 ],
 "source": "cs.wiktionary"

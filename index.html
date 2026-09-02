@@ -130,7 +130,7 @@
   .overlay { position: fixed; inset: 0; background: rgba(40, 30, 20, .45); display: flex; align-items: center; justify-content: center; padding: 16px; z-index: 10; }
   .panel { background: var(--card); border-radius: 22px; box-shadow: 0 16px 48px rgba(80, 50, 20, .3); max-width: 720px; width: 100%; max-height: 92vh; overflow: auto; padding: 18px 20px 20px; position: relative; border-top: 10px solid var(--g, var(--accent)); }
   .panel .close { position: absolute; top: 10px; right: 12px; border: none; background: #f1e6d4; border-radius: 999px; width: 36px; height: 36px; font-size: 1.1rem; cursor: pointer; }
-  .panel .head { display: flex; gap: 16px; align-items: center; margin-bottom: 10px; }
+  .panel .head { display: flex; gap: 16px; align-items: center; margin-bottom: 6px; }
   .panel .head svg { width: 120px; height: 100px; flex: none; }
   .panel .head .cs { font-size: 2rem; font-weight: 800; color: var(--g, var(--ink)); margin: 0; }
   .panel .head .en { color: var(--muted); font-weight: 700; }
@@ -138,8 +138,9 @@
   .panel .head .vzor b { color: var(--ink); }
   .panel table { width: 100%; border-collapse: collapse; font-size: 1.05rem; }
   .panel th { text-align: left; font-size: .8rem; color: var(--muted); font-weight: 700; padding: 6px 8px; border-bottom: 2px solid #f1e6d4; }
-  .panel td { padding: 7px 8px; border-bottom: 1px solid #f7efe2; vertical-align: top; }
+  .panel td { padding: 5px 8px; border-bottom: 1px solid #f7efe2; vertical-align: middle; }
   .panel td.case { white-space: nowrap; color: var(--muted); font-size: .85rem; line-height: 1.25; width: 1%; }
+  .panel td.case span { margin-left: 6px; }
   .panel th:first-child { width: 1%; white-space: nowrap; }
   .panel td.form, .panel td.model { width: 50%; }
   .panel td.case b { color: var(--ink); font-size: 1rem; }
@@ -149,7 +150,7 @@
   .panel td.form.odd { background: #fff1c2; border-radius: 6px; }
   .panel .note { margin-top: 10px; font-size: .85rem; color: var(--muted); }
   .panel .note a { color: var(--ink); }
-  @media (max-width: 560px) { .panel .head svg { width: 84px; height: 70px; } .panel table { font-size: .95rem; } .panel td.model, .panel th.model { display: none; } }
+  @media (max-width: 560px) { .panel .head svg { width: 84px; height: 70px; } .panel table { font-size: .95rem; } .panel td.model, .panel th.model { display: none; } .panel td.case span { display: block; margin-left: 0; } }
   footer { text-align: center; color: var(--muted); padding: 12px 16px 28px; font-size: .9rem; line-height: 1.7; }
   footer a { color: var(--ink); }
 </style>
@@ -430,7 +431,7 @@
     const numbers = [['Jednotné číslo · singular', 'sg'], ['Množné číslo · plural', 'pl']].filter(([, k]) => entry[k].length);
     body.innerHTML = numbers.map(([title, k]) => `
       <table><thead><tr><th>${title}</th><th>${esc(w.cs)}</th><th class="model">${model ? 'vzor ' + esc(modelName) : ''}</th></tr></thead><tbody>
-      ${CASES.map((c, i) => `<tr><td class="case"><b>${c[0]}</b><br>${c[1]}</td>${cell(entry[k][i], k)}<td class="model" lang="cs">${model && model[k] && model[k][i] ? esc(model[k][i]) : ''}</td></tr>`).join('')}
+      ${CASES.map((c, i) => `<tr><td class="case"><b>${c[0]}</b><span>${c[1]}</span></td>${cell(entry[k][i], k)}<td class="model" lang="cs">${model && model[k] && model[k][i] ? esc(model[k][i]) : ''}</td></tr>`).join('')}
       </tbody></table>`).join('<div style="height:10px"></div>');
     const extra = [];
     if (!entry.sg.length) extra.push('Slovo se používá jen v množném čísle.');
