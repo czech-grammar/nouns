@@ -40,7 +40,7 @@ def main():
                 lim = 120 if 'x' in attr else 100
                 if v < -2 or v > lim + 2:
                     print(f"OUT OF RANGE {e['cs']}: {attr}={val}"); bad += 1
-        if not e['pattern'].startswith(('žena', 'růže', 'píseň', 'kost', 'město', 'moře', 'kuře', 'stavení', 'irregular', 'adjective', 'plural', 'indeclinable')):
+        if not e['pattern'].startswith(('žena', 'růže', 'píseň', 'kost', 'město', 'moře', 'kuře', 'stavení', 'pán', 'muž', 'předseda', 'soudce', 'hrad', 'stroj', 'irregular', 'adjective', 'plural', 'indeclinable')):
             print(f"ODD PATTERN {e['cs']}: {e['pattern']}"); bad += 1
     print('entries:', len(es), '| by topic:', ', '.join(f'{k} {v}' for k, v in sorted(per_topic.items())))
     print('problems:', bad)
