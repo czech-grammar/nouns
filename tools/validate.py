@@ -1,0 +1,50 @@
+#!/usr/bin/env python3
+"""Validate all card entries: XML well-formedness, duplicates, coordinate range."""
+import glob, re, sys, os, xml.dom.minidom
+os.chdir(os.path.join(os.path.dirname(__file__), '..'))
+S = 'stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"'
+ENTRY = re.compile(r"\{\s*cs:\s*'([^']+)',\s*en:\s*'([^']+)',\s*pattern:\s*'([^']+)',\s*gender:\s*'(f|ma|mi|n)',\s*topic:\s*'([^']+)',\s*svg:\s*`(.*?)`\s*\}", re.S)
+NUM = re.compile(r'(?<![\w.-])(-?\d+(?:\.\d+)?)')
+
+def entries(files=None):
+    out = []
+    for f in files or ['words.js'] + sorted(glob.glob('words/*.js')):
+        src = open(f, encoding='utf8').read()
+        for m in ENTRY.finditer(src):
+            out.append(dict(file=f, cs=m.group(1), en=m.group(2), pattern=m.group(3), gender=m.group(4), topic=m.group(5), svg=m.group(6)))
+    return out
+
+def main():
+    es = entries()
+    bad = 0; seen = {}
+    per_topic = {}
+    for e in es:
+        per_topic[e['topic']] = per_topic.get(e['topic'], 0) + 1
+        if e['cs'] in seen:
+            print(f"DUPLICATE {e['cs']} in {e['file']} and {seen[e['cs']]}"); bad += 1
+        seen[e['cs']] = e['file']
+        frag = e['svg'].replace('${S}', S)
+        try:
+            xml.dom.minidom.parseString('<svg xmlns="http://www.w3.org/2000/svg">' + frag + '</svg>')
+        except Exception as ex:
+            print(f"BAD XML {e['cs']} ({e['file']}): {ex}"); bad += 1; continue
+        if '${' in frag:
+            print(f"UNKNOWN PLACEHOLDER in {e['cs']}"); bad += 1
+        # rough coordinate check: look at x/y/cx/cy attributes and path numbers
+        frag_nt = re.sub(r'<g[^>]*transform=[^>]*>.*?</g>', '', frag, flags=re.S)
+        for tag_attrs in re.findall(r'<\w+([^>]*)>', frag_nt):
+            if 'transform=' in tag_attrs:
+                continue
+            for attr, val in re.findall(r'\b(x|y|x1|x2|y1|y2|cx|cy)="(-?[\d.]+)"', tag_attrs):
+                v = float(val)
+                lim = 120 if 'x' in attr else 100
+                if v < -2 or v > lim + 2:
+                    print(f"OUT OF RANGE {e['cs']}: {attr}={val}"); bad += 1
+        if not e['pattern'].startswith(('žena', 'růže', 'píseň', 'kost', 'město', 'moře', 'kuře', 'stavení', 'irregular', 'adjective', 'plural', 'indeclinable')):
+            print(f"ODD PATTERN {e['cs']}: {e['pattern']}"); bad += 1
+    print('entries:', len(es), '| by topic:', ', '.join(f'{k} {v}' for k, v in sorted(per_topic.items())))
+    print('problems:', bad)
+    sys.exit(1 if bad else 0)
+
+if __name__ == '__main__':
+    main()

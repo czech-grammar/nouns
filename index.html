@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Česká slovíčka – Czech flash cards</title>
+<style>
+  :root {
+    --bg: #fff7ea;
+    --card: #ffffff;
+    --ink: #2b2b2b;
+    --accent: #d7141a;   /* feminine red, the textbook gender colour */
+    --muted: #7a7a7a;
+    /* Czech textbook gender colours (Czech Step by Step) */
+    --g-f:  #d7141a;
+    --g-ma: #11457e;
+    --g-mi: #4fa3e3;
+    --g-n:  #2e9e4f;
+    --shadow: 0 6px 18px rgba(80, 50, 20, .12);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Nunito", "Segoe UI", "Trebuchet MS", system-ui, sans-serif;
+  }
+  header {
+    padding: 20px 16px 8px;
+    text-align: center;
+  }
+  h1 { margin: 0 0 4px; font-size: 1.9rem; }
+  header p { margin: 0 0 12px; color: var(--muted); }
+  .controls {
+    display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;
+  }
+  .controls button {
+    border: 2px solid var(--ink);
+    background: var(--card);
+    border-radius: 999px;
+    padding: 8px 16px;
+    font: inherit; font-weight: 700;
+    cursor: pointer;
+  }
+  .controls button[aria-pressed="true"] {
+    background: var(--accent); color: #fff; border-color: var(--accent);
+  }
+  main { max-width: 1100px; margin: 0 auto; padding: 0 16px 16px; }
+  .topic { margin-top: 20px; }
+  .topic h2 { font-size: 1.3rem; margin: 0 0 10px 4px; }
+  .topic h2 small { color: var(--muted); font-weight: 600; font-size: .95rem; margin-left: 8px; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    gap: 16px;
+  }
+  nav.topics {
+    display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin-top: 10px;
+  }
+  nav.topics a {
+    font-size: .85rem; font-weight: 700; color: var(--ink); text-decoration: none;
+    background: #f1e6d4; border-radius: 999px; padding: 4px 10px;
+  }
+  nav.topics a:hover { background: #e8d8be; }
+  .card {
+    background: var(--card);
+    border-radius: 20px;
+    box-shadow: var(--shadow);
+    padding: 14px 12px 12px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    transition: transform .12s ease;
+    border: 3px solid transparent;
+    border-top: 8px solid var(--g, var(--accent));
+  }
+  .card[data-gender="f"]  { --g: var(--g-f); }
+  .card[data-gender="ma"] { --g: var(--g-ma); }
+  .card[data-gender="mi"] { --g: var(--g-mi); }
+  .card[data-gender="n"]  { --g: var(--g-n); }
+  .card:hover { transform: translateY(-3px); }
+  .card:active { transform: scale(.98); }
+  .card svg {
+    width: 100%; height: auto; display: block;
+    aspect-ratio: 120 / 100;
+  }
+  .cs { font-size: 1.7rem; font-weight: 800; margin-top: 8px; color: var(--g, var(--ink)); }
+  .en { font-size: 1.05rem; color: var(--muted); font-weight: 700; }
+  .card.hide-en:not(.revealed) .en,
+  .card.hide-cs:not(.revealed) .cs { visibility: hidden; }
+  .card.revealed { border-color: var(--g, var(--accent)); }
+  .genders { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+  .genders button { border: 2px solid var(--c, var(--ink)); background: var(--card); color: var(--c, var(--ink)); border-radius: 999px; padding: 6px 14px; font: inherit; font-weight: 800; cursor: pointer; }
+  .genders button[aria-pressed="true"] { background: var(--c, var(--ink)); color: #fff; }
+  .genders button:disabled { opacity: .35; cursor: default; }
+  .say {
+    margin-top: 8px;
+    border: none; background: #f1e6d4; border-radius: 999px;
+    width: 40px; height: 40px; font-size: 1.2rem; cursor: pointer;
+  }
+  .say:hover { background: #e8d8be; }
+  footer { text-align: center; color: var(--muted); padding: 12px 16px 28px; font-size: .9rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Česká slovíčka</h1>
+  <p>Czech &rarr; English picture cards. Tap a card to reveal a hidden word. Tap 🔊 to hear it.</p>
+  <div class="controls" role="group" aria-label="Mode">
+    <button data-mode="both" aria-pressed="true">Show both</button>
+    <button data-mode="hide-en" aria-pressed="false">Hide English</button>
+    <button data-mode="hide-cs" aria-pressed="false">Hide Czech</button>
+    <button id="shuffle">Shuffle</button>
+  </div>
+  <div class="genders" role="group" aria-label="Gender" id="genders">
+    <button data-gender="all" aria-pressed="true">Vše</button>
+    <button data-gender="f"  style="--c: var(--g-f)"  aria-pressed="false">F &middot; ženský</button>
+    <button data-gender="ma" style="--c: var(--g-ma)" aria-pressed="false">Ma &middot; mužský životný</button>
+    <button data-gender="mi" style="--c: var(--g-mi)" aria-pressed="false">Mi &middot; mužský neživotný</button>
+    <button data-gender="n"  style="--c: var(--g-n)"  aria-pressed="false">N &middot; střední</button>
+  </div>
+  <nav class="topics" id="topicnav"></nav>
+</header>
+<main id="deck"></main>
+<footer><span id="count"></span> nouns for A1 Czech &middot; colours follow the textbook convention (F red, Ma dark blue, Mi light blue, N green) &middot; pictures are inline SVG &middot; decks live in <code>words/</code>.</footer>
+
+<script src="words.js"></script>
+<script src="words/family.js"></script>
+<script src="words/home.js"></script>
+<script src="words/food.js"></script>
+<script src="words/meals.js"></script>
+<script src="words/shopping.js"></script>
+<script src="words/town.js"></script>
+<script src="words/travel.js"></script>
+<script src="words/animals.js"></script>
+<script src="words/time.js"></script>
+<script src="words/body.js"></script>
+<script src="words/clothes.js"></script>
+<script src="words/school.js"></script>
+<script src="words/leisure.js"></script>
+<script src="words/n-family.js"></script>
+<script src="words/n-home.js"></script>
+<script src="words/n-clothes.js"></script>
+<script src="words/n-school.js"></script>
+<script src="words/n-food.js"></script>
+<script src="words/n-animals.js"></script>
+<script src="words/n-town.js"></script>
+<script src="words/n-travel.js"></script>
+<script src="words/n-body.js"></script>
+<script src="words/n-time.js"></script>
+<script src="words/n-leisure.js"></script>
+<script>
+  const TOPICS = [
+    ['family',   'Rodina a lidé',        'family and people'],
+    ['home',     'Dům a byt',            'home'],
+    ['food',     'Jídlo a pití',         'food and drink'],
+    ['meals',    'U stolu',              'meals and eating out'],
+    ['shopping', 'Nakupování a peníze',  'shopping and money'],
+    ['town',     'Město a doprava',      'town and transport'],
+    ['travel',   'Cestování a příroda',  'travel and nature'],
+    ['animals',  'Zvířata',              'animals'],
+    ['time',     'Čas a počasí',         'time and weather'],
+    ['body',     'Tělo a zdraví',        'body and health'],
+    ['clothes',  'Oblečení',             'clothes'],
+    ['school',   'Škola a práce',        'school and work'],
+    ['leisure',  'Mluvení a volný čas',  'communication and leisure'],
+    ['other',    'Další slova',          'more words'],
+  ];
+  const deck = document.getElementById('deck');
+  let mode = 'both';
+  let gender = 'all';
+  let order = WORDS.map((_, i) => i);
+
+  function makeCard(w) {
+    const card = document.createElement('article');
+    card.className = 'card ' + (mode === 'both' ? '' : mode);
+    card.dataset.gender = w.gender || 'f';
+    card.innerHTML = `
+      <svg viewBox="0 0 120 100" role="img" aria-label="${w.en}">${w.svg}</svg>
+      <div class="cs" lang="cs">${w.cs}</div>
+      <div class="en" lang="en">${w.en}</div>
+      <button class="say" aria-label="Say ${w.cs} in Czech">🔊</button>`;
+    card.addEventListener('click', () => card.classList.toggle('revealed'));
+    card.querySelector('.say').addEventListener('click', (e) => { e.stopPropagation(); say(w.cs); });
+    return card;
+  }
+
+  function render() {
+    deck.innerHTML = '';
+    const nav = document.getElementById('topicnav');
+    nav.innerHTML = '';
+    const visible = order.filter(i => gender === 'all' || (WORDS[i].gender || 'f') === gender);
+    for (const [key, cs, en] of TOPICS) {
+      const idx = visible.filter(i => (WORDS[i].topic || 'other') === key);
+      if (!idx.length) continue;
+      const sec = document.createElement('section');
+      sec.className = 'topic'; sec.id = 't-' + key;
+      sec.innerHTML = `<h2>${cs}<small>${en} &middot; ${idx.length}</small></h2>`;
+      const grid = document.createElement('div');
+      grid.className = 'grid';
+      for (const i of idx) grid.appendChild(makeCard(WORDS[i]));
+      sec.appendChild(grid);
+      deck.appendChild(sec);
+      const a = document.createElement('a');
+      a.href = '#t-' + key; a.textContent = cs;
+      nav.appendChild(a);
+    }
+    document.getElementById('count').textContent = visible.length + ' / ' + WORDS.length;
+  }
+
+  document.querySelectorAll('#genders button').forEach(btn => {
+    const g = btn.dataset.gender;
+    if (g !== 'all' && !WORDS.some(w => (w.gender || 'f') === g)) btn.disabled = true;
+    btn.addEventListener('click', () => {
+      gender = g;
+      document.querySelectorAll('#genders button').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
+      render();
+    });
+  });
+
+  function say(text) {
+    if (!('speechSynthesis' in window)) return;
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'cs-CZ';
+    u.rate = 0.85;
+    const voice = speechSynthesis.getVoices().find(v => v.lang && v.lang.toLowerCase().startsWith('cs'));
+    if (voice) u.voice = voice;
+    speechSynthesis.speak(u);
+  }
+
+  document.querySelectorAll('[data-mode]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      mode = btn.dataset.mode;
+      document.querySelectorAll('[data-mode]').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
+      render();
+    });
+  });
+
+  document.getElementById('shuffle').addEventListener('click', () => {
+    for (let i = order.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [order[i], order[j]] = [order[j], order[i]];
+    }
+    render();
+  });
+
+  render();
+</script>
+</body>
+</html>
