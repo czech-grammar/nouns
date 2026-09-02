@@ -19641,5 +19641,2123 @@
 "známými"
 ],
 "source": "manual"
+},
+"vteřina": {
+"sg": [
+"vteřina",
+"vteřiny",
+"vteřině",
+"vteřinu",
+"vteřino",
+"vteřině",
+"vteřinou"
+],
+"pl": [
+"vteřiny",
+"vteřin",
+"vteřinám",
+"vteřiny",
+"vteřiny",
+"vteřinách",
+"vteřinami"
+],
+"source": "cs.wiktionary"
+},
+"chvilka": {
+"sg": [
+"chvilka",
+"chvilky",
+"chvilce",
+"chvilku",
+"chvilko",
+"chvilce",
+"chvilkou"
+],
+"pl": [
+"chvilky",
+"chvilek",
+"chvilkám",
+"chvilky",
+"chvilky",
+"chvilkách",
+"chvilkami"
+],
+"source": "cs.wiktionary"
+},
+"sezóna": {
+"sg": [
+"sezóna",
+"sezóny",
+"sezóně",
+"sezónu",
+"sezóno",
+"sezóně",
+"sezónou"
+],
+"pl": [
+"sezóny",
+"sezón",
+"sezónám",
+"sezóny",
+"sezóny",
+"sezónách",
+"sezónami"
+],
+"source": "cs.wiktionary"
+},
+"pauza": {
+"sg": [
+"pauza",
+"pauzy",
+"pauze",
+"pauzu",
+"pauzo",
+"pauze",
+"pauzou"
+],
+"pl": [
+"pauzy",
+"pauz",
+"pauzám",
+"pauzy",
+"pauzy",
+"pauzách",
+"pauzami"
+],
+"source": "cs.wiktionary"
+},
+"hodinky": {
+"sg": [],
+"pl": [
+"hodinky",
+"hodinek",
+"hodinkám",
+"hodinky",
+"hodinky",
+"hodinkách",
+"hodinkami"
+],
+"source": "cs.wiktionary"
+},
+"dlaň": {
+"sg": [
+"dlaň",
+"dlaně",
+"dlani",
+"dlaň",
+"dlani",
+"dlani",
+"dlaní"
+],
+"pl": [
+"dlaně",
+"dlaní",
+"dlaním",
+"dlaně",
+"dlaně",
+"dlaních",
+"dlaněmi"
+],
+"source": "cs.wiktionary"
+},
+"paže": {
+"sg": [
+"paže",
+"paže",
+"paži",
+"paži",
+"paže",
+"paži",
+"paží"
+],
+"pl": [
+"paže",
+"paží",
+"pažím",
+"paže",
+"paže",
+"pažích",
+"pažemi"
+],
+"source": "cs.wiktionary"
+},
+"slza": {
+"sg": [
+"slza",
+"slzy",
+"slze",
+"slzu",
+"slzo",
+"slze",
+"slzou"
+],
+"pl": [
+"slzy / {{Příznak2|ob.}} slze",
+"slz / {{Příznak2|ob.}} slzí",
+"slzám",
+"slzy",
+"slzy",
+"slzách",
+"slzami"
+],
+"source": "cs.wiktionary"
+},
+"pleť": {
+"sg": [
+"pleť",
+"pleti",
+"pleti",
+"pleť",
+"pleti",
+"pleti",
+"pletí"
+],
+"pl": [
+"pleti",
+"pletí",
+"pletím",
+"pleti",
+"pleti",
+"pletích",
+"pleťmi"
+],
+"source": "cs.wiktionary"
+},
+"pěst": {
+"sg": [
+"pěst",
+"pěsti",
+"pěsti",
+"pěst",
+"pěsti",
+"pěsti",
+"pěstí"
+],
+"pl": [
+"pěsti",
+"pěstí",
+"pěstem / pěstím",
+"pěsti",
+"pěsti",
+"pěstech / pěstích",
+"pěstmi"
+],
+"source": "cs.wiktionary"
+},
+"hruď": {
+"sg": [
+"hruď",
+"hrudi",
+"hrudi",
+"hruď",
+"hrudi",
+"hrudi",
+"hrudí"
+],
+"pl": [
+"hrudi",
+"hrudí",
+"hrudím",
+"hrudi",
+"hrudi",
+"hrudích",
+"hruďmi / hruděmi"
+],
+"source": "cs.wiktionary"
+},
+"brada": {
+"sg": [
+"brada",
+"brady",
+"bradě",
+"bradu",
+"brado",
+"bradě",
+"bradou"
+],
+"pl": [
+"brady",
+"brad",
+"bradám",
+"brady",
+"brady",
+"bradách",
+"bradami"
+],
+"source": "cs.wiktionary"
+},
+"pata": {
+"sg": [
+"pata",
+"paty",
+"patě",
+"patu",
+"pato",
+"patě",
+"patou"
+],
+"pl": [
+"paty",
+"pat",
+"patám",
+"paty",
+"paty",
+"patách",
+"patami"
+],
+"source": "cs.wiktionary"
+},
+"žíla": {
+"sg": [
+"žíla",
+"žíly",
+"žíle",
+"žílu",
+"žílo",
+"žíle",
+"žílou / žilou"
+],
+"pl": [
+"žíly",
+"žil",
+"žílám / žilám",
+"žíly",
+"žíly",
+"žílách / žilách",
+"žílami / žilami"
+],
+"source": "cs.wiktionary"
+},
+"lebka": {
+"sg": [
+"lebka",
+"lebky",
+"lebce",
+"lebku",
+"lebko",
+"lebce",
+"lebkou"
+],
+"pl": [
+"lebky",
+"lebek",
+"lebkám",
+"lebky",
+"lebky",
+"lebkách",
+"lebkami"
+],
+"source": "cs.wiktionary"
+},
+"únava": {
+"sg": [
+"únava",
+"únavy",
+"únavě",
+"únavu",
+"únavo",
+"únavě",
+"únavou"
+],
+"pl": [
+"únavy",
+"únav",
+"únavám",
+"únavy",
+"únavy",
+"únavách",
+"únavami"
+],
+"source": "cs.wiktionary"
+},
+"dáma": {
+"sg": [
+"dáma",
+"dámy",
+"dámě",
+"dámu",
+"dámo",
+"dámě",
+"dámou"
+],
+"pl": [
+"dámy",
+"dam / dám",
+"dámám",
+"dámy",
+"dámy",
+"dámách",
+"dámami"
+],
+"source": "cs.wiktionary"
+},
+"dvojice": {
+"sg": [
+"dvojice",
+"dvojice",
+"dvojici",
+"dvojici",
+"dvojice",
+"dvojici",
+"dvojicí"
+],
+"pl": [
+"dvojice",
+"dvojic",
+"dvojicím",
+"dvojice",
+"dvojice",
+"dvojicích",
+"dvojicemi"
+],
+"source": "cs.wiktionary"
+},
+"holčička": {
+"sg": [
+"holčička",
+"holčičky",
+"holčičce",
+"holčičku",
+"holčičko",
+"holčičce",
+"holčičkou"
+],
+"pl": [
+"holčičky",
+"holčiček",
+"holčičkám",
+"holčičky",
+"holčičky",
+"holčičkách",
+"holčičkami"
+],
+"source": "cs.wiktionary"
+},
+"královna": {
+"sg": [
+"královna",
+"královny",
+"královně",
+"královnu",
+"královno",
+"královně",
+"královnou"
+],
+"pl": [
+"královny",
+"královen",
+"královnám",
+"královny",
+"královny",
+"královnách",
+"královnami"
+],
+"source": "cs.wiktionary"
+},
+"svatba": {
+"sg": [
+"svatba",
+"svatby",
+"svatbě",
+"svatbu",
+"svatbo",
+"svatbě",
+"svatbou"
+],
+"pl": [
+"svatby",
+"svateb",
+"svatbám",
+"svatby",
+"svatby",
+"svatbách",
+"svatbami"
+],
+"source": "cs.wiktionary"
+},
+"včela": {
+"sg": [
+"včela",
+"včely",
+"včele",
+"včelu",
+"včelo",
+"včele",
+"včelou"
+],
+"pl": [
+"včely",
+"včel",
+"včelám",
+"včely",
+"včely",
+"včelách",
+"včelami"
+],
+"source": "cs.wiktionary"
+},
+"střecha": {
+"sg": [
+"střecha",
+"střechy",
+"střeše",
+"střechu",
+"střecho",
+"střeše",
+"střechou"
+],
+"pl": [
+"střechy",
+"střech",
+"střechám",
+"střechy",
+"střechy",
+"střechách",
+"střechami"
+],
+"source": "cs.wiktionary"
+},
+"deska": {
+"sg": [
+"deska",
+"desky",
+"desce",
+"desku",
+"desko",
+"desce",
+"deskou"
+],
+"pl": [
+"desky",
+"desek / desk",
+"deskám",
+"desky",
+"desky",
+"deskách",
+"deskami"
+],
+"source": "cs.wiktionary"
+},
+"komora": {
+"sg": [
+"komora",
+"komory",
+"komoře",
+"komoru",
+"komoro",
+"komoře",
+"komorou"
+],
+"pl": [
+"komory",
+"komor",
+"komorám",
+"komory",
+"komory",
+"komorách",
+"komorami"
+],
+"source": "cs.wiktionary"
+},
+"obrazovka": {
+"sg": [
+"obrazovka",
+"obrazovky",
+"obrazovce",
+"obrazovku",
+"obrazovko",
+"obrazovce",
+"obrazovkou"
+],
+"pl": [
+"obrazovky",
+"obrazovek",
+"obrazovkám",
+"obrazovky",
+"obrazovky",
+"obrazovkách",
+"obrazovkami"
+],
+"source": "cs.wiktionary"
+},
+"terasa": {
+"sg": [
+"terasa",
+"terasy",
+"terase",
+"terasu",
+"teraso",
+"terase",
+"terasou"
+],
+"pl": [
+"terasy",
+"teras",
+"terasám",
+"terasy",
+"terasy",
+"terasách",
+"terasami"
+],
+"source": "cs.wiktionary"
+},
+"nádoba": {
+"sg": [
+"nádoba",
+"nádoby",
+"nádobě",
+"nádobu",
+"nádobo",
+"nádobě",
+"nádobou"
+],
+"pl": [
+"nádoby",
+"nádob",
+"nádobám",
+"nádoby",
+"nádoby",
+"nádobách",
+"nádobami"
+],
+"source": "cs.wiktionary"
+},
+"vila": {
+"sg": [
+"vila",
+"vily",
+"vile",
+"vilu",
+"vilo",
+"vile",
+"vilou"
+],
+"pl": [
+"vily",
+"vil",
+"vilám",
+"vily",
+"vily",
+"vilách",
+"vilami"
+],
+"source": "cs.wiktionary"
+},
+"baterie": {
+"sg": [
+"baterie",
+"baterie",
+"baterii",
+"baterii",
+"baterie",
+"baterii",
+"baterií"
+],
+"pl": [
+"baterie",
+"baterií",
+"bateriím",
+"baterie",
+"baterie",
+"bateriích",
+"bateriemi"
+],
+"source": "cs.wiktionary"
+},
+"svíčka": {
+"sg": [
+"svíčka",
+"svíčky",
+"svíčce",
+"svíčku",
+"svíčko",
+"svíčce",
+"svíčkou"
+],
+"pl": [
+"svíčky",
+"svíček",
+"svíčkám",
+"svíčky",
+"svíčky",
+"svíčkách",
+"svíčkami"
+],
+"source": "cs.wiktionary"
+},
+"pohovka": {
+"sg": [
+"pohovka",
+"pohovky",
+"pohovce",
+"pohovku",
+"pohovko",
+"pohovce",
+"pohovkou"
+],
+"pl": [
+"pohovky",
+"pohovek",
+"pohovkám",
+"pohovky",
+"pohovky",
+"pohovkách",
+"pohovkami"
+],
+"source": "cs.wiktionary"
+},
+"trouba": {
+"sg": [
+"trouba",
+"trouby",
+"troubě",
+"troubu",
+"troubo",
+"troubě",
+"troubou"
+],
+"pl": [
+"trouby",
+"trub",
+"troubám",
+"trouby",
+"trouby",
+"troubách",
+"troubami"
+],
+"source": "cs.wiktionary"
+},
+"dílna": {
+"sg": [
+"dílna",
+"dílny",
+"dílně",
+"dílnu",
+"dílno",
+"dílně",
+"dílnou"
+],
+"pl": [
+"dílny",
+"dílen",
+"dílnám",
+"dílny",
+"dílny",
+"dílnách",
+"dílnami"
+],
+"source": "cs.wiktionary"
+},
+"síť": {
+"sg": [
+"síť",
+"sítě",
+"síti",
+"síť",
+"síti",
+"síti",
+"sítí"
+],
+"pl": [
+"sítě",
+"sítí",
+"sítím",
+"sítě",
+"sítě",
+"sítích",
+"sítěmi"
+],
+"source": "cs.wiktionary"
+},
+"fotografie": {
+"sg": [
+"fotografie",
+"fotografie",
+"fotografii",
+"fotografii",
+"fotografie",
+"fotografii",
+"fotografií"
+],
+"pl": [
+"fotografie",
+"fotografií",
+"fotografiím",
+"fotografie",
+"fotografie",
+"fotografiích",
+"fotografiemi"
+],
+"source": "cs.wiktionary"
+},
+"fotka": {
+"sg": [
+"fotka",
+"fotky",
+"fotce",
+"fotku",
+"fotko",
+"fotce",
+"fotkou"
+],
+"pl": [
+"fotky",
+"fotek",
+"fotkám",
+"fotky",
+"fotky",
+"fotkách",
+"fotkami"
+],
+"source": "cs.wiktionary"
+},
+"kamera": {
+"sg": [
+"kamera",
+"kamery",
+"kameře",
+"kameru",
+"kamero",
+"kameře",
+"kamerou"
+],
+"pl": [
+"kamery",
+"kamer",
+"kamerám",
+"kamery",
+"kamery",
+"kamerách",
+"kamerami"
+],
+"source": "cs.wiktionary"
+},
+"scéna": {
+"sg": [
+"scéna",
+"scény",
+"scéně",
+"scénu",
+"scéno",
+"scéně",
+"scénou"
+],
+"pl": [
+"scény",
+"scén",
+"scénám",
+"scény",
+"scény",
+"scénách",
+"scénami"
+],
+"source": "cs.wiktionary"
+},
+"branka": {
+"sg": [
+"branka",
+"branky",
+"brance",
+"branku",
+"branko",
+"brance",
+"brankou"
+],
+"pl": [
+"branky",
+"branek",
+"brankám",
+"branky",
+"branky",
+"brankách",
+"brankami"
+],
+"source": "cs.wiktionary"
+},
+"sbírka": {
+"sg": [
+"sbírka",
+"sbírky",
+"sbírce",
+"sbírku",
+"sbírko",
+"sbírce",
+"sbírkou"
+],
+"pl": [
+"sbírky",
+"sbírek",
+"sbírkám",
+"sbírky",
+"sbírky",
+"sbírkách",
+"sbírkami"
+],
+"source": "cs.wiktionary"
+},
+"maska": {
+"sg": [
+"maska",
+"masky",
+"masce",
+"masku",
+"masko",
+"masce",
+"maskou"
+],
+"pl": [
+"masky",
+"masek",
+"maskám",
+"masky",
+"masky",
+"maskách",
+"maskami"
+],
+"source": "cs.wiktionary"
+},
+"narozeniny": {
+"sg": [],
+"pl": [
+"narozeniny",
+"narozenin",
+"narozeninám",
+"narozeniny",
+"narozeniny",
+"narozeninách",
+"narozeninami"
+],
+"source": "cs.wiktionary"
+},
+"medaile": {
+"sg": [
+"medaile",
+"medaile",
+"medaili",
+"medaili",
+"medaile",
+"medaili",
+"medailí"
+],
+"pl": [
+"medaile",
+"medailí",
+"medailím",
+"medaile",
+"medaile",
+"medailích",
+"medailemi"
+],
+"source": "cs.wiktionary"
+},
+"koule": {
+"sg": [
+"koule",
+"koule",
+"kouli",
+"kouli",
+"koule",
+"kouli",
+"koulí"
+],
+"pl": [
+"koule",
+"koulí",
+"koulím",
+"koule",
+"koule",
+"koulích",
+"koulemi"
+],
+"source": "cs.wiktionary"
+},
+"hračka": {
+"sg": [
+"hračka",
+"hračky",
+"hračce",
+"hračku",
+"hračko",
+"hračce",
+"hračkou"
+],
+"pl": [
+"hračky",
+"hraček",
+"hračkám",
+"hračky",
+"hračky",
+"hračkách",
+"hračkami"
+],
+"source": "cs.wiktionary"
+},
+"povídka": {
+"sg": [
+"povídka",
+"povídky",
+"povídce",
+"povídku",
+"povídko",
+"povídce",
+"povídkou"
+],
+"pl": [
+"povídky",
+"povídek",
+"povídkám",
+"povídky",
+"povídky",
+"povídkách",
+"povídkami"
+],
+"source": "cs.wiktionary"
+},
+"kostka": {
+"sg": [
+"kostka",
+"kostky",
+"kostce",
+"kostku",
+"kostko",
+"kostce",
+"kostkou"
+],
+"pl": [
+"kostky",
+"kostek",
+"kostkám",
+"kostky",
+"kostky",
+"kostkách",
+"kostkami"
+],
+"source": "cs.wiktionary"
+},
+"přehlídka": {
+"sg": [
+"přehlídka",
+"přehlídky",
+"přehlídce",
+"přehlídku",
+"přehlídko",
+"přehlídce",
+"přehlídkou"
+],
+"pl": [
+"přehlídky",
+"přehlídek",
+"přehlídkám",
+"přehlídky",
+"přehlídky",
+"přehlídkách",
+"přehlídkami"
+],
+"source": "cs.wiktionary"
+},
+"slavnost": {
+"sg": [
+"slavnost",
+"slavnosti",
+"slavnosti",
+"slavnost",
+"slavnosti",
+"slavnosti",
+"slavností"
+],
+"pl": [
+"slavnosti",
+"slavností",
+"slavnostem",
+"slavnosti",
+"slavnosti",
+"slavnostech",
+"slavnostmi"
+],
+"source": "cs.wiktionary"
+},
+"půda": {
+"sg": [
+"půda",
+"půdy",
+"půdě",
+"půdu",
+"půdo",
+"půdě",
+"půdou"
+],
+"pl": [
+"půdy",
+"půd",
+"půdám",
+"půdy",
+"půdy",
+"půdách",
+"půdami"
+],
+"source": "cs.wiktionary"
+},
+"hlína": {
+"sg": [
+"hlína",
+"hlíny",
+"hlíně",
+"hlínu",
+"hlíno",
+"hlíně",
+"hlínou"
+],
+"pl": [
+"hlíny",
+"hlín",
+"hlínám",
+"hlíny",
+"hlíny",
+"hlínách",
+"hlínami"
+],
+"source": "cs.wiktionary"
+},
+"skála": {
+"sg": [
+"skála",
+"skály",
+"skále",
+"skálu",
+"skálo",
+"skále",
+"skálou"
+],
+"pl": [
+"skály",
+"skál / skal",
+"skálám / skalám",
+"skály",
+"skály",
+"skálách / skalách",
+"skálami / skalami"
+],
+"source": "cs.wiktionary"
+},
+"obloha": {
+"sg": [
+"obloha",
+"oblohy",
+"obloze",
+"oblohu",
+"obloho",
+"obloze",
+"oblohou"
+],
+"pl": [
+"oblohy",
+"obloh",
+"oblohám",
+"oblohy",
+"oblohy",
+"oblohách",
+"oblohami"
+],
+"source": "cs.wiktionary"
+},
+"jeskyně": {
+"sg": [
+"jeskyně",
+"jeskyně",
+"jeskyni",
+"jeskyni",
+"jeskyně",
+"jeskyni",
+"jeskyní"
+],
+"pl": [
+"jeskyně",
+"jeskyní / jeskyň",
+"jeskyním",
+"jeskyně",
+"jeskyně",
+"jeskyních",
+"jeskyněmi"
+],
+"source": "cs.wiktionary"
+},
+"pláž": {
+"sg": [
+"pláž",
+"pláže",
+"pláži",
+"pláž",
+"pláži",
+"pláži",
+"pláží"
+],
+"pl": [
+"pláže",
+"pláží",
+"plážím",
+"pláže",
+"pláže",
+"plážích",
+"plážemi"
+],
+"source": "cs.wiktionary"
+},
+"větev": {
+"sg": [
+"větev",
+"větve",
+"větvi",
+"větev",
+"větvi",
+"větvi",
+"větví"
+],
+"pl": [
+"větve",
+"větví",
+"větvím",
+"větve",
+"větve",
+"větvích",
+"větvemi"
+],
+"source": "cs.wiktionary"
+},
+"kůra": {
+"sg": [
+"kůra",
+"kůry",
+"kůře",
+"kůru",
+"kůro",
+"kůře",
+"kůrou"
+],
+"pl": [
+"kůry",
+"kůr",
+"kůrám",
+"kůry",
+"kůry",
+"kůrách",
+"kůrami"
+],
+"source": "cs.wiktionary"
+},
+"stezka": {
+"sg": [
+"stezka",
+"stezky",
+"stezce",
+"stezku",
+"stezko",
+"stezce",
+"stezkou"
+],
+"pl": [
+"stezky",
+"stezek",
+"stezkám",
+"stezky",
+"stezky",
+"stezkách",
+"stezkami"
+],
+"source": "cs.wiktionary"
+},
+"bouře": {
+"sg": [
+"bouře",
+"bouře",
+"bouři",
+"bouři",
+"bouře",
+"bouři",
+"bouří"
+],
+"pl": [
+"bouře",
+"bouří",
+"bouřím",
+"bouře",
+"bouře",
+"bouřích",
+"bouřemi"
+],
+"source": "cs.wiktionary"
+},
+"lázně": {
+"sg": [],
+"pl": [
+"lázně",
+"lázní",
+"lázním",
+"lázně",
+"lázně",
+"lázních",
+"lázněmi"
+],
+"source": "cs.wiktionary"
+},
+"dodávka": {
+"sg": [
+"dodávka",
+"dodávky",
+"dodávce",
+"dodávku",
+"dodávko",
+"dodávce",
+"dodávkou"
+],
+"pl": [
+"dodávky",
+"dodávek",
+"dodávkám",
+"dodávky",
+"dodávky",
+"dodávkách",
+"dodávkami"
+],
+"source": "cs.wiktionary"
+},
+"kabina": {
+"sg": [
+"kabina",
+"kabiny",
+"kabině",
+"kabinu",
+"kabino",
+"kabině",
+"kabinou"
+],
+"pl": [
+"kabiny",
+"kabin",
+"kabinám",
+"kabiny",
+"kabiny",
+"kabinách",
+"kabinami"
+],
+"source": "cs.wiktionary"
+},
+"paluba": {
+"sg": [
+"paluba",
+"paluby",
+"palubě",
+"palubu",
+"palubo",
+"palubě",
+"palubou"
+],
+"pl": [
+"paluby",
+"palub",
+"palubám",
+"paluby",
+"paluby",
+"palubách",
+"palubami"
+],
+"source": "cs.wiktionary"
+},
+"posádka": {
+"sg": [
+"posádka",
+"posádky",
+"posádce",
+"posádku",
+"posádko",
+"posádce",
+"posádkou"
+],
+"pl": [
+"posádky",
+"posádek",
+"posádkám",
+"posádky",
+"posádky",
+"posádkách",
+"posádkami"
+],
+"source": "cs.wiktionary"
+},
+"kapsa": {
+"sg": [
+"kapsa",
+"kapsy",
+"kapse",
+"kapsu",
+"kapso",
+"kapse",
+"kapsou"
+],
+"pl": [
+"kapsy",
+"kapes",
+"kapsám",
+"kapsy",
+"kapsy",
+"kapsách",
+"kapsami"
+],
+"source": "cs.wiktionary"
+},
+"skvrna": {
+"sg": [
+"skvrna",
+"skvrny",
+"skvrně",
+"skvrnu",
+"skvrno",
+"skvrně",
+"skvrnou"
+],
+"pl": [
+"skvrny",
+"skvrn",
+"skvrnám",
+"skvrny",
+"skvrny",
+"skvrnách",
+"skvrnami"
+],
+"source": "cs.wiktionary"
+},
+"uniforma": {
+"sg": [
+"uniforma",
+"uniformy",
+"uniformě",
+"uniformu",
+"uniformo",
+"uniformě",
+"uniformou"
+],
+"pl": [
+"uniformy",
+"uniforem",
+"uniformám",
+"uniformy",
+"uniformy",
+"uniformách",
+"uniformami"
+],
+"source": "cs.wiktionary"
+},
+"tabulka": {
+"sg": [
+"tabulka",
+"tabulky",
+"tabulce",
+"tabulku",
+"tabulko",
+"tabulce",
+"tabulkou"
+],
+"pl": [
+"tabulky",
+"tabulek",
+"tabulkám",
+"tabulky",
+"tabulky",
+"tabulkách",
+"tabulkami"
+],
+"source": "cs.wiktionary"
+},
+"poznámka": {
+"sg": [
+"poznámka",
+"poznámky",
+"poznámce",
+"poznámku",
+"poznámko",
+"poznámce",
+"poznámkou"
+],
+"pl": [
+"poznámky",
+"poznámek",
+"poznámkám",
+"poznámky",
+"poznámky",
+"poznámkách",
+"poznámkami"
+],
+"source": "cs.wiktionary"
+},
+"knížka": {
+"sg": [
+"knížka",
+"knížky",
+"knížce",
+"knížku",
+"knížko",
+"knížce",
+"knížkou"
+],
+"pl": [
+"knížky",
+"knížek",
+"knížkám",
+"knížky",
+"knížky",
+"knížkách",
+"knížkami"
+],
+"source": "cs.wiktionary"
+},
+"kresba": {
+"sg": [
+"kresba",
+"kresby",
+"kresbě",
+"kresbu",
+"kresbo",
+"kresbě",
+"kresbou"
+],
+"pl": [
+"kresby",
+"kreseb",
+"kresbám",
+"kresby",
+"kresby",
+"kresbách",
+"kresbami"
+],
+"source": "cs.wiktionary"
+},
+"nula": {
+"sg": [
+"nula",
+"nuly",
+"nule",
+"nulu",
+"nulo",
+"nule",
+"nulou"
+],
+"pl": [
+"nuly",
+"nul",
+"nulám",
+"nuly",
+"nuly",
+"nulách",
+"nulami"
+],
+"source": "cs.wiktionary"
+},
+"jednička": {
+"sg": [
+"jednička",
+"jedničky",
+"jedničce",
+"jedničku",
+"jedničko",
+"jedničce",
+"jedničkou"
+],
+"pl": [
+"jedničky",
+"jedniček",
+"jedničkám",
+"jedničky",
+"jedničky",
+"jedničkách",
+"jedničkami"
+],
+"source": "cs.wiktionary"
+},
+"školka": {
+"sg": [
+"školka",
+"školky",
+"školce",
+"školku",
+"školko",
+"školce",
+"školkou"
+],
+"pl": [
+"školky",
+"školek",
+"školkám",
+"školky",
+"školky",
+"školkách",
+"školkami"
+],
+"source": "cs.wiktionary"
+},
+"obálka": {
+"sg": [
+"obálka",
+"obálky",
+"obálce",
+"obálku",
+"obálko",
+"obálce",
+"obálkou"
+],
+"pl": [
+"obálky",
+"obálek",
+"obálkám",
+"obálky",
+"obálky",
+"obálkách",
+"obálkami"
+],
+"source": "cs.wiktionary"
+},
+"stopa": {
+"sg": [
+"stopa",
+"stopy",
+"stopě",
+"stopu",
+"stopo",
+"stopě",
+"stopou"
+],
+"pl": [
+"stopy",
+"stop",
+"stopám",
+"stopy",
+"stopy",
+"stopách",
+"stopami"
+],
+"source": "cs.wiktionary"
+},
+"díra": {
+"sg": [
+"díra",
+"díry",
+"díře",
+"díru",
+"díro",
+"díře",
+"dírou"
+],
+"pl": [
+"díry",
+"děr",
+"dírám",
+"díry",
+"díry",
+"dírách",
+"dírami"
+],
+"source": "cs.wiktionary"
+},
+"planeta": {
+"sg": [
+"planeta",
+"planety",
+"planetě",
+"planetu",
+"planeto",
+"planetě",
+"planetou"
+],
+"pl": [
+"planety",
+"planet",
+"planetám",
+"planety",
+"planety",
+"planetách",
+"planetami"
+],
+"source": "cs.wiktionary"
+},
+"hromada": {
+"sg": [
+"hromada",
+"hromady",
+"hromadě",
+"hromadu",
+"hromado",
+"hromadě",
+"hromadou"
+],
+"pl": [
+"hromady",
+"hromad",
+"hromadám",
+"hromady",
+"hromady",
+"hromadách",
+"hromadami"
+],
+"source": "cs.wiktionary"
+},
+"kapka": {
+"sg": [
+"kapka",
+"kapky",
+"kapce",
+"kapku",
+"kapko",
+"kapce",
+"kapkou"
+],
+"pl": [
+"kapky",
+"kapek",
+"kapkám",
+"kapky",
+"kapky",
+"kapkách",
+"kapkami"
+],
+"source": "cs.wiktionary"
+},
+"nádrž": {
+"sg": [
+"nádrž",
+"nádrže",
+"nádrži",
+"nádrž",
+"nádrži",
+"nádrži",
+"nádrží"
+],
+"pl": [
+"nádrže",
+"nádrží",
+"nádržím",
+"nádrže",
+"nádrže",
+"nádržích",
+"nádržemi"
+],
+"source": "cs.wiktionary"
+},
+"tyč": {
+"sg": [
+"tyč",
+"tyče",
+"tyči",
+"tyč",
+"tyči",
+"tyči",
+"tyčí"
+],
+"pl": [
+"tyče",
+"tyčí",
+"tyčím",
+"tyče",
+"tyče",
+"tyčích",
+"tyčemi"
+],
+"source": "cs.wiktionary"
+},
+"čtvrtina": {
+"sg": [
+"čtvrtina",
+"čtvrtiny",
+"čtvrtině",
+"čtvrtinu",
+"čtvrtino",
+"čtvrtině",
+"čtvrtinou"
+],
+"pl": [
+"čtvrtiny",
+"čtvrtin",
+"čtvrtinám",
+"čtvrtiny",
+"čtvrtiny",
+"čtvrtinách",
+"čtvrtinami"
+],
+"source": "cs.wiktionary"
+},
+"konference": {
+"sg": [
+"konference",
+"konference",
+"konferenci",
+"konferenci",
+"konference",
+"konferenci",
+"konferencí"
+],
+"pl": [
+"konference",
+"konferencí",
+"konferencím",
+"konference",
+"konference",
+"konferencích",
+"konferencemi"
+],
+"source": "cs.wiktionary"
+},
+"houba": {
+"sg": [
+"houba",
+"houby",
+"houbě",
+"houbu",
+"houbo",
+"houbě",
+"houbou"
+],
+"pl": [
+"houby",
+"hub",
+"houbám",
+"houby",
+"houby",
+"houbách",
+"houbami"
+],
+"source": "cs.wiktionary"
+},
+"potravina": {
+"sg": [
+"potravina",
+"potraviny",
+"potravině",
+"potravinu",
+"potravino",
+"potravině",
+"potravinou"
+],
+"pl": [
+"potraviny",
+"potravin",
+"potravinám",
+"potraviny",
+"potraviny",
+"potravinách",
+"potravinami"
+],
+"source": "cs.wiktionary"
+},
+"miska": {
+"sg": [
+"miska",
+"misky",
+"misce",
+"misku",
+"misko",
+"misce",
+"miskou"
+],
+"pl": [
+"misky",
+"misek",
+"miskám",
+"misky",
+"misky",
+"miskách",
+"miskami"
+],
+"source": "cs.wiktionary"
+},
+"sklenička": {
+"sg": [
+"sklenička",
+"skleničky",
+"skleničce",
+"skleničku",
+"skleničko",
+"skleničce",
+"skleničkou"
+],
+"pl": [
+"skleničky",
+"skleniček",
+"skleničkám",
+"skleničky",
+"skleničky",
+"skleničkách",
+"skleničkami"
+],
+"source": "cs.wiktionary"
+},
+"stovka": {
+"sg": [
+"stovka",
+"stovky",
+"stovce",
+"stovku",
+"stovko",
+"stovce",
+"stovkou"
+],
+"pl": [
+"stovky",
+"stovek",
+"stovkám",
+"stovky",
+"stovky",
+"stovkách",
+"stovkami"
+],
+"source": "cs.wiktionary"
+},
+"fronta": {
+"sg": [
+"fronta",
+"fronty",
+"frontě",
+"frontu",
+"fronto",
+"frontě",
+"frontou"
+],
+"pl": [
+"fronty",
+"front",
+"frontám",
+"fronty",
+"fronty",
+"frontách",
+"frontami"
+],
+"source": "cs.wiktionary"
+},
+"prodejna": {
+"sg": [
+"prodejna",
+"prodejny",
+"prodejně",
+"prodejnu",
+"prodejno",
+"prodejně",
+"prodejnou"
+],
+"pl": [
+"prodejny",
+"prodejen",
+"prodejnám",
+"prodejny",
+"prodejny",
+"prodejnách",
+"prodejnami"
+],
+"source": "cs.wiktionary"
+},
+"brána": {
+"sg": [
+"brána",
+"brány",
+"bráně",
+"bránu",
+"bráno",
+"bráně",
+"bránou / branou"
+],
+"pl": [
+"brány",
+"bran",
+"bránám / branám",
+"brány",
+"brány",
+"bránách / branách",
+"bránami / branami"
+],
+"source": "cs.wiktionary"
+},
+"hala": {
+"sg": [
+"hala",
+"haly",
+"hale",
+"halu",
+"halo",
+"hale",
+"halou"
+],
+"pl": [
+"haly",
+"hal",
+"halám",
+"haly",
+"haly",
+"halách",
+"halami"
+],
+"source": "cs.wiktionary"
+},
+"elektrárna": {
+"sg": [
+"elektrárna",
+"elektrárny",
+"elektrárně",
+"elektrárnu",
+"elektrárno",
+"elektrárně",
+"elektrárnou"
+],
+"pl": [
+"elektrárny",
+"elektráren",
+"elektrárnám",
+"elektrárny",
+"elektrárny",
+"elektrárnách",
+"elektrárnami"
+],
+"source": "cs.wiktionary"
+},
+"socha": {
+"sg": [
+"socha",
+"sochy",
+"soše",
+"sochu",
+"socho",
+"soše",
+"sochou"
+],
+"pl": [
+"sochy",
+"soch",
+"sochám",
+"sochy",
+"sochy",
+"sochách",
+"sochami"
+],
+"source": "cs.wiktionary"
+},
+"ulička": {
+"sg": [
+"ulička",
+"uličky",
+"uličce",
+"uličku",
+"uličko",
+"uličce",
+"uličkou"
+],
+"pl": [
+"uličky",
+"uliček",
+"uličkám",
+"uličky",
+"uličky",
+"uličkách",
+"uličkami"
+],
+"source": "cs.wiktionary"
+},
+"lavička": {
+"sg": [
+"lavička",
+"lavičky",
+"lavičce",
+"lavičku",
+"lavičko",
+"lavičce",
+"lavičkou"
+],
+"pl": [
+"lavičky",
+"laviček",
+"lavičkám",
+"lavičky",
+"lavičky",
+"lavičkách",
+"lavičkami"
+],
+"source": "cs.wiktionary"
+},
+"pevnost": {
+"sg": [
+"pevnost",
+"pevnosti",
+"pevnosti",
+"pevnost",
+"pevnosti",
+"pevnosti",
+"pevností"
+],
+"pl": [
+"pevnosti",
+"pevností",
+"pevnostem",
+"pevnosti",
+"pevnosti",
+"pevnostech",
+"pevnostmi"
+],
+"source": "cs.wiktionary"
+},
+"kaple": {
+"sg": [
+"kaple",
+"kaple",
+"kapli",
+"kapli",
+"kaple",
+"kapli",
+"kaplí"
+],
+"pl": [
+"kaple",
+"kaplí",
+"kaplím",
+"kaple",
+"kaple",
+"kaplích",
+"kaplemi"
+],
+"source": "cs.wiktionary"
+},
+"síň": {
+"sg": [
+"síň",
+"síně",
+"síni",
+"síň",
+"síni",
+"síni",
+"síní"
+],
+"pl": [
+"síně",
+"síní",
+"síním",
+"síně",
+"síně",
+"síních",
+"síněmi"
+],
+"source": "cs.wiktionary"
+},
+"fasáda": {
+"sg": [
+"fasáda",
+"fasády",
+"fasádě",
+"fasádu",
+"fasádo",
+"fasádě",
+"fasádou"
+],
+"pl": [
+"fasády",
+"fasád",
+"fasádám",
+"fasády",
+"fasády",
+"fasádách",
+"fasádami"
+],
+"source": "cs.wiktionary"
 }
 }

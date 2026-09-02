@@ -78,6 +78,9 @@ hrad, stroj (gender 'mi'). Masculine deck files are named `words/m-<topic>.js`.
 A2 decks live in `words/a2/` with `level: 'A2'`; they are validated and exported
 (to `words-a2.json`) but not loaded by the page until linked in.
 
+B1 decks live in `words/b1/` with `level: 'B1'` and `official: null` (the official
+list stops at A2); exported to `words-b1.json`, not loaded by the page until linked.
+
 ## Workflow
 
 1. Add entries to `words/<topic>.js` inside `WORDS.push( ... );`.
