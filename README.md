@@ -22,6 +22,11 @@ blue, N green, the Czech Step by Step convention). All four genders are covered 
 - `a2-masculine.md`, `a2-feminine.md`, `a2-neuter.md` – draft A2 lists curated from
   the official A2 inventory (`tools/a2/candidates-*.json`); A2 decks live in
   `words/a2/` and export to `words-a2.json`; the page loads them when A2 or Vše is chosen.
+- `tools/b1/` – B1 groundwork: the SYN2015 ranked lemma list (via English
+  Wiktionary), noun genders from English Wiktionary categories, and
+  `candidates-b1.json`, the 2,183 verified nouns (ranks 1–8000, not in the deck,
+  noun-first on the Czech Wiktionary, function-word homographs removed) built by
+  `check-candidates.py`. No B1 cards yet.
 - `STYLE.md` – drawing rules and palette for new pictures.
 - `declension.json` – a declension table (7 cases, singular and plural) for every
   card plus the 14 model words; 891 from the Czech Wiktionary (CC BY-SA, fetched by
