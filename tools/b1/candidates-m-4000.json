@@ -1,0 +1,2804 @@
+[
+{
+"cs": "systém",
+"rank": 156,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pohled",
+"rank": 203,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "způsob",
+"rank": 207,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "projekt",
+"rank": 256,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pár",
+"rank": 257,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vztah",
+"rank": 285,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "důvod",
+"rank": 295,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "typ",
+"rank": 338,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pocit",
+"rank": 340,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "cíl",
+"rank": 392,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "základ",
+"rank": 416,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "smysl",
+"rank": 419,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zdroj",
+"rank": 431,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "domácí",
+"rank": 433,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "krok",
+"rank": 435,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "proces",
+"rank": 465,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "hráč",
+"rank": 467,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "výkon",
+"rank": 470,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "materiál",
+"rank": 473,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rámec",
+"rank": 474,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "bůh",
+"rank": 479,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "vlas",
+"rank": 488,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "autor",
+"rank": 490,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "příběh",
+"rank": 505,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vývoj",
+"rank": 508,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vzduch",
+"rank": 519,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pohyb",
+"rank": 533,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "názor",
+"rank": 536,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "okamžik",
+"rank": 539,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vliv",
+"rank": 570,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "postup",
+"rank": 588,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "název",
+"rank": 659,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "návrh",
+"rank": 660,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "náklad",
+"rank": 668,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "duch",
+"rank": 670,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "pacient",
+"rank": 671,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "přístup",
+"rank": 689,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "obyvatel",
+"rank": 697,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "úspěch",
+"rank": 732,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "šéf",
+"rank": 733,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "provoz",
+"rank": 734,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "průběh",
+"rank": 764,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "boj",
+"rank": 772,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "sen",
+"rank": 780,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zákazník",
+"rank": 782,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "snímek",
+"rank": 786,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "prvek",
+"rank": 789,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "povrch",
+"rank": 790,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "proud",
+"rank": 807,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výzkum",
+"rank": 819,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "závěr",
+"rank": 837,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zbytek",
+"rank": 843,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rozhovor",
+"rank": 848,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "stroj",
+"rank": 855,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výraz",
+"rank": 859,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rozvoj",
+"rank": 869,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "obsah",
+"rank": 873,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "objekt",
+"rank": 878,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "voják",
+"rank": 910,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "výběr",
+"rank": 930,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "úsměv",
+"rank": 935,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "mluvčí",
+"rank": 940,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "růst",
+"rank": 944,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "ohled",
+"rank": 951,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "styl",
+"rank": 952,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "klient",
+"rank": 956,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "důsledek",
+"rank": 961,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zástupce",
+"rank": 970,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "soubor",
+"rank": 981,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výrobce",
+"rank": 994,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "požadavek",
+"rank": 1000,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "obrázek",
+"rank": 1018,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vznik",
+"rank": 1023,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "produkt",
+"rank": 1043,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "domov",
+"rank": 1045,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "dolar",
+"rank": 1046,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "předseda",
+"rank": 1062,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "obr",
+"rank": 1063,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "počátek",
+"rank": 1068,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "gól",
+"rank": 1069,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "návštěvník",
+"rank": 1078,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "uživatel",
+"rank": 1091,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "prodej",
+"rank": 1094,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "režim",
+"rank": 1115,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pokus",
+"rank": 1116,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "dojem",
+"rank": 1125,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "okraj",
+"rank": 1128,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "mozek",
+"rank": 1130,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "titul",
+"rank": 1136,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "ret",
+"rank": 1140,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "údaj",
+"rank": 1152,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "odborník",
+"rank": 1154,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "kontakt",
+"rank": 1162,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "mistr",
+"rank": 1195,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "stín",
+"rank": 1199,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "osud",
+"rank": 1203,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "král",
+"rank": 1217,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "vstup",
+"rank": 1227,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "princip",
+"rank": 1231,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "útok",
+"rank": 1238,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "podíl",
+"rank": 1239,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "projev",
+"rank": 1252,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "seznam",
+"rank": 1259,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pracovník",
+"rank": 1282,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "chlap",
+"rank": 1293,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "účel",
+"rank": 1298,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "čin",
+"rank": 1303,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "návrat",
+"rank": 1325,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "nedostatek",
+"rank": 1332,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "dech",
+"rank": 1337,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "důkaz",
+"rank": 1366,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "deník",
+"rank": 1371,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "národ",
+"rank": 1380,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "orgán",
+"rank": 1382,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "přístroj",
+"rank": 1392,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "díl",
+"rank": 1399,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "region",
+"rank": 1401,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pojem",
+"rank": 1409,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "roh",
+"rank": 1426,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "oheň",
+"rank": 1432,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "soupeř",
+"rank": 1436,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "ústav",
+"rank": 1437,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "festival",
+"rank": 1452,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rozpočet",
+"rank": 1455,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pozemek",
+"rank": 1461,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výrobek",
+"rank": 1466,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "celek",
+"rank": 1492,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "areál",
+"rank": 1513,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "bok",
+"rank": 1520,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "jedinec",
+"rank": 1525,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "vědec",
+"rank": 1530,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "průměr",
+"rank": 1534,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "termín",
+"rank": 1552,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "led",
+"rank": 1556,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "postoj",
+"rank": 1557,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "tábor",
+"rank": 1558,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vesmír",
+"rank": 1562,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "břeh",
+"rank": 1565,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "tón",
+"rank": 1568,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "smích",
+"rank": 1576,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "manažer",
+"rank": 1578,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "charakter",
+"rank": 1591,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pád",
+"rank": 1599,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vrchol",
+"rank": 1606,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "faktor",
+"rank": 1620,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "účinek",
+"rank": 1627,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výbor",
+"rank": 1633,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zisk",
+"rank": 1643,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "znak",
+"rank": 1646,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "účastník",
+"rank": 1651,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "předpoklad",
+"rank": 1668,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "obvod",
+"rank": 1682,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "spor",
+"rank": 1690,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "svaz",
+"rank": 1691,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "odpor",
+"rank": 1694,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "průmysl",
+"rank": 1706,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "poměr",
+"rank": 1710,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kapitán",
+"rank": 1717,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "odchod",
+"rank": 1720,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "úsek",
+"rank": 1722,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "nárok",
+"rank": 1748,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "detail",
+"rank": 1772,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vítěz",
+"rank": 1781,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "kurs",
+"rank": 1783,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "mladík",
+"rank": 1799,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "květ",
+"rank": 1810,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rozsah",
+"rank": 1812,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "signál",
+"rank": 1818,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "hrdina",
+"rank": 1833,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "premiér",
+"rank": 1842,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "displej",
+"rank": 1843,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vzor",
+"rank": 1845,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vedoucí",
+"rank": 1848,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "zážitek",
+"rank": 1862,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "záznam",
+"rank": 1868,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "moment",
+"rank": 1871,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "turnaj",
+"rank": 1876,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "jev",
+"rank": 1881,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "následek",
+"rank": 1884,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "blok",
+"rank": 1906,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "design",
+"rank": 1917,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "parametr",
+"rank": 1936,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "nepřítel",
+"rank": 1948,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "popis",
+"rank": 1967,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zásah",
+"rank": 1972,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "útočník",
+"rank": 1977,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "sbor",
+"rank": 1985,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "symbol",
+"rank": 1988,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "architekt",
+"rank": 1993,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "záměr",
+"rank": 2003,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "prach",
+"rank": 2018,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "gen",
+"rank": 2072,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "web",
+"rank": 2075,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "organismus",
+"rank": 2085,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kouč",
+"rank": 2087,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "dluh",
+"rank": 2096,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "chléb",
+"rank": 2098,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "efekt",
+"rank": 2108,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "průzkum",
+"rank": 2136,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "velitel",
+"rank": 2140,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "motiv",
+"rank": 2141,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pramen",
+"rank": 2158,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rys",
+"rank": 2160,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "investor",
+"rank": 2167,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "okruh",
+"rank": 2177,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zájemce",
+"rank": 2183,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "automobil",
+"rank": 2190,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "bar",
+"rank": 2198,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "disk",
+"rank": 2199,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "dopad",
+"rank": 2206,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "představitel",
+"rank": 2207,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "kořen",
+"rank": 2219,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "písek",
+"rank": 2226,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "tisk",
+"rank": 2229,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rod",
+"rank": 2230,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kmen",
+"rank": 2233,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "plod",
+"rank": 2269,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "předpis",
+"rank": 2280,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vzorek",
+"rank": 2284,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "sex",
+"rank": 2292,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pokles",
+"rank": 2297,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "hrob",
+"rank": 2300,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "úhel",
+"rank": 2303,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "start",
+"rank": 2316,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výstup",
+"rank": 2321,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "dav",
+"rank": 2331,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kanál",
+"rank": 2333,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rozum",
+"rank": 2340,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kandidát",
+"rank": 2357,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "zvyk",
+"rank": 2360,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "sval",
+"rank": 2361,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "dodavatel",
+"rank": 2363,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "konflikt",
+"rank": 2368,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "trénink",
+"rank": 2373,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výskyt",
+"rank": 2383,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "mužský",
+"rank": 2405,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "výhled",
+"rank": 2413,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "svah",
+"rank": 2429,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "přenos",
+"rank": 2433,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "stolek",
+"rank": 2437,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "cyklus",
+"rank": 2441,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "tok",
+"rank": 2444,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kněz",
+"rank": 2468,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "dostatek",
+"rank": 2469,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "dar",
+"rank": 2474,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "terén",
+"rank": 2488,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "domek",
+"rank": 2490,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zázrak",
+"rank": 2497,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "scénář",
+"rank": 2507,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "palác",
+"rank": 2509,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "tunel",
+"rank": 2513,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "plášť",
+"rank": 2515,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "agent",
+"rank": 2539,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "souboj",
+"rank": 2541,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "duchovní",
+"rank": 2544,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "prospěch",
+"rank": 2553,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "stadión",
+"rank": 2559,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zločin",
+"rank": 2560,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "komunista",
+"rank": 2570,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "tip",
+"rank": 2577,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "hovor",
+"rank": 2581,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pohár",
+"rank": 2584,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "lid",
+"rank": 2585,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "cit",
+"rank": 2598,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "příslušník",
+"rank": 2605,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "svazek",
+"rank": 2617,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kříž",
+"rank": 2626,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "hřbitov",
+"rank": 2634,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "mír",
+"rank": 2655,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "nápis",
+"rank": 2662,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "standard",
+"rank": 2663,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "profil",
+"rank": 2671,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "subjekt",
+"rank": 2674,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "nástup",
+"rank": 2684,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "nález",
+"rank": 2699,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "odhad",
+"rank": 2707,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "plot",
+"rank": 2713,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výdaj",
+"rank": 2725,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "soulad",
+"rank": 2726,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "volič",
+"rank": 2732,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "nárůst",
+"rank": 2740,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "odstín",
+"rank": 2743,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "otvor",
+"rank": 2754,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zloděj",
+"rank": 2755,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "formát",
+"rank": 2760,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "mechanismus",
+"rank": 2763,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "generál",
+"rank": 2770,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "souhlas",
+"rank": 2772,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "náměstek",
+"rank": 2773,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "vlastník",
+"rank": 2787,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "paprsek",
+"rank": 2790,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "experiment",
+"rank": 2793,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "úmysl",
+"rank": 2814,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "podklad",
+"rank": 2819,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "klášter",
+"rank": 2831,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pruh",
+"rank": 2832,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výklad",
+"rank": 2847,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "důstojník",
+"rank": 2850,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "tuk",
+"rank": 2851,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "příkaz",
+"rank": 2865,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "software",
+"rank": 2870,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "archiv",
+"rank": 2871,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vůdce",
+"rank": 2875,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "objev",
+"rank": 2883,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "omyl",
+"rank": 2888,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "brankář",
+"rank": 2900,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "vězeň",
+"rank": 2905,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "talent",
+"rank": 2916,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "spolek",
+"rank": 2923,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "úvěr",
+"rank": 2930,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "argument",
+"rank": 2931,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "důraz",
+"rank": 2932,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "tvůrce",
+"rank": 2953,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "sektor",
+"rank": 2956,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "aspekt",
+"rank": 2959,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "expert",
+"rank": 2960,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "rytmus",
+"rank": 2967,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "poznatek",
+"rank": 2972,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "smutek",
+"rank": 2978,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "lídr",
+"rank": 2995,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "roztok",
+"rank": 2998,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "doplněk",
+"rank": 3001,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kontext",
+"rank": 3018,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "úvod",
+"rank": 3019,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "styk",
+"rank": 3024,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "odkaz",
+"rank": 3034,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "potomek",
+"rank": 3045,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "letoun",
+"rank": 3061,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pilot",
+"rank": 3062,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "dohled",
+"rank": 3065,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "byznys",
+"rank": 3074,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výrok",
+"rank": 3075,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zpěv",
+"rank": 3077,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "náboj",
+"rank": 3083,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "oceán",
+"rank": 3085,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výpočet",
+"rank": 3090,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "útvar",
+"rank": 3116,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "dotaz",
+"rank": 3120,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vrah",
+"rank": 3132,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "správce",
+"rank": 3134,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "spis",
+"rank": 3139,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "nerv",
+"rank": 3143,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "div",
+"rank": 3148,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rekord",
+"rank": 3155,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "sklon",
+"rank": 3186,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "řetězec",
+"rank": 3188,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rukopis",
+"rank": 3202,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "útěk",
+"rank": 3206,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "trávník",
+"rank": 3214,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "předek",
+"rank": 3219,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "anděl",
+"rank": 3248,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "hejtman",
+"rank": 3249,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "kouř",
+"rank": 3259,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "jezdec",
+"rank": 3292,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "sloup",
+"rank": 3293,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "plamen",
+"rank": 3296,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kloub",
+"rank": 3303,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pytel",
+"rank": 3308,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "sklad",
+"rank": 3310,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "děj",
+"rank": 3314,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "venkov",
+"rank": 3323,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "atom",
+"rank": 3329,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pokrok",
+"rank": 3337,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kód",
+"rank": 3344,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vztek",
+"rank": 3352,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "císař",
+"rank": 3364,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "koš",
+"rank": 3383,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "večírek",
+"rank": 3387,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pachatel",
+"rank": 3392,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "historik",
+"rank": 3394,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "obránce",
+"rank": 3401,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "důl",
+"rank": 3407,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "stres",
+"rank": 3409,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "ráj",
+"rank": 3414,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kabel",
+"rank": 3415,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "fotograf",
+"rank": 3418,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "klín",
+"rank": 3422,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "veletrh",
+"rank": 3430,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zákoník",
+"rank": 3432,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pult",
+"rank": 3440,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "elektron",
+"rank": 3444,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "management",
+"rank": 3447,
+"gender": "mi",
+"has_decl": false
+},
+{
+"cs": "pohřeb",
+"rank": 3451,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pokyn",
+"rank": 3454,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "polštář",
+"rank": 3458,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "limit",
+"rank": 3459,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "slib",
+"rank": 3466,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "šok",
+"rank": 3468,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "komentář",
+"rank": 3482,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "obal",
+"rank": 3493,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "palec",
+"rank": 3497,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "podnět",
+"rank": 3501,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "úder",
+"rank": 3509,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "papež",
+"rank": 3511,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "hřbet",
+"rank": 3514,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "živočich",
+"rank": 3521,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "humor",
+"rank": 3522,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "přístav",
+"rank": 3535,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "nehet",
+"rank": 3543,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vzkaz",
+"rank": 3548,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rám",
+"rank": 3551,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pot",
+"rank": 3558,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "poradce",
+"rank": 3562,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "fotoaparát",
+"rank": 3574,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "skok",
+"rank": 3577,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výbuch",
+"rank": 3587,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "šampionát",
+"rank": 3589,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "operátor",
+"rank": 3591,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "modul",
+"rank": 3594,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "blázen",
+"rank": 3608,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "obrat",
+"rank": 3611,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "meč",
+"rank": 3615,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "tah",
+"rank": 3622,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "výnos",
+"rank": 3629,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rozkaz",
+"rank": 3634,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vzrůst",
+"rank": 3639,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "statek",
+"rank": 3652,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zesilovač",
+"rank": 3656,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "žánr",
+"rank": 3663,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "hnát",
+"rank": 3671,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vrchní",
+"rank": 3679,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "odstup",
+"rank": 3682,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "milenec",
+"rank": 3687,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "jednotlivec",
+"rank": 3697,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "psycholog",
+"rank": 3700,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "krystal",
+"rank": 3705,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "štít",
+"rank": 3714,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "protest",
+"rank": 3716,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "redaktor",
+"rank": 3717,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "portrét",
+"rank": 3718,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "servis",
+"rank": 3724,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zadek",
+"rank": 3726,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "oblouk",
+"rank": 3735,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "střelec",
+"rank": 3747,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "kritik",
+"rank": 3753,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "pach",
+"rank": 3759,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rozpor",
+"rank": 3766,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pochod",
+"rank": 3778,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "zakladatel",
+"rank": 3789,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "děda",
+"rank": 3797,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "dialog",
+"rank": 3802,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rukáv",
+"rank": 3803,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "chod",
+"rank": 3806,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vtip",
+"rank": 3810,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "závazek",
+"rank": 3817,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "demokrat",
+"rank": 3835,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "biskup",
+"rank": 3838,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "nesmysl",
+"rank": 3843,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "blesk",
+"rank": 3854,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "porost",
+"rank": 3860,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "pořadatel",
+"rank": 3884,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "organizátor",
+"rank": 3887,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "drát",
+"rank": 3893,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "příznivec",
+"rank": 3899,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "plukovník",
+"rank": 3900,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "ateliér",
+"rank": 3905,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "kroužek",
+"rank": 3908,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "rozhodčí",
+"rank": 3910,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "pohon",
+"rank": 3913,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "hrabě",
+"rank": 3931,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "fenomén",
+"rank": 3937,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "příznak",
+"rank": 3943,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "únik",
+"rank": 3961,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "komisař",
+"rank": 3965,
+"gender": "ma",
+"has_decl": true
+},
+{
+"cs": "sad",
+"rank": 3980,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "vrch",
+"rank": 3983,
+"gender": "mi",
+"has_decl": true
+},
+{
+"cs": "koutek",
+"rank": 3993,
+"gender": "mi",
+"has_decl": true
+}
+]

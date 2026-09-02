@@ -1,0 +1,2426 @@
+[
+{
+"cs": "možnost",
+"rank": 211,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "oblast",
+"rank": 213,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "situace",
+"rank": 228,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dále",
+"rank": 253,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "většina",
+"rank": 270,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "síla",
+"rank": 284,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "služba",
+"rank": 309,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hodnota",
+"rank": 339,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "podmínka",
+"rank": 371,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "funkce",
+"rank": 414,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "skutečnost",
+"rank": 421,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "role",
+"rank": 422,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "energie",
+"rank": 434,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "akce",
+"rank": 451,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "forma",
+"rank": 456,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "láska",
+"rank": 492,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "podoba",
+"rank": 526,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "míra",
+"rank": 529,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "součást",
+"rank": 531,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "volba",
+"rank": 535,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "myšlenka",
+"rank": 537,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "síť",
+"rank": 544,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "zkušenost",
+"rank": 547,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "úroveň",
+"rank": 549,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "plocha",
+"rank": 599,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výroba",
+"rank": 623,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "rada",
+"rank": 627,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "představa",
+"rank": 650,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "péče",
+"rank": 688,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "metoda",
+"rank": 704,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "šance",
+"rank": 727,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "schopnost",
+"rank": 737,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "technologie",
+"rank": 753,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "fotografie",
+"rank": 779,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "aktivita",
+"rank": 783,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "historie",
+"rank": 784,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "spolupráce",
+"rank": 810,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kultura",
+"rank": 818,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pozice",
+"rank": 823,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "příležitost",
+"rank": 824,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "příprava",
+"rank": 832,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "ochrana",
+"rank": 840,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "půda",
+"rank": 842,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pozornost",
+"rank": 844,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "aplikace",
+"rank": 857,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "podstata",
+"rank": 864,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "desítka",
+"rank": 886,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "deska",
+"rank": 909,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vrstva",
+"rank": 913,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "úprava",
+"rank": 921,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vlastnost",
+"rank": 936,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "jednotka",
+"rank": 939,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "konstrukce",
+"rank": 950,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "věda",
+"rank": 963,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "teorie",
+"rank": 967,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "verze",
+"rank": 971,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kapitola",
+"rank": 988,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "reakce",
+"rank": 1012,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "snaha",
+"rank": 1016,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "stovka",
+"rank": 1020,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "ztráta",
+"rank": 1026,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "scéna",
+"rank": 1029,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "liga",
+"rank": 1030,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "duše",
+"rank": 1035,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "technika",
+"rank": 1036,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "struktura",
+"rank": 1042,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "souvislost",
+"rank": 1049,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výhoda",
+"rank": 1052,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "komunikace",
+"rank": 1053,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "generace",
+"rank": 1059,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kategorie",
+"rank": 1071,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "veřejnost",
+"rank": 1084,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dispozice",
+"rank": 1086,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "střecha",
+"rank": 1087,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "povinnost",
+"rank": 1114,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "naděje",
+"rank": 1126,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "zbraň",
+"rank": 1143,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "správa",
+"rank": 1150,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "paměť",
+"rank": 1151,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "stopa",
+"rank": 1153,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "analýza",
+"rank": 1185,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "záležitost",
+"rank": 1193,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "mysl",
+"rank": 1198,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "svoboda",
+"rank": 1211,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "píseň",
+"rank": 1216,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "armáda",
+"rank": 1234,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "osobnost",
+"rank": 1246,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vzpomínka",
+"rank": 1248,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výše",
+"rank": 1269,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "fáze",
+"rank": 1272,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "tvorba",
+"rank": 1274,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "příčina",
+"rank": 1281,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "složka",
+"rank": 1297,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hladina",
+"rank": 1309,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "oběť",
+"rank": 1327,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dějiny",
+"rank": 1330,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "jízda",
+"rank": 1340,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "přítomnost",
+"rank": 1355,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "atmosféra",
+"rank": 1365,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dlaň",
+"rank": 1367,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dráha",
+"rank": 1373,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "buňka",
+"rank": 1385,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "komise",
+"rank": 1386,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "tradice",
+"rank": 1395,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kapsa",
+"rank": 1405,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "novinka",
+"rank": 1406,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "investice",
+"rank": 1416,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "existence",
+"rank": 1417,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výjimka",
+"rank": 1419,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "úvaha",
+"rank": 1423,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "branka",
+"rank": 1430,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "varianta",
+"rank": 1438,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "potíž",
+"rank": 1441,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "poloha",
+"rank": 1443,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "tabulka",
+"rank": 1454,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "obava",
+"rank": 1456,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kombinace",
+"rank": 1473,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "brána",
+"rank": 1480,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "chvilka",
+"rank": 1486,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "víra",
+"rank": 1488,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kariéra",
+"rank": 1491,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dotace",
+"rank": 1498,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výstavba",
+"rank": 1500,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "okolnost",
+"rank": 1501,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "touha",
+"rank": 1514,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "ekonomika",
+"rank": 1521,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "paže",
+"rank": 1563,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "spotřeba",
+"rank": 1580,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "rekonstrukce",
+"rank": 1582,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "jistota",
+"rank": 1583,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "léčba",
+"rank": 1595,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "znalost",
+"rank": 1607,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "studie",
+"rank": 1608,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "církev",
+"rank": 1616,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "sbírka",
+"rank": 1624,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hmota",
+"rank": 1635,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "účast",
+"rank": 1636,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vůle",
+"rank": 1650,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "částka",
+"rank": 1654,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "instituce",
+"rank": 1658,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "současnost",
+"rank": 1666,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "nálada",
+"rank": 1671,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vteřina",
+"rank": 1680,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "zakázka",
+"rank": 1685,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "krása",
+"rank": 1695,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "produkce",
+"rank": 1699,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "lokalita",
+"rank": 1703,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "finance",
+"rank": 1709,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "poznámka",
+"rank": 1721,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "slza",
+"rank": 1732,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "série",
+"rank": 1733,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výchova",
+"rank": 1736,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hala",
+"rank": 1745,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hmotnost",
+"rank": 1758,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "potravina",
+"rank": 1769,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kapacita",
+"rank": 1791,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "knížka",
+"rank": 1804,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "realita",
+"rank": 1809,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vina",
+"rank": 1815,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "fotka",
+"rank": 1817,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "zásada",
+"rank": 1821,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "populace",
+"rank": 1822,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "obrana",
+"rank": 1824,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "třetina",
+"rank": 1840,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "soustava",
+"rank": 1854,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "norma",
+"rank": 1864,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "rovnice",
+"rank": 1867,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "větev",
+"rank": 1885,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "přednost",
+"rank": 1887,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "cigareta",
+"rank": 1893,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "strategie",
+"rank": 1902,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kamera",
+"rank": 1907,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dáma",
+"rank": 1913,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "diskuse",
+"rank": 1918,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "závislost",
+"rank": 1941,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "částice",
+"rank": 1964,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "díra",
+"rank": 1970,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "komora",
+"rank": 1984,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "planeta",
+"rank": 1990,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výzva",
+"rank": 1994,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "skladba",
+"rank": 1999,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "realizace",
+"rank": 2013,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výměna",
+"rank": 2016,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "špička",
+"rank": 2024,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "skála",
+"rank": 2031,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vražda",
+"rank": 2032,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hrůza",
+"rank": 2052,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "konference",
+"rank": 2055,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dvojice",
+"rank": 2090,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "houba",
+"rank": 2093,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "zábava",
+"rank": 2119,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "obrazovka",
+"rank": 2121,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "směs",
+"rank": 2134,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "obloha",
+"rank": 2150,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "odpovědnost",
+"rank": 2173,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kampaň",
+"rank": 2174,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "elektrárna",
+"rank": 2224,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "úloha",
+"rank": 2245,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "revoluce",
+"rank": 2255,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kritika",
+"rank": 2263,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výhra",
+"rank": 2268,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "jeskyně",
+"rank": 2273,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "svatba",
+"rank": 2295,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "choroba",
+"rank": 2304,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "důvěra",
+"rank": 2308,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "blízkost",
+"rank": 2310,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "problematika",
+"rank": 2327,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "bytost",
+"rank": 2329,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "charakteristika",
+"rank": 2346,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "fronta",
+"rank": 2350,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "říše",
+"rank": 2367,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dodávka",
+"rank": 2370,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "konkurence",
+"rank": 2379,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pohoda",
+"rank": 2386,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "emoce",
+"rank": 2387,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dálka",
+"rank": 2415,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "socha",
+"rank": 2420,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "sezóna",
+"rank": 2430,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "redakce",
+"rank": 2446,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "bitva",
+"rank": 2449,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "reforma",
+"rank": 2455,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "nemovitost",
+"rank": 2459,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "architektura",
+"rank": 2489,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hromada",
+"rank": 2494,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "zásoba",
+"rank": 2514,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "premiéra",
+"rank": 2530,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "odvaha",
+"rank": 2533,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pověst",
+"rank": 2535,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "osa",
+"rank": 2536,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pláž",
+"rank": 2565,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "holčička",
+"rank": 2572,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "překážka",
+"rank": 2587,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pravděpodobnost",
+"rank": 2591,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "demokracie",
+"rank": 2607,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "maska",
+"rank": 2631,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "sestava",
+"rank": 2642,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "nutnost",
+"rank": 2664,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dílna",
+"rank": 2668,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "spravedlnost",
+"rank": 2673,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výuka",
+"rank": 2689,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "královna",
+"rank": 2702,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "tuna",
+"rank": 2708,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "akademie",
+"rank": 2717,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kyselina",
+"rank": 2735,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "akcie",
+"rank": 2764,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "reprezentace",
+"rank": 2796,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "terasa",
+"rank": 2799,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pauza",
+"rank": 2804,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "sláva",
+"rank": 2808,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "narozeniny",
+"rank": 2813,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "etapa",
+"rank": 2816,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "medaile",
+"rank": 2837,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kapka",
+"rank": 2839,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kresba",
+"rank": 2842,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "náhoda",
+"rank": 2856,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "údržba",
+"rank": 2858,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "rovnováha",
+"rank": 2860,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "položka",
+"rank": 2862,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "koncepce",
+"rank": 2863,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "debata",
+"rank": 2878,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "expozice",
+"rank": 2891,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "nula",
+"rank": 2901,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "skvrna",
+"rank": 2902,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "koalice",
+"rank": 2920,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "nádrž",
+"rank": 2926,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "frekvence",
+"rank": 2928,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "filozofie",
+"rank": 2935,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "nádoba",
+"rank": 2944,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "legenda",
+"rank": 2947,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hodinky",
+"rank": 2950,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "instalace",
+"rank": 2961,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "prostora",
+"rank": 2976,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kabina",
+"rank": 2977,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "orientace",
+"rank": 2984,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "lahev",
+"rank": 2989,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "intenzita",
+"rank": 2992,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vila",
+"rank": 2999,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "disciplína",
+"rank": 3003,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "surovina",
+"rank": 3016,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "potrava",
+"rank": 3027,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "porážka",
+"rank": 3030,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "včela",
+"rank": 3032,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "základna",
+"rank": 3035,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "baterie",
+"rank": 3055,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hračka",
+"rank": 3056,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "tendence",
+"rank": 3058,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "koncentrace",
+"rank": 3059,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "zátěž",
+"rank": 3067,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pleť",
+"rank": 3080,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "proměna",
+"rank": 3089,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "asociace",
+"rank": 3091,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "lázně",
+"rank": 3093,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vysočina",
+"rank": 3096,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pěst",
+"rank": 3101,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "koule",
+"rank": 3103,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hruď",
+"rank": 3142,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "trocha",
+"rank": 3146,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hornina",
+"rank": 3174,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hrozba",
+"rank": 3184,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "stezka",
+"rank": 3190,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "publikace",
+"rank": 3192,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "panna",
+"rank": 3193,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "statistika",
+"rank": 3201,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "tekutina",
+"rank": 3205,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "ukázka",
+"rank": 3207,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "ulička",
+"rank": 3215,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "izolace",
+"rank": 3227,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "brada",
+"rank": 3242,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "těžba",
+"rank": 3246,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "ženská",
+"rank": 3247,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "motivace",
+"rank": 3250,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "výprava",
+"rank": 3252,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "obálka",
+"rank": 3262,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "úleva",
+"rank": 3267,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "účinnost",
+"rank": 3268,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "poptávka",
+"rank": 3272,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "komunita",
+"rank": 3273,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "lavička",
+"rank": 3274,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "obnova",
+"rank": 3285,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pistole",
+"rank": 3287,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "shoda",
+"rank": 3291,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "inspirace",
+"rank": 3297,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "záchrana",
+"rank": 3302,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "příčka",
+"rank": 3320,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "posádka",
+"rank": 3322,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "chůze",
+"rank": 3330,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "dovednost",
+"rank": 3348,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hrana",
+"rank": 3377,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "povídka",
+"rank": 3388,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pata",
+"rank": 3393,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "molekula",
+"rank": 3405,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "uniforma",
+"rank": 3417,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "náhrada",
+"rank": 3433,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "úcta",
+"rank": 3435,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "sazba",
+"rank": 3441,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "svíčka",
+"rank": 3448,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "báze",
+"rank": 3449,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pevnost",
+"rank": 3455,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kaple",
+"rank": 3469,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "fantazie",
+"rank": 3476,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "školka",
+"rank": 3479,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "korupce",
+"rank": 3485,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "lež",
+"rank": 3491,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hlína",
+"rank": 3494,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "miska",
+"rank": 3507,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "katastrofa",
+"rank": 3516,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "střela",
+"rank": 3517,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "paluba",
+"rank": 3525,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "ropa",
+"rank": 3527,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pohovka",
+"rank": 3528,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "slavnost",
+"rank": 3530,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vize",
+"rank": 3536,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "samota",
+"rank": 3537,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "platnost",
+"rank": 3546,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "síň",
+"rank": 3547,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "sebevražda",
+"rank": 3554,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "tyč",
+"rank": 3555,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "civilizace",
+"rank": 3560,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "čest",
+"rank": 3563,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pobočka",
+"rank": 3572,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "jednička",
+"rank": 3575,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "móda",
+"rank": 3590,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "stabilita",
+"rank": 3595,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "bouře",
+"rank": 3610,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "zmínka",
+"rank": 3618,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "priorita",
+"rank": 3643,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "modlitba",
+"rank": 3646,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "terapie",
+"rank": 3649,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "fasáda",
+"rank": 3659,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "novela",
+"rank": 3662,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "mrtvola",
+"rank": 3670,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "vášeň",
+"rank": 3696,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "sklenička",
+"rank": 3702,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "sféra",
+"rank": 3711,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "křivka",
+"rank": 3727,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "žíla",
+"rank": 3732,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "divize",
+"rank": 3733,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "pochybnost",
+"rank": 3741,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "trouba",
+"rank": 3762,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "podrobnost",
+"rank": 3765,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "únava",
+"rank": 3773,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "éra",
+"rank": 3794,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "hustota",
+"rank": 3798,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kůra",
+"rank": 3800,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kolekce",
+"rank": 3808,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "interakce",
+"rank": 3831,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "legrace",
+"rank": 3836,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "lebka",
+"rank": 3842,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "identita",
+"rank": 3845,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "inteligence",
+"rank": 3857,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "kostka",
+"rank": 3861,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "definice",
+"rank": 3865,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "čtvrtina",
+"rank": 3878,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "prezentace",
+"rank": 3880,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "autorita",
+"rank": 3901,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "odrůda",
+"rank": 3904,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "přehlídka",
+"rank": 3918,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "zásluha",
+"rank": 3920,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "integrace",
+"rank": 3932,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "emise",
+"rank": 3933,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "obliba",
+"rank": 3936,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "deprese",
+"rank": 3976,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "režie",
+"rank": 3979,
+"gender": "f",
+"has_decl": true
+},
+{
+"cs": "prodejna",
+"rank": 3987,
+"gender": "f",
+"has_decl": true
+}
+]

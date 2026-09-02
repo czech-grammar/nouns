@@ -1,0 +1,986 @@
+[
+{
+"cs": "století",
+"rank": 319,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "prostředí",
+"rank": 386,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "řešení",
+"rank": 408,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "období",
+"rank": 457,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "dílo",
+"rank": 499,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zařízení",
+"rank": 523,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "množství",
+"rank": 532,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "téma",
+"rank": 590,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vedení",
+"rank": 591,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "řízení",
+"rank": 635,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "okolí",
+"rank": 686,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "studium",
+"rank": 712,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "pravidlo",
+"rank": 760,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "rozhodnutí",
+"rank": 761,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "jednání",
+"rank": 776,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "území",
+"rank": 821,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "umění",
+"rank": 849,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "chování",
+"rank": 868,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "hledisko",
+"rank": 1021,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "napětí",
+"rank": 1032,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "utkání",
+"rank": 1073,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "použití",
+"rank": 1175,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "riziko",
+"rank": 1180,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "využití",
+"rank": 1206,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "setkání",
+"rank": 1263,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vítězství",
+"rank": 1412,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "křídlo",
+"rank": 1418,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "opatření",
+"rank": 1427,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vědomí",
+"rank": 1429,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zahraničí",
+"rank": 1587,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "postavení",
+"rank": 1637,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "srovnání",
+"rank": 1659,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "hodnocení",
+"rank": 1692,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "tlačítko",
+"rank": 1747,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "dno",
+"rank": 1749,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "hnutí",
+"rank": 1760,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "přání",
+"rank": 1793,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "jádro",
+"rank": 1844,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vzdělávání",
+"rank": 1858,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "tajemství",
+"rank": 1931,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "sdružení",
+"rank": 1939,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zvýšení",
+"rank": 1940,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vydání",
+"rank": 1954,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "onemocnění",
+"rank": 1969,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "dětství",
+"rank": 2012,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "údolí",
+"rank": 2023,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zpracování",
+"rank": 2027,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zranění",
+"rank": 2100,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "manželství",
+"rank": 2120,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "překvapení",
+"rank": 2127,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "budoucno",
+"rank": 2162,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "sídlo",
+"rank": 2165,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "omezení",
+"rank": 2168,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "snížení",
+"rank": 2170,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "finále",
+"rank": 2227,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "měření",
+"rank": 2239,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "nastavení",
+"rank": 2257,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "hledání",
+"rank": 2264,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "rozšíření",
+"rank": 2291,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "čtení",
+"rank": 2311,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "úsilí",
+"rank": 2356,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "označení",
+"rank": 2375,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "znamení",
+"rank": 2401,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "poznání",
+"rank": 2475,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "násilí",
+"rank": 2476,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "očekávání",
+"rank": 2506,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "pobřeží",
+"rank": 2522,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "učení",
+"rank": 2538,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zdravotnictví",
+"rank": 2550,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "myšlení",
+"rank": 2562,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "pojetí",
+"rank": 2582,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "gesto",
+"rank": 2595,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "mužstvo",
+"rank": 2597,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "psaní",
+"rank": 2609,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "pozadí",
+"rank": 2613,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "těleso",
+"rank": 2637,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "složení",
+"rank": 2645,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "děvče",
+"rank": 2652,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "záření",
+"rank": 2727,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "kritérium",
+"rank": 2757,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "palivo",
+"rank": 2771,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "album",
+"rank": 2788,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "nadšení",
+"rank": 2815,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vytvoření",
+"rank": 2818,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "svědomí",
+"rank": 2828,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "podezření",
+"rank": 2836,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "tempo",
+"rank": 2840,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "středisko",
+"rank": 2873,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "desetiletí",
+"rank": 2885,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "publikum",
+"rank": 2893,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zastupitelstvo",
+"rank": 2898,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vyprávění",
+"rank": 2908,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "školství",
+"rank": 2942,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zemědělství",
+"rank": 2952,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vyjádření",
+"rank": 2979,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "přesvědčení",
+"rank": 2985,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vyšetřování",
+"rank": 3028,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "uspořádání",
+"rank": 3037,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "tvrzení",
+"rank": 3051,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zlepšení",
+"rank": 3054,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "kouzlo",
+"rank": 3070,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vidění",
+"rank": 3082,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "dění",
+"rank": 3108,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "bezpečí",
+"rank": 3110,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zajištění",
+"rank": 3122,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "stáří",
+"rank": 3159,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "mládí",
+"rank": 3161,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "osvětlení",
+"rank": 3165,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "umístění",
+"rank": 3168,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "podnikání",
+"rank": 3180,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "postižení",
+"rank": 3189,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "financování",
+"rank": 3233,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "pořadí",
+"rank": 3244,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "poškození",
+"rank": 3263,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "sluchátko",
+"rank": 3266,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "městečko",
+"rank": 3275,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "peklo",
+"rank": 3282,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "gymnázium",
+"rank": 3288,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "plátno",
+"rank": 3295,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "pásmo",
+"rank": 3316,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "lidstvo",
+"rank": 3331,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "utrpení",
+"rank": 3333,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "výročí",
+"rank": 3356,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "nakladatelství",
+"rank": 3403,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zjištění",
+"rank": 3410,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "pozorování",
+"rank": 3413,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "prohlášení",
+"rank": 3419,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zahájení",
+"rank": 3437,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "drama",
+"rank": 3457,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vlákno",
+"rank": 3461,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "rozhodování",
+"rank": 3470,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "přijetí",
+"rank": 3487,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "obočí",
+"rank": 3496,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "hospodářství",
+"rank": 3513,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "porovnání",
+"rank": 3542,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "používání",
+"rank": 3553,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zavedení",
+"rank": 3559,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zlo",
+"rank": 3567,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "hrdlo",
+"rank": 3582,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "ukončení",
+"rank": 3602,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "doporučení",
+"rank": 3614,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "společenství",
+"rank": 3631,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "ložisko",
+"rank": 3653,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vojsko",
+"rank": 3655,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "pochopení",
+"rank": 3678,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "měřítko",
+"rank": 3689,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "těsto",
+"rank": 3703,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "stehno",
+"rank": 3719,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "vnímání",
+"rank": 3755,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "soukromí",
+"rank": 3767,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "obyvatelstvo",
+"rank": 3801,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "nasazení",
+"rank": 3830,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "rozhraní",
+"rank": 3839,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "přátelství",
+"rank": 3846,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "dosažení",
+"rank": 3855,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "fungování",
+"rank": 3863,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "písmo",
+"rank": 3868,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "dobro",
+"rank": 3894,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "spektrum",
+"rank": 3906,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "zklamání",
+"rank": 3927,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "víčko",
+"rank": 3939,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "schéma",
+"rank": 3950,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "dědictví",
+"rank": 3975,
+"gender": "n",
+"has_decl": true
+},
+{
+"cs": "založení",
+"rank": 3984,
+"gender": "n",
+"has_decl": true
+}
+]

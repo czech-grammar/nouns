@@ -26,7 +26,8 @@ blue, N green, the Czech Step by Step convention). All four genders are covered 
   Wiktionary), noun genders from English Wiktionary categories, and
   `candidates-b1.json`, the 2,183 verified nouns (ranks 1–8000, not in the deck,
   noun-first on the Czech Wiktionary, function-word homographs removed) built by
-  `check-candidates.py`. No B1 cards yet.
+  `check-candidates.py`. `b1-masculine.md`, `b1-feminine.md`, `b1-neuter.md` sort ranks 1–4000 into
+  picturable, abstract and left-out, with English and pattern. No B1 cards yet.
 - `STYLE.md` – drawing rules and palette for new pictures.
 - `declension.json` – a declension table (7 cases, singular and plural) for every
   card plus the 14 model words; 891 from the Czech Wiktionary (CC BY-SA, fetched by
