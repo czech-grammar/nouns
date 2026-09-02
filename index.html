@@ -105,7 +105,7 @@
 <body>
 <header>
   <h1>Česká slovíčka</h1>
-  <p>Czech &rarr; English picture cards. Tap a card to reveal a hidden word. Tap 🔊 to hear it.</p>
+  <p>Czech &rarr; English picture cards. Tap a card to reveal a hidden word.</p>
   <div class="controls" role="group" aria-label="Mode">
     <button data-mode="both" aria-pressed="true">Show both</button>
     <button data-mode="hide-en" aria-pressed="false">Hide English</button>
@@ -163,6 +163,10 @@
 <script src="words/m-school.js"></script>
 <script src="words/m-leisure.js"></script>
 <script>
+  // Audio is off until pre-recorded clips exist: browser speech voices are
+  // missing on many desktops and poor where present. Flip to true to show 🔊.
+  const AUDIO = false;
+
   const TOPICS = [
     ['family',   'Rodina a lidé',        'family and people'],
     ['home',     'Dům a byt',            'home'],
@@ -208,9 +212,10 @@
       <svg viewBox="0 0 120 100" role="img" aria-label="${w.en}">${w.svg}</svg>
       <div class="cs" lang="cs">${w.cs}</div>
       <div class="en" lang="en">${w.en}</div>
-      <button class="say" aria-label="Say ${w.cs} in Czech">🔊</button>`;
+      ${AUDIO ? `<button class="say" aria-label="Say ${w.cs} in Czech">🔊</button>` : ''}`;
     card.addEventListener('click', () => card.classList.toggle('revealed'));
-    card.querySelector('.say').addEventListener('click', (e) => { e.stopPropagation(); say(w.cs); });
+    const sayBtn = card.querySelector('.say');
+    if (sayBtn) sayBtn.addEventListener('click', (e) => { e.stopPropagation(); say(w.cs); });
     return card;
   }
 

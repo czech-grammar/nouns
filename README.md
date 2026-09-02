@@ -5,8 +5,8 @@ inline SVG per word, colour-coded by gender (F red, Ma dark blue, Mi light
 blue, N green, the Czech Step by Step convention). All four genders are covered for A1. No build step; open `index.html`.
 
 - `index.html` – the page: cards grouped by topic, gender filter (Ma, Mi, F, N),
-  show/hide Czech or English, tap a card to reveal, 🔊 speaks the word with the
-  browser's Czech voice. Filters live in the query string so views can be
+  show/hide Czech or English, tap a card to reveal. The 🔊 button is hidden
+  (`AUDIO = false`) until pre-recorded clips replace browser speech. Filters live in the query string so views can be
   bookmarked, e.g. `?gender=f&mode=hide-en#t-food`.
 - `words.js` – shared helpers and the pilot deck.
 - `words/*.js` – one deck per topic: feminine (no prefix), neuter (`n-`) and
