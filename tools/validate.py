@@ -44,7 +44,7 @@ def main():
             print(f"WRONG LEVEL {e['cs']}: A1 entry in the a2 folder"); bad += 1
         if 'b1/' in e['file'] and e['level'] != 'B1':
             print(f"WRONG LEVEL {e['cs']}: non-B1 entry in the b1 folder"); bad += 1
-        if not e['pattern'].startswith(('žena', 'růže', 'píseň', 'kost', 'město', 'moře', 'kuře', 'stavení', 'pán', 'muž', 'předseda', 'soudce', 'hrad', 'stroj', 'irregular', 'adjective', 'plural', 'indeclinable')):
+        if not e['pattern'].startswith(('žena', 'růže', 'píseň', 'kost', 'město', 'moře', 'kuře', 'stavení', 'pán', 'muž', 'předseda', 'soudce', 'hrabě', 'hrad', 'stroj', 'irregular', 'adjective', 'plural', 'indeclinable')):
             print(f"ODD PATTERN {e['cs']}: {e['pattern']}"); bad += 1
     if os.path.exists('declension.json'):
         decl = json.load(open('declension.json', encoding='utf8'))
