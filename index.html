@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Česká slovíčka – Czech flash cards</title>
-<meta name="description" content="A1 and A2 Czech nouns as child-friendly picture flash cards, Czech to English, colour-coded by gender (Ma, Mi, F, N).">
+<meta name="description" content="A1, A2 and B1 Czech nouns as child-friendly picture flash cards, Czech to English, colour-coded by gender (Ma, Mi, F, N).">
 <link rel="canonical" href="https://grammar.ilearnczech.com/nouns/">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#fff7ea">
@@ -13,14 +13,14 @@
 <meta property="og:locale" content="en">
 <meta property="og:url" content="https://grammar.ilearnczech.com/nouns/">
 <meta property="og:title" content="Česká slovíčka – Czech noun flash cards">
-<meta property="og:description" content="A1 and A2 Czech nouns as child-friendly picture flash cards, Czech to English, colour-coded by gender (Ma, Mi, F, N).">
+<meta property="og:description" content="A1, A2 and B1 Czech nouns as child-friendly picture flash cards, Czech to English, colour-coded by gender (Ma, Mi, F, N).">
 <meta property="og:image" content="https://grammar.ilearnczech.com/nouns/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Twelve Czech picture cards: muž, pes, dům, vlak, žena, kočka, kniha, škola, dítě, auto, jablko, slunce">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Česká slovíčka – Czech noun flash cards">
-<meta name="twitter:description" content="A1 and A2 Czech nouns as child-friendly picture flash cards, colour-coded by gender.">
+<meta name="twitter:description" content="A1, A2 and B1 Czech nouns as child-friendly picture flash cards, colour-coded by gender.">
 <meta name="twitter:image" content="https://grammar.ilearnczech.com/nouns/og.png">
 <style>
   :root {
@@ -169,6 +169,7 @@
     <span class="levels" role="group" aria-label="Level" id="levels">
       <button data-level="a1" aria-pressed="true">A1</button>
       <button data-level="a2" aria-pressed="false">A2</button>
+      <button data-level="b1" aria-pressed="false">B1</button>
       <button data-level="all" aria-pressed="false">Vše</button>
     </span>
     <button data-gender="all" aria-pressed="true">Vše</button>
@@ -186,7 +187,7 @@
 </header>
 <main id="deck"></main>
 <footer>
-  <span id="count"></span> nouns for A1 and A2 Czech &middot; colours follow the textbook convention (Ma dark blue, Mi light blue, F red, N green) &middot; pictures are inline SVG.<br>
+  <span id="count"></span> nouns for A1, A2 and B1 Czech &middot; colours follow the textbook convention (Ma dark blue, Mi light blue, F red, N green) &middot; pictures are inline SVG.<br>
   Part of the <a href="https://ilearnczech.com">iLearnCzech</a> family &middot; <a href="https://grammar.ilearnczech.com">Grammar reference</a> &middot; <a href="https://github.com/czech-grammar/nouns">GitHub</a>
 </footer>
 
@@ -265,25 +266,33 @@
   // e.g. ?gender=f&mode=hide-en#t-food
   const MODES = ['both', 'hide-en', 'hide-cs'];
   const GENDERS = ['all', 'ma', 'mi', 'f', 'n'];
-  const LEVELS = ['a1', 'a2', 'all'];
+  const LEVELS = ['a1', 'a2', 'b1', 'all'];
   const params = new URLSearchParams(location.search);
   let mode = MODES.includes(params.get('mode')) ? params.get('mode') : 'both';
   let gender = GENDERS.includes(params.get('gender')) ? params.get('gender') : 'all';
   let level = LEVELS.includes(params.get('level')) ? params.get('level') : 'a1';
 
-  // The A2 decks are loaded only when first needed, so the default A1 view stays light.
-  const A2_FILES = ["f-body", "f-clothes", "f-family-a", "f-family-b", "f-food", "f-home", "f-leisure", "f-nature", "f-school-a", "f-school-b", "f-shopping", "f-town", "m-clothes", "m-family-a", "m-home-a", "m-home-b", "m-leisure-people", "m-nature", "m-other", "m-people", "m-school", "m-town", "m-travel-body", "n-home", "n-leisure", "n-travel"];
-  let a2Loaded = false, a2Loading = null;
-  function loadA2() {
-    if (a2Loaded) return Promise.resolve();
-    if (a2Loading) return a2Loading;
-    a2Loading = Promise.all(A2_FILES.map(f => new Promise((ok, fail) => {
+  // Extra levels are loaded only when first needed, so the default A1 view stays light.
+  const EXTRA_FILES = {
+    a2: ["f-body", "f-clothes", "f-family-a", "f-family-b", "f-food", "f-home", "f-leisure", "f-nature", "f-school-a", "f-school-b", "f-shopping", "f-town", "m-clothes", "m-family-a", "m-home-a", "m-home-b", "m-leisure-people", "m-nature", "m-other", "m-people", "m-school", "m-town", "m-travel-body", "n-home", "n-leisure", "n-travel"],
+    b1: ["f-body", "f-home", "f-leisure", "f-nature", "f-school", "f-town", "m-body", "m-home", "m-leisure", "m-nature", "m-people", "m-school", "m-sport", "m-town", "n-body", "n-home", "n-leisure"],
+  };
+  const loaded = {}, loading = {};
+  function loadLevel(lv) {
+    if (loaded[lv]) return Promise.resolve();
+    if (loading[lv]) return loading[lv];
+    loading[lv] = Promise.all(EXTRA_FILES[lv].map(f => new Promise((ok, fail) => {
       const el = document.createElement('script');
-      el.src = 'words/a2/' + f + '.js';
+      el.src = 'words/' + lv + '/' + f + '.js';
       el.onload = ok; el.onerror = () => fail(f);
       document.head.appendChild(el);
-    }))).then(() => { a2Loaded = true; order = WORDS.map((_, i) => i).sort(byGender); });
-    return a2Loading;
+    }))).then(() => { loaded[lv] = true; order = WORDS.map((_, i) => i).sort(byGender); });
+    return loading[lv];
+  }
+  function loadFor(lv) {
+    if (lv === 'a1') return Promise.resolve();
+    if (lv === 'all') return Promise.all(Object.keys(EXTRA_FILES).map(loadLevel));
+    return loadLevel(lv);
   }
 
   function syncUrl() {
@@ -355,7 +364,7 @@
       level = l;
       document.querySelectorAll('#levels button').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
       syncUrl();
-      (level === 'a1' ? Promise.resolve() : loadA2()).then(render);
+      loadFor(level).then(render);
     });
   });
 
@@ -472,7 +481,7 @@
     render();
   });
 
-  (level === 'a1' ? Promise.resolve() : loadA2()).then(() => {
+  loadFor(level).then(() => {
     render();
     if (location.hash) {
       const target = document.querySelector(location.hash);
