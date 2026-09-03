@@ -215,28 +215,6 @@ WORDS.push(
     <path d="M49.5 17 Q49.5 9 56 9 Q62.5 9 62.5 17 Q58 13 49.5 17 Z" fill="#1d2a5a" ${S}/>
     <ellipse cx="55" cy="18" rx="5" ry="2.2" fill="#4fa3e3" stroke="#333" stroke-width="1.5"/>` },
 
-  { cs: 'stadión', en: 'stadium', pattern: 'hrad (also spelt stadion)', gender: 'mi', level: 'B1', official: null, topic: 'leisure', svg: `
-    <path d="M14 34 V12" stroke="#333" stroke-width="5" stroke-linecap="round"/>
-    <path d="M14 34 V12" stroke="#9aa0a8" stroke-width="2.5" stroke-linecap="round"/>
-    <rect x="4" y="4" width="22" height="9" rx="2" fill="#7a7f87" ${S}/>
-    <circle cx="9.5" cy="8.5" r="2" fill="#f9c74f"/><circle cx="15" cy="8.5" r="2" fill="#f9c74f"/><circle cx="20.5" cy="8.5" r="2" fill="#f9c74f"/>
-    <path d="M105 34 V12" stroke="#333" stroke-width="5" stroke-linecap="round"/>
-    <path d="M105 34 V12" stroke="#9aa0a8" stroke-width="2.5" stroke-linecap="round"/>
-    <rect x="94" y="4" width="22" height="9" rx="2" fill="#7a7f87" ${S}/>
-    <circle cx="99.5" cy="8.5" r="2" fill="#f9c74f"/><circle cx="105" cy="8.5" r="2" fill="#f9c74f"/><circle cx="110.5" cy="8.5" r="2" fill="#f9c74f"/>
-    <path d="M4 46 Q60 36 116 46 V34 Q60 24 4 34 Z" fill="#ddd" ${S}/>
-    <path d="M8 42 Q60 32 112 42" fill="none" stroke="#e63946" stroke-width="5" stroke-dasharray="4 5" stroke-linecap="round"/>
-    <path d="M8 37 Q60 27 112 37" fill="none" stroke="#4fa3e3" stroke-width="5" stroke-dasharray="4 5" stroke-linecap="round"/>
-    <path d="M4 60 Q60 50 116 60 V48 Q60 38 4 48 Z" fill="#ddd" ${S}/>
-    <path d="M8 56 Q60 46 112 56" fill="none" stroke="#f9c74f" stroke-width="5" stroke-dasharray="4 5" stroke-linecap="round"/>
-    <path d="M8 51 Q60 41 112 51" fill="none" stroke="#1d2a5a" stroke-width="5" stroke-dasharray="4 5" stroke-linecap="round"/>
-    <path d="M4 74 Q60 64 116 74 V62 Q60 52 4 62 Z" fill="#ddd" ${S}/>
-    <path d="M8 70 Q60 60 112 70" fill="none" stroke="#e63946" stroke-width="5" stroke-dasharray="4 5" stroke-linecap="round"/>
-    <path d="M8 65 Q60 55 112 65" fill="none" stroke="#6cc06a" stroke-width="5" stroke-dasharray="4 5" stroke-linecap="round"/>
-    <rect x="4" y="74" width="112" height="22" fill="#6cc06a" ${S}/>
-    <path d="M4 82 H116" stroke="#fff" stroke-width="2.5"/>
-    <path d="M22 96 A18 18 0 0 0 4 78" fill="none" stroke="#fff" stroke-width="2.5"/>
-    <circle cx="30" cy="90" r="4.5" fill="#fff" ${S}/>` },
 
   { cs: 'pohár', en: 'cup, trophy; goblet', pattern: 'hrad', gender: 'mi', level: 'B1', official: null, topic: 'leisure', svg: `
     <path d="M32 30 Q19 36 27 50" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>

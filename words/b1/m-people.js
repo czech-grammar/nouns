@@ -225,22 +225,24 @@ WORDS.push(
     <circle cx="60" cy="42" r="4.5" fill="#ffd8b8" ${S}/>` },
 
   { cs: 'pilot', en: 'pilot', pattern: 'pán', gender: 'ma', level: 'B1', official: null, topic: 'family', svg: `
-    <path d="M4 64 Q12 30 56 22 H116 V90 H34 Q8 86 4 64 Z" fill="#fff" ${S}/>
-    <rect x="24" y="74" width="92" height="10" fill="#4fa3e3" ${S}/>
-    <path d="M10 52 Q18 44 30 40" fill="none" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round"/>
-    <path d="M40 26 H84 V66 H44 Q30 62 32 46 Q34 32 40 26 Z" fill="#dff3ff" ${S}/>
-    <circle cx="98" cy="42" r="5" fill="#dff3ff" ${S}/>
-    <circle cx="112" cy="42" r="5" fill="#dff3ff" ${S}/>
-    <path d="M44 58 L74 58 L77 66 L41 66 Z" fill="#1d2a5a" ${S}/>
-    <circle cx="59" cy="46" r="12" fill="#ffd8b8" ${S}/>
-    <path d="M46 42 Q46 29 59 29 Q72 29 72 42 Z" fill="#1d2a5a" ${S}/>
-    <rect x="45" y="38" width="28" height="6" fill="#fff" ${S}/>
-    <path d="M43 44 H75 L77 49 H41 Z" fill="#333" ${S}/>
-    <circle cx="59" cy="35" r="3.2" fill="#f9c74f" ${S}/>
-    <path d="M56 35 L49 33 L56 38 Z" fill="#f9c74f" ${S}/>
-    <path d="M62 35 L69 33 L62 38 Z" fill="#f9c74f" ${S}/>
-    <circle cx="54" cy="52" r="2.2" fill="#333"/><circle cx="64" cy="52" r="2.2" fill="#333"/>
-    <path d="M54 56 Q59 60 64 56" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>` },
+    <path d="M40 72 Q60 56 100 58 L112 62 Q114 70 108 74 L44 78 Q36 78 40 72 Z" fill="#fff" ${S}/>
+    <path d="M96 58 L104 36 L114 36 L110 60 Z" fill="#e63946" ${S}/>
+    <path d="M60 66 L52 82 L72 82 L74 68 Z" fill="#9aa0a8" ${S}/>
+    <path d="M42 70 Q48 64 54 70 Z" fill="#bde0fe" ${S}/>
+    <circle cx="66" cy="66" r="2.5" fill="#bde0fe"/><circle cx="76" cy="65" r="2.5" fill="#bde0fe"/><circle cx="86" cy="64" r="2.5" fill="#bde0fe"/>
+    <path d="M14 96 L18 60 H42 L46 96 Z" fill="#1d2a5a" ${S}/>
+    <path d="M24 60 L30 70 L36 60 Z" fill="#fff" ${S}/>
+    <path d="M20 66 L26 68 L32 66" fill="none" stroke="#f9c74f" stroke-width="2" stroke-linecap="round"/>
+    <path d="M18 70 H24 M36 70 H42" stroke="#f9c74f" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="30" cy="44" r="13" fill="#ffd8b8" ${S}/>
+    <circle cx="25" cy="45" r="2.2" fill="#333"/><circle cx="35" cy="45" r="2.2" fill="#333"/>
+    <path d="M25 51 Q30 55 35 51" fill="none" ${S}/>
+    <path d="M16 34 Q16 24 30 24 Q44 24 44 34 Z" fill="#1d2a5a" ${S}/>
+    <rect x="14" y="33" width="32" height="5" rx="2" fill="#fff" ${S}/>
+    <path d="M14 38 H46" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+    <path d="M26 29 L30 25 L34 29" fill="none" stroke="#f9c74f" stroke-width="2" stroke-linecap="round"/>
+    <path d="M42 66 L54 60" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+    <path d="M42 66 L54 60" stroke="#ffd8b8" stroke-width="3" stroke-linecap="round"/>` },
 
   { cs: 'fotograf', en: 'photographer', pattern: 'pán', gender: 'ma', level: 'B1', official: null, topic: 'family', svg: `
     <path d="M57 12 V3 M44 18 L36 11 M70 18 L78 11 M48 13 L42 6 M66 13 L72 6" fill="none" stroke="#f9c74f" stroke-width="3" stroke-linecap="round"/>
@@ -330,7 +332,7 @@ WORDS.push(
     <path d="M70 70 L88 60" fill="none" stroke="#5a3fbf" stroke-width="4" stroke-linecap="round"/>
     <circle cx="91" cy="59" r="5" fill="#ffd8b8" ${S}/>` },
 
-  { cs: 'rys', en: 'lynx (Mi rys = feature, trait)', pattern: 'pán (rysa, pl. rysi)', gender: 'ma', level: 'B1', official: null, topic: 'animals', svg: `
+  { cs: 'rys', en: 'lynx', pattern: 'pán (rysa, pl. rysi)', gender: 'ma', level: 'B1', official: null, topic: 'animals', svg: `
     <ellipse cx="26" cy="76" rx="12" ry="6.5" fill="#f4a261" ${S}/>
     <circle cx="17" cy="75" r="4" fill="#3b2a1a" ${S}/>
     <ellipse cx="44" cy="76" rx="25" ry="19" fill="#f4a261" ${S}/>

@@ -23,7 +23,7 @@ trait" sense is inanimate (rysu, pl. rysy).
 
 No food or time words this round; both sections are empty and left out.
 
-## Picturable core – 142 words
+## Picturable core – 141 words
 
 ### Ma 1. Rodina a lidé · family (people & professions) (15)
 
@@ -203,7 +203,7 @@ No food or time words this round; both sections are empty and left out.
 | úhel | angle | hrad (úhlu) | 2303 |
 | vzkaz | message, note | hrad | 3548 |
 
-### Mi 17. Volný čas · leisure (15)
+### Mi 17. Volný čas · leisure (14)
 
 | Czech | English | Pattern | Rank |
 |---|---|---|---|
@@ -214,7 +214,6 @@ No food or time words this round; both sections are empty and left out.
 | turnaj | tournament | stroj | 1876 |
 | sbor | choir; corps | hrad | 1985 |
 | svah | slope | hrad | 2429 |
-| stadión | stadium | hrad (also spelt stadion) | 2559 |
 | pohár | cup, trophy; goblet | hrad | 2584 |
 | zpěv | singing | hrad | 3077 |
 | večírek | party | hrad (večírku) | 3387 |
@@ -533,7 +532,9 @@ One table, animate first, then inanimate, each sorted by rank.
 | příznak | symptom, sign | hrad | 3943 |
 | únik | leak; escape | hrad | 3961 |
 
-## Left out on purpose – 79 words
+## Left out on purpose
+
+- stadión: spelling variant of stadion, which is already an A1 card (removed after review). – 79 words
 
 - Political, military-rank and administrative jargon: premiér, hejtman, náměstek, komisař, kandidát, volič, demokrat, komunista, představitel, příslušník, lídr, plukovník, důstojník, výbor, svaz, spolek, subjekt, útvar, spis, zákoník, protest.
 - Financial and commercial: investor, dodavatel, zisk, výdaj, úvěr, byznys, management, servis, operátor.

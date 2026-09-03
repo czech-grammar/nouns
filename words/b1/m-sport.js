@@ -36,7 +36,7 @@ WORDS.push(
   { cs: 'návštěvník', en: 'visitor', pattern: 'pán', gender: 'ma', level: 'B1', official: null, topic: 'travel', svg: `
     <rect x="74" y="60" width="42" height="8" rx="2" fill="#7a7f87" ${S}/>
     <rect x="80" y="68" width="30" height="28" fill="#9aa0a8" ${S}/>
-    <text x="95" y="87" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="8" fill="#fff">MUZEUM</text>
+    <text x="95" y="87" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="5.5" fill="#fff">MUZEUM</text>
     <rect x="88" y="52" width="14" height="8" fill="#f4a261" ${S}/>
     <ellipse cx="95" cy="38" rx="15" ry="17" fill="#f4a261" ${S}/>
     <path d="M80 34 Q70 40 82 48" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/>
