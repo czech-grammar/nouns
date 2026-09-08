@@ -17,13 +17,16 @@ for e in es:
         print('DUPLICATE', obj['cs']); problems += 1
     seen.add(obj['cs'])
     out.append(obj)
-a1 = [o for o, e in zip(out, es) if 'a2/' not in e['file'] and 'b1/' not in e['file']]
+a1 = [o for o, e in zip(out, es) if 'a2/' not in e['file'] and 'b1/' not in e['file'] and 'b2/' not in e['file']]
 a2 = [o for o, e in zip(out, es) if 'a2/' in e['file']]
 b1 = [o for o, e in zip(out, es) if 'b1/' in e['file']]
+b2 = [o for o, e in zip(out, es) if 'b2/' in e['file']]
 json.dump(a1, open('words.json', 'w', encoding='utf8'), ensure_ascii=False, indent=1)
 if a2:
     json.dump(a2, open('words-a2.json', 'w', encoding='utf8'), ensure_ascii=False, indent=1)
 if b1:
     json.dump(b1, open('words-b1.json', 'w', encoding='utf8'), ensure_ascii=False, indent=1)
-print(f'{len(a1)} objects written to words.json, {len(a2)} to words-a2.json, {len(b1)} to words-b1.json, {len(seen)} unique words, problems: {problems}')
+if b2:
+    json.dump(b2, open('words-b2.json', 'w', encoding='utf8'), ensure_ascii=False, indent=1)
+print(f'{len(a1)} objects written to words.json, {len(a2)} to words-a2.json, {len(b1)} to words-b1.json, {len(b2)} to words-b2.json, {len(seen)} unique words, problems: {problems}')
 sys.exit(1 if problems else 0)

@@ -1,0 +1,1262 @@
+[
+{
+"cs": "jeviště",
+"rank": 4010,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "bohatství",
+"rank": 4019,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "rozdělení",
+"rank": 4042,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "dobrodružství",
+"rank": 4079,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "plánování",
+"rank": 4082,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "stanovisko",
+"rank": 4111,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "otevření",
+"rank": 4115,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "odstranění",
+"rank": 4127,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "neštěstí",
+"rank": 4135,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "užívání",
+"rank": 4147,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "hnízdo",
+"rank": 4149,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "potěšení",
+"rank": 4152,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zrušení",
+"rank": 4155,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "království",
+"rank": 4163,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "ohrožení",
+"rank": 4171,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "foto",
+"rank": 4186,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "vlastnictví",
+"rank": 4205,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "maximum",
+"rank": 4221,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "klima",
+"rank": 4236,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "cestování",
+"rank": 4298,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "pódium",
+"rank": 4339,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "mládě",
+"rank": 4362,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "faktum",
+"rank": 4385,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "obvinění",
+"rank": 4386,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "kolečko",
+"rank": 4404,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zábradlí",
+"rank": 4454,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zaměření",
+"rank": 4466,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zápěstí",
+"rank": 4524,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "určení",
+"rank": 4547,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "selhání",
+"rank": 4555,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "vytváření",
+"rank": 4563,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "okénko",
+"rank": 4572,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "sdělení",
+"rank": 4577,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "stadium",
+"rank": 4580,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "nitro",
+"rank": 4598,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "mlčení",
+"rank": 4629,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "prkno",
+"rank": 4633,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "volno",
+"rank": 4666,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "představenstvo",
+"rank": 4684,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "varování",
+"rank": 4688,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "svědectví",
+"rank": 4697,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zkoumání",
+"rank": 4698,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zasedání",
+"rank": 4723,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "konto",
+"rank": 4731,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "data",
+"rank": 4736,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zoufalství",
+"rank": 4739,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "psí",
+"rank": 4758,
+"gender": "n",
+"has_decl": false,
+"also_adj_or_verb": true
+},
+{
+"cs": "prodloužení",
+"rank": 4777,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "nařízení",
+"rank": 4782,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "vaření",
+"rank": 4789,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "poslání",
+"rank": 4794,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "lano",
+"rank": 4797,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "pouzdro",
+"rank": 4804,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "odvolání",
+"rank": 4808,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "šetření",
+"rank": 4809,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "hlasování",
+"rank": 4838,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "minimum",
+"rank": 4839,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "shromáždění",
+"rank": 4872,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "vrata",
+"rank": 4874,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "čekání",
+"rank": 4878,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "vysílání",
+"rank": 4886,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "dvojče",
+"rank": 4899,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "sídliště",
+"rank": 4970,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "fórum",
+"rank": 4973,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "sebevědomí",
+"rank": 5004,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "semeno",
+"rank": 5016,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "kamna",
+"rank": 5049,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "řemeslo",
+"rank": 5065,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "čtvrtletí",
+"rank": 5086,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "čerpadlo",
+"rank": 5096,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "hraní",
+"rank": 5121,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "volání",
+"rank": 5134,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "šíření",
+"rank": 5166,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "bytí",
+"rank": 5206,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "mínění",
+"rank": 5242,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zvyšování",
+"rank": 5305,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zadání",
+"rank": 5346,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "vedro",
+"rank": 5378,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "porozumění",
+"rank": 5388,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "pohodlí",
+"rank": 5408,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "ovzduší",
+"rank": 5429,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "znění",
+"rank": 5523,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "panství",
+"rank": 5529,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "dýchání",
+"rank": 5540,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "nebesa",
+"rank": 5570,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "hlášení",
+"rank": 5573,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "šílenství",
+"rank": 5582,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "pozvání",
+"rank": 5609,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "pomyšlení",
+"rank": 5623,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "skóre",
+"rank": 5675,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "dvířka",
+"rank": 5678,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "sedlo",
+"rank": 5746,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "východisko",
+"rank": 5750,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "děcko",
+"rank": 5754,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "spaní",
+"rank": 5784,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "rozmezí",
+"rank": 5800,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "školení",
+"rank": 5815,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "nářadí",
+"rank": 5825,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zdivo",
+"rank": 5850,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "střevo",
+"rank": 5858,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "derby",
+"rank": 5871,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "semifinále",
+"rank": 5880,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "ubytování",
+"rank": 5892,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "stvoření",
+"rank": 5897,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "stádo",
+"rank": 5902,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "angažmá",
+"rank": 5935,
+"gender": "n",
+"has_decl": false,
+"also_adj_or_verb": false
+},
+{
+"cs": "povědomí",
+"rank": 5953,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "užití",
+"rank": 6035,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "uvolnění",
+"rank": 6056,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "opakování",
+"rank": 6114,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "rozložení",
+"rank": 6143,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "chodidlo",
+"rank": 6184,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "tisíciletí",
+"rank": 6189,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "členství",
+"rank": 6194,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "trvání",
+"rank": 6199,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "sluníčko",
+"rank": 6241,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "vstupné",
+"rank": 6252,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "jezírko",
+"rank": 6257,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "dělo",
+"rank": 6272,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "křesťanství",
+"rank": 6283,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zemětřesení",
+"rank": 6298,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "bláto",
+"rank": 6322,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "odhalení",
+"rank": 6355,
+"gender": "n",
+"has_decl": false,
+"also_adj_or_verb": false
+},
+{
+"cs": "plemeno",
+"rank": 6392,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "víko",
+"rank": 6400,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "bahno",
+"rank": 6441,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "osvobození",
+"rank": 6455,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "objetí",
+"rank": 6492,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "stavebnictví",
+"rank": 6582,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "žebro",
+"rank": 6611,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "dělení",
+"rank": 6616,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "předměstí",
+"rank": 6625,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "držení",
+"rank": 6654,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "hejno",
+"rank": 6666,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "trápení",
+"rank": 6667,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "sezení",
+"rank": 6700,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "stárnutí",
+"rank": 6724,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "vodítko",
+"rank": 6733,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "turné",
+"rank": 6794,
+"gender": "n",
+"has_decl": false,
+"also_adj_or_verb": false
+},
+{
+"cs": "vyhledávání",
+"rank": 6810,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "akvárium",
+"rank": 6831,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "referendum",
+"rank": 6872,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "útočiště",
+"rank": 6874,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "šampaňské",
+"rank": 6893,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "čtvrtfinále",
+"rank": 6953,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "léčivo",
+"rank": 6955,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "podlaží",
+"rank": 6985,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "ponětí",
+"rank": 7019,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "hnojivo",
+"rank": 7033,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "peří",
+"rank": 7056,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "ňadro",
+"rank": 7063,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "partnerství",
+"rank": 7066,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "podzemí",
+"rank": 7067,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "propuštění",
+"rank": 7138,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "opěradlo",
+"rank": 7179,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "chápání",
+"rank": 7225,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "kouření",
+"rank": 7257,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "sousedství",
+"rank": 7281,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "usnesení",
+"rank": 7283,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zrcátko",
+"rank": 7343,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "jmění",
+"rank": 7354,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zrno",
+"rank": 7441,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "seno",
+"rank": 7451,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "břemeno",
+"rank": 7454,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "stavení",
+"rank": 7619,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "obilí",
+"rank": 7630,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "impérium",
+"rank": 7635,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "poranění",
+"rank": 7678,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "kladivo",
+"rank": 7741,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zpravodajství",
+"rank": 7747,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "zajetí",
+"rank": 7805,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "bezvědomí",
+"rank": 7818,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "molo",
+"rank": 7827,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "příslušenství",
+"rank": 7842,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "prostěradlo",
+"rank": 7861,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "pohoří",
+"rank": 7870,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "odmítnutí",
+"rank": 7878,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "vyčerpání",
+"rank": 7928,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "váhání",
+"rank": 7929,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+},
+{
+"cs": "křoví",
+"rank": 7970,
+"gender": "n",
+"has_decl": true,
+"also_adj_or_verb": false
+}
+]
