@@ -2,7 +2,7 @@
 
 Picture flash cards for A1 Czech nouns, Czech → English, one child-friendly
 inline SVG per word, colour-coded by gender (F red, Ma dark blue, Mi light
-blue, N green, the Czech Step by Step convention). All four genders are covered for A1 and A2, plus the picturable B1 core. No build step; open `index.html`.
+blue, N green, the Czech Step by Step convention). All four genders are covered for A1 and A2, plus the picturable B1 core; the B2 pictures are drawn but not yet linked in. No build step; open `index.html`.
 
 - `index.html` – the page: cards grouped by topic, level filter (A1 default, A2, B1, all;
   the A2 and B1 decks load on demand), gender filter (Ma, Mi, F, N),
@@ -28,8 +28,13 @@ blue, N green, the Czech Step by Step convention). All four genders are covered 
   noun-first on the Czech Wiktionary, function-word homographs removed) built by
   `check-candidates.py`. `b1-masculine.md`, `b1-feminine.md`, `b1-neuter.md` sort ranks 1–4000 into
   picturable, abstract and left-out, with English and pattern. All three picturable sets are drawn
-  in `words/b1/` (142 masculine, 103 feminine, 46 neuter) and exported to
+  in `words/b1/` (141 masculine, 103 feminine, 46 neuter) and exported to
   `words-b1.json`; the page loads them when B1 or Vše is chosen.
+- `tools/b2/` – B2 groundwork: `candidates-{m,f,n}-8000.json` (ranks 4,001–8,000 of the
+  same verified list), the curating brief, and `make-prompts.py`, which turns the
+  picturable tables of `b2-masculine.md`, `b2-feminine.md`, `b2-neuter.md` into one
+  drawing brief per file. B2 decks live in `words/b2/` (140 masculine, 149 feminine,
+  50 neuter) and export to `words-b2.json`; not yet loaded by the page.
 - `STYLE.md` – drawing rules and palette for new pictures.
 - `declension.json` – a declension table (7 cases, singular and plural) for every
   card plus the 14 model words; 891 from the Czech Wiktionary (CC BY-SA, fetched by
