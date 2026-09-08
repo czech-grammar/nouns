@@ -82,7 +82,7 @@ B1 decks live in `words/b1/` with `level: 'B1'` and `official: null` (the offici
 list stops at A2); exported to `words-b1.json`, loaded when B1 or Vše is chosen.
 
 B2 decks live in `words/b2/` with `level: 'B2'` and `official: null`; exported to
-`words-b2.json`, not loaded by the page until linked. Two-sense words carry both
+`words-b2.json`, loaded when B2 or Vše is chosen. Two-sense words carry both
 senses in the picture (main sense large, second small in a corner) and both in
 the gloss, separated by a semicolon.
 
