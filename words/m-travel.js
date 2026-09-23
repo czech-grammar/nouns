@@ -103,17 +103,15 @@ WORDS.push(
     <rect x="4" y="4" width="112" height="92" rx="8" fill="none" ${S}/>` },
 
   { cs: 'svět', en: 'world', pattern: 'hrad', gender: 'mi', level: 'A1', official: null, topic: 'travel', svg: `
-    <ellipse cx="60" cy="92" rx="26" ry="4" fill="#7a7f87" ${S}/>
-    <rect x="56" y="78" width="8" height="12" fill="#9aa0a8" ${S}/>
-    <path d="M60 4 A42 42 0 0 1 60 88" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
-    <path d="M60 4 A42 42 0 0 1 60 88" fill="none" stroke="#9aa0a8" stroke-width="4.5" stroke-linecap="round"/>
-    <circle cx="60" cy="46" r="34" fill="#4fa3e3" ${S}/>
-    <path d="M30 34 Q40 28 46 38 Q42 50 38 62 Q28 58 30 34 Z" fill="#6cc06a" stroke="#333" stroke-width="1.5"/>
-    <path d="M50 22 Q62 18 66 28 Q60 34 64 44 Q60 58 52 54 Q44 40 50 22 Z" fill="#6cc06a" stroke="#333" stroke-width="1.5"/>
-    <path d="M72 30 Q88 24 90 42 Q84 54 74 46 Q68 38 72 30 Z" fill="#6cc06a" stroke="#333" stroke-width="1.5"/>
-    <path d="M82 60 Q90 58 90 66 Q84 70 80 66 Z" fill="#6cc06a" stroke="#333" stroke-width="1.5"/>
-    <path d="M54 34 V16" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
-    <path d="M54 16 L66 20 L54 24 Z" fill="#e63946" ${S}/>` },
+    <rect x="6" y="14" width="108" height="72" rx="4" fill="#bde0fe" ${S}/>
+    <path d="M6 50 H114 M6 32 H114 M6 68 H114 M33 14 V86 M60 14 V86 M87 14 V86" fill="none" stroke="#8fc3ea" stroke-width="1.5"/>
+    <path d="M14 26 Q24 20 40 22 Q48 26 44 33 Q38 36 36 43 Q33 48 30 51 Q24 46 20 40 Q14 34 14 26 Z" fill="#6cc06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="47" cy="20" rx="5" ry="3" fill="#6cc06a" stroke="#333" stroke-width="2"/>
+    <path d="M34 54 Q42 52 46 58 Q44 67 40 75 Q36 80 35 72 Q32 62 34 54 Z" fill="#6cc06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M55 25 Q63 20 69 24 Q68 30 62 32 Q56 33 55 25 Z" fill="#6cc06a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M56 36 Q66 34 72 40 Q72 50 66 58 Q62 70 58 62 Q54 50 52 44 Q52 38 56 36 Z" fill="#f9c74f" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M71 22 Q88 16 104 23 Q109 30 100 36 Q94 42 88 40 Q82 46 78 40 Q72 36 71 30 Z" fill="#8fd18a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M92 62 Q102 58 106 64 Q104 72 96 72 Q90 70 92 62 Z" fill="#f4a261" stroke="#333" stroke-width="2" stroke-linejoin="round"/>` },
 
   { cs: 'rybník', en: 'pond', pattern: 'hrad', gender: 'mi', level: 'A1', official: 'A1', topic: 'travel', svg: `
     <rect x="4" y="4" width="112" height="92" rx="8" fill="#8fd18a"/>
