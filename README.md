@@ -6,7 +6,7 @@ blue, N green, the Czech Step by Step convention). All four genders are covered 
 
 - `index.html` – the page: cards grouped by topic, level filter (A1 default, A2, B1, B2, all;
   the A2, B1 and B2 decks load on demand), gender filter (Ma, Mi, F, N),
-  show/hide Czech or English, tap a card to reveal; cards with an irregular declension (plural-only,
+  show/hide Czech or English, a topic row that shows one topic at a time (Vše for all), tap a card to reveal; cards with an irregular declension (plural-only,
   adjective-declined, indeclinable, irregular, or an odd plural) have a yellow tint,
   cards on a regular pattern with a stem change (dům, domu) a fainter cream, and all
   show their pattern on hover. The 🔊 button is hidden
