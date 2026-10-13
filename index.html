@@ -80,6 +80,7 @@
     background: #f1e6d4; border-radius: 999px; padding: 4px 10px;
   }
   nav.topics a:hover { background: #e8d8be; }
+  nav.topics a[aria-pressed="true"] { background: var(--ink); color: #fff; }
   .card {
     background: var(--card);
     border-radius: 20px;
@@ -264,7 +265,7 @@
   ];
   const deck = document.getElementById('deck');
   // Filters live in the query string so a view can be bookmarked or shared,
-  // e.g. ?gender=f&mode=hide-en#t-food
+  // e.g. ?gender=f&mode=hide-en#t-food. The hash picks one topic; the others are hidden.
   const MODES = ['both', 'hide-en', 'hide-cs'];
   const GENDERS = ['all', 'ma', 'mi', 'f', 'n'];
   const LEVELS = ['a1', 'a2', 'b1', 'b2', 'all'];
@@ -334,16 +335,33 @@
     return card;
   }
 
+  // The selected topic comes from the hash (#t-food); an unknown hash means all topics.
+  const topicFromHash = () => {
+    const key = location.hash.startsWith('#t-') ? location.hash.slice(3) : '';
+    return TOPICS.some(t => t[0] === key) ? key : '';
+  };
   function render() {
     deck.innerHTML = '';
     const nav = document.getElementById('topicnav');
     nav.innerHTML = '';
+    const topic = topicFromHash();
     const visible = order.filter(i =>
       (gender === 'all' || (WORDS[i].gender || 'f') === gender) &&
       (level === 'all' || (WORDS[i].level || 'A1').toLowerCase() === level));
+    const all = document.createElement('a');
+    all.href = '#'; all.textContent = 'Vše';
+    all.setAttribute('aria-pressed', String(!topic));
+    nav.appendChild(all);
+    let shown = 0;
     for (const [key, cs, en] of TOPICS) {
       const idx = visible.filter(i => (WORDS[i].topic || 'other') === key);
       if (!idx.length) continue;
+      const a = document.createElement('a');
+      a.href = '#t-' + key; a.textContent = cs;
+      a.setAttribute('aria-pressed', String(key === topic));
+      nav.appendChild(a);
+      if (topic && key !== topic) continue;
+      shown += idx.length;
       const sec = document.createElement('section');
       sec.className = 'topic'; sec.id = 't-' + key;
       sec.innerHTML = `<h2>${cs}<small>${en} &middot; ${idx.length}</small></h2>`;
@@ -352,12 +370,11 @@
       for (const i of idx) grid.appendChild(makeCard(WORDS[i]));
       sec.appendChild(grid);
       deck.appendChild(sec);
-      const a = document.createElement('a');
-      a.href = '#t-' + key; a.textContent = cs;
-      nav.appendChild(a);
     }
-    document.getElementById('count').textContent = visible.length + ' / ' + WORDS.length;
+    document.getElementById('count').textContent = shown + ' / ' + WORDS.length;
   }
+  // Topic links change the hash; re-render instead of letting the browser scroll.
+  window.addEventListener('hashchange', (e) => { e.preventDefault(); render(); window.scrollTo(0, 0); });
 
   document.querySelectorAll('#levels button').forEach(btn => {
     const l = btn.dataset.level;
@@ -483,13 +500,7 @@
     render();
   });
 
-  loadFor(level).then(() => {
-    render();
-    if (location.hash) {
-      const target = document.querySelector(location.hash);
-      if (target) target.scrollIntoView();
-    }
-  });
+  loadFor(level).then(render);
 </script>
 </body>
 </html>
